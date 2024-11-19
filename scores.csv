@@ -1,0 +1,3018 @@
+email,continent,country,sleep_hours,employment_status,study_hours,webinar_attendance_duration,score
+student1@alx.edu,Africa,Nigeria,7,Employed,18,39,91
+student2@alx.edu,Africa,South Africa,9,Employed,38,78,100
+student3@alx.edu,Africa,Kenya,9,Employed,31,63,100
+student4@alx.edu,Africa,Rwanda,8,Unemployed,26,48,100
+student5@alx.edu,Africa,Morocco,9,Employed,10,25,76
+student6@alx.edu,Africa,Egypt,6,Unemployed,10,22,71
+student7@alx.edu,Africa,Ghana,8,Unemployed,,13,50
+student8@alx.edu,Africa,Zimbabwe,3,Employed,35,71,100
+student9@alx.edu,Africa,Ethiopia,4,Employed,26,47,100
+student10@alx.edu,Africa,Nigeria,3,Unemployed,30,61,100
+student11@alx.edu,Africa,South Africa,5,Unemployed,6,8,53
+student12@alx.edu,Africa,Kenya,3,Unemployed,39,74,100
+student13@alx.edu,Africa,Rwanda,10,Unemployed,34,64,100
+student14@alx.edu,Africa,Morocco,3,Employed,12,28,84
+student15@alx.edu,Africa,Egypt,1,Unemployed,11,21,75
+student16@alx.edu,Africa,Ghana,5,Employed,11,27,74
+student17@alx.edu,Africa,Zimbabwe,1,Employed,16,30,87
+student18@alx.edu,Africa,Ethiopia,1,Employed,23,42,100
+student19@alx.edu,Africa,Nigeria,2,Unemployed,20,37,100
+student20@alx.edu,Africa,South Africa,5,Unemployed,15,34,91
+student21@alx.edu,Africa,Kenya,4,Employed,26,52,100
+student22@alx.edu,Africa,Rwanda,8,Employed,10,18,59
+student23@alx.edu,Africa,Morocco,7,Employed,15,31,85
+student24@alx.edu,Africa,Egypt,4,Employed,18,37,95
+student25@alx.edu,Africa,Ghana,3,Unemployed,21,45,100
+student26@alx.edu,Africa,Zimbabwe,3,Employed,32,69,100
+student27@alx.edu,Africa,Ethiopia,8,Unemployed,12,23,76
+student28@alx.edu,Africa,Nigeria,1,Unemployed,23,42,100
+student29@alx.edu,Africa,South Africa,0,Unemployed,26,50,100
+student30@alx.edu,Africa,Kenya,8,Unemployed,7,14,68
+student31@alx.edu,Africa,Rwanda,5,Employed,26,50,100
+student32@alx.edu,Africa,Morocco,1,Unemployed,11,19,81
+student33@alx.edu,Africa,Egypt,2,Employed,7,16,61
+student34@alx.edu,Africa,Ghana,9,Unemployed,,76,100
+student35@alx.edu,Africa,Zimbabwe,9,Employed,39,78,100
+student36@alx.edu,Africa,Ethiopia,7,Employed,33,64,100
+student37@alx.edu,Africa,Nigeria,5,Employed,16,31,88
+student38@alx.edu,Africa,South Africa,5,Employed,8,14,66
+student39@alx.edu,Africa,Kenya,10,Employed,29,61,100
+student40@alx.edu,Africa,Rwanda,10,Unemployed,20,44,92
+student41@alx.edu,Africa,Morocco,2,Employed,9,13,64
+student42@alx.edu,Africa,Egypt,8,Unemployed,22,42,100
+student43@alx.edu,Africa,Ghana,2,Employed,6,8,59
+student44@alx.edu,Africa,Zimbabwe,2,Unemployed,37,72,100
+student45@alx.edu,Africa,Ethiopia,7,Unemployed,14,28,76
+student46@alx.edu,Africa,Nigeria,4,Unemployed,28,52,100
+student47@alx.edu,Africa,South Africa,9,Employed,16,29,84
+student48@alx.edu,Africa,Kenya,1,Unemployed,23,43,100
+student49@alx.edu,Africa,Rwanda,5,Employed,24,49,100
+student50@alx.edu,Africa,Morocco,9,Employed,11,23,67
+student51@alx.edu,Africa,Egypt,9,Unemployed,39,76,100
+student52@alx.edu,Africa,Ghana,2,Unemployed,32,65,100
+student53@alx.edu,Africa,Zimbabwe,4,Employed,38,74,100
+student54@alx.edu,Africa,Ethiopia,6,Employed,36,72,100
+student55@alx.edu,Africa,Nigeria,2,Employed,26,57,100
+student56@alx.edu,Africa,South Africa,10,Employed,37,79,100
+student57@alx.edu,Africa,Kenya,9,Employed,8,12,58
+student58@alx.edu,Africa,Rwanda,2,Employed,12,26,89
+student59@alx.edu,Africa,Morocco,1,Unemployed,7,16,67
+student60@alx.edu,Africa,Egypt,1,Employed,16,29,100
+student61@alx.edu,Africa,Ghana,9,Employed,19,40,87
+student62@alx.edu,Africa,Zimbabwe,2,Unemployed,14,34,100
+student63@alx.edu,Africa,Ethiopia,4,Unemployed,34,65,100
+student64@alx.edu,Africa,Nigeria,4,Unemployed,17,32,90
+student65@alx.edu,Africa,South Africa,6,Employed,15,33,86
+student66@alx.edu,Africa,Kenya,1,Unemployed,24,49,100
+student67@alx.edu,Africa,Rwanda,2,Unemployed,10,22,80
+student68@alx.edu,Africa,Morocco,9,Employed,33,67,100
+student69@alx.edu,Africa,Egypt,9,Employed,8,16,55
+student70@alx.edu,Africa,Ghana,8,Employed,,75,100
+student71@alx.edu,Africa,Zimbabwe,0,Employed,32,67,100
+student72@alx.edu,Africa,Ethiopia,3,Unemployed,12,27,87
+student73@alx.edu,Africa,Nigeria,6,Employed,5,10,52
+student74@alx.edu,Africa,South Africa,3,Unemployed,34,67,100
+student75@alx.edu,Africa,Kenya,9,Employed,30,55,100
+student76@alx.edu,Africa,Rwanda,6,Unemployed,31,63,100
+student77@alx.edu,Africa,Morocco,1,Employed,32,66,100
+student78@alx.edu,Africa,Egypt,9,Employed,8,15,54
+student79@alx.edu,Africa,Ghana,10,Employed,18,38,95
+student80@alx.edu,Africa,Zimbabwe,1,Unemployed,9,17,80
+student81@alx.edu,Africa,Ethiopia,5,Unemployed,35,72,100
+student82@alx.edu,Africa,Nigeria,3,Unemployed,27,51,100
+student83@alx.edu,Africa,South Africa,4,Employed,17,33,91
+student84@alx.edu,Africa,Kenya,2,Unemployed,7,14,69
+student85@alx.edu,Africa,Rwanda,6,Employed,16,32,92
+student86@alx.edu,Africa,Morocco,10,Employed,16,32,89
+student87@alx.edu,Africa,Egypt,5,Employed,31,61,100
+student88@alx.edu,Africa,Ghana,1,Unemployed,,57,100
+student89@alx.edu,Africa,Zimbabwe,6,Employed,36,71,100
+student90@alx.edu,Africa,Ethiopia,3,Unemployed,22,38,100
+student91@alx.edu,Africa,Nigeria,9,Employed,9,24,67
+student92@alx.edu,Africa,South Africa,4,Employed,30,64,100
+student93@alx.edu,Africa,Kenya,2,Employed,32,59,100
+student94@alx.edu,Africa,Rwanda,2,Unemployed,25,51,100
+student95@alx.edu,Africa,Morocco,8,Unemployed,32,62,100
+student96@alx.edu,Africa,Egypt,3,Employed,22,45,100
+student97@alx.edu,Africa,Ghana,8,Unemployed,23,47,100
+student98@alx.edu,Africa,Zimbabwe,2,Unemployed,20,39,100
+student99@alx.edu,Africa,Ethiopia,3,Employed,6,9,60
+student100@alx.edu,Africa,Nigeria,5,Employed,9,15,59
+student101@alx.edu,Africa,South Africa,9,Unemployed,6,9,40
+student102@alx.edu,Africa,Kenya,9,Employed,27,52,100
+student103@alx.edu,Africa,Rwanda,2,Employed,16,32,91
+student104@alx.edu,Africa,Morocco,4,Unemployed,23,43,100
+student105@alx.edu,Africa,Egypt,1,Unemployed,37,76,100
+student106@alx.edu,Africa,Ghana,5,Employed,14,32,79
+student107@alx.edu,Africa,Zimbabwe,5,Unemployed,19,37,99
+student108@alx.edu,Africa,Ethiopia,9,Unemployed,31,64,100
+student109@alx.edu,Africa,Nigeria,9,Employed,13,28,74
+student110@alx.edu,Africa,South Africa,4,Employed,8,17,73
+student111@alx.edu,Africa,Kenya,5,Employed,15,31,80
+student112@alx.edu,Africa,Rwanda,9,Employed,11,24,71
+student113@alx.edu,Africa,Morocco,8,Unemployed,38,77,100
+student114@alx.edu,Africa,Egypt,0,Unemployed,33,63,100
+student115@alx.edu,Africa,Ghana,3,Employed,27,57,100
+student116@alx.edu,Africa,Zimbabwe,4,Employed,36,74,100
+student117@alx.edu,Africa,Ethiopia,2,Employed,33,64,100
+student118@alx.edu,Africa,Nigeria,2,Employed,12,23,75
+student119@alx.edu,Africa,South Africa,0,Unemployed,36,75,100
+student120@alx.edu,Africa,Kenya,6,Unemployed,24,47,100
+student121@alx.edu,Africa,Rwanda,3,Employed,33,70,100
+student122@alx.edu,Africa,Morocco,1,Employed,36,80,100
+student123@alx.edu,Africa,Egypt,2,Unemployed,16,30,94
+student124@alx.edu,Africa,Ghana,8,Unemployed,9,14,64
+student125@alx.edu,Africa,Zimbabwe,9,Unemployed,13,27,77
+student126@alx.edu,Africa,Ethiopia,5,Unemployed,20,42,100
+student127@alx.edu,Africa,Nigeria,4,Employed,34,67,100
+student128@alx.edu,Africa,South Africa,10,Unemployed,35,75,100
+student129@alx.edu,Africa,Kenya,2,Unemployed,5,6,62
+student130@alx.edu,Africa,Rwanda,2,Unemployed,23,48,100
+student131@alx.edu,Africa,Morocco,3,Employed,20,37,100
+student132@alx.edu,Africa,Egypt,2,Employed,13,31,76
+student133@alx.edu,Africa,Ghana,4,Unemployed,9,24,73
+student134@alx.edu,Africa,Zimbabwe,9,Unemployed,17,31,78
+student135@alx.edu,Africa,Ethiopia,6,Employed,38,74,100
+student136@alx.edu,Africa,Nigeria,4,Employed,16,35,91
+student137@alx.edu,Africa,South Africa,9,Unemployed,23,45,100
+student138@alx.edu,Africa,Kenya,0,Employed,30,59,100
+student139@alx.edu,Africa,Rwanda,2,Unemployed,18,36,100
+student140@alx.edu,Africa,Morocco,6,Employed,39,72,100
+student141@alx.edu,Africa,Egypt,6,Unemployed,39,77,100
+student142@alx.edu,Africa,Ghana,0,Unemployed,14,26,88
+student143@alx.edu,Africa,Zimbabwe,4,Employed,22,43,99
+student144@alx.edu,Africa,Ethiopia,6,Unemployed,16,35,86
+student145@alx.edu,Africa,Nigeria,7,Employed,15,26,79
+student146@alx.edu,Africa,South Africa,6,Employed,6,15,57
+student147@alx.edu,Africa,Kenya,3,Employed,26,52,100
+student148@alx.edu,Africa,Rwanda,1,Unemployed,23,44,100
+student149@alx.edu,Africa,Morocco,4,Unemployed,7,16,65
+student150@alx.edu,Africa,Egypt,1,Unemployed,15,31,93
+student151@alx.edu,Africa,Ghana,9,Employed,37,75,100
+student152@alx.edu,Africa,Zimbabwe,5,Unemployed,13,30,81
+student153@alx.edu,Africa,Ethiopia,3,Unemployed,10,19,77
+student154@alx.edu,Africa,Nigeria,8,Unemployed,22,42,100
+student155@alx.edu,Africa,South Africa,5,Unemployed,39,76,100
+student156@alx.edu,Africa,Kenya,3,Employed,13,24,84
+student157@alx.edu,Africa,Rwanda,8,Unemployed,29,66,100
+student158@alx.edu,Africa,Morocco,9,Employed,32,67,100
+student159@alx.edu,Africa,Egypt,7,Employed,13,23,79
+student160@alx.edu,Africa,Ghana,0,Employed,30,57,100
+student161@alx.edu,Africa,Zimbabwe,6,Employed,18,37,85
+student162@alx.edu,Africa,Ethiopia,8,Unemployed,27,56,100
+student163@alx.edu,Africa,Nigeria,1,Unemployed,27,56,100
+student164@alx.edu,Africa,South Africa,2,Unemployed,24,47,100
+student165@alx.edu,Africa,Kenya,9,Employed,8,16,56
+student166@alx.edu,Africa,Rwanda,0,Unemployed,34,69,100
+student167@alx.edu,Africa,Morocco,8,Employed,16,33,79
+student168@alx.edu,Africa,Egypt,5,Unemployed,,16,66
+student169@alx.edu,Africa,Ghana,4,Unemployed,6,12,62
+student170@alx.edu,Africa,Zimbabwe,0,Unemployed,26,49,100
+student171@alx.edu,Africa,Ethiopia,8,Employed,29,58,100
+student172@alx.edu,Africa,Nigeria,4,Unemployed,6,20,67
+student173@alx.edu,Africa,South Africa,5,Employed,23,47,100
+student174@alx.edu,Africa,Kenya,7,Employed,13,25,73
+student175@alx.edu,Africa,Rwanda,7,Employed,28,58,100
+student176@alx.edu,Africa,Morocco,10,Unemployed,11,24,80
+student177@alx.edu,Africa,Egypt,5,Unemployed,29,60,100
+student178@alx.edu,Africa,Ghana,4,Employed,19,39,95
+student179@alx.edu,Africa,Zimbabwe,10,Employed,38,82,100
+student180@alx.edu,Africa,Ethiopia,6,Employed,10,16,63
+student181@alx.edu,Africa,Nigeria,3,Employed,17,35,88
+student182@alx.edu,Africa,South Africa,1,Employed,9,15,77
+student183@alx.edu,Africa,Kenya,8,Unemployed,37,76,100
+student184@alx.edu,Africa,Rwanda,4,Unemployed,36,69,100
+student185@alx.edu,Africa,Morocco,7,Unemployed,14,27,75
+student186@alx.edu,Africa,Egypt,5,Employed,,55,100
+student187@alx.edu,Africa,Ghana,2,Employed,34,70,100
+student188@alx.edu,Africa,Zimbabwe,6,Unemployed,24,52,100
+student189@alx.edu,Africa,Ethiopia,1,Unemployed,24,43,100
+student190@alx.edu,Africa,Nigeria,4,Employed,13,27,86
+student191@alx.edu,Africa,South Africa,5,Employed,8,14,66
+student192@alx.edu,Africa,Kenya,4,Employed,36,69,100
+student193@alx.edu,Africa,Rwanda,7,Unemployed,37,72,100
+student194@alx.edu,Africa,Morocco,8,Employed,27,53,100
+student195@alx.edu,Africa,Egypt,8,Employed,17,41,93
+student196@alx.edu,Africa,Ghana,0,Employed,17,36,100
+student197@alx.edu,Africa,Zimbabwe,2,Unemployed,30,57,100
+student198@alx.edu,Africa,Ethiopia,5,Employed,36,71,100
+student199@alx.edu,Africa,Nigeria,9,Unemployed,36,75,100
+student200@alx.edu,Africa,South Africa,8,Employed,32,71,100
+student201@alx.edu,Africa,Kenya,8,Employed,27,50,100
+student202@alx.edu,Africa,Rwanda,3,Unemployed,8,10,65
+student203@alx.edu,Africa,Morocco,4,Employed,11,27,75
+student204@alx.edu,Africa,Egypt,5,Unemployed,36,74,100
+student205@alx.edu,Africa,Ghana,2,Employed,26,50,100
+student206@alx.edu,Africa,Zimbabwe,0,Unemployed,5,12,70
+student207@alx.edu,Africa,Ethiopia,9,Employed,9,9,54
+student208@alx.edu,Africa,Nigeria,2,Unemployed,28,56,100
+student209@alx.edu,Africa,South Africa,2,Unemployed,5,11,51
+student210@alx.edu,Africa,Kenya,1,Employed,11,24,72
+student211@alx.edu,Africa,Rwanda,9,Unemployed,24,45,100
+student212@alx.edu,Africa,Morocco,6,Employed,29,59,100
+student213@alx.edu,Africa,Egypt,7,Unemployed,28,53,100
+student214@alx.edu,Africa,Ghana,9,Employed,13,26,73
+student215@alx.edu,Africa,Zimbabwe,3,Employed,30,57,100
+student216@alx.edu,Africa,Ethiopia,6,Employed,13,25,73
+student217@alx.edu,Africa,Nigeria,0,Employed,16,30,97
+student218@alx.edu,Africa,South Africa,2,Unemployed,31,64,100
+student219@alx.edu,Africa,Kenya,8,Employed,28,58,100
+student220@alx.edu,Africa,Rwanda,8,Employed,35,69,100
+student221@alx.edu,Africa,Morocco,4,Employed,28,56,100
+student222@alx.edu,Africa,Egypt,4,Employed,25,45,100
+student223@alx.edu,Africa,Ghana,5,Employed,8,16,56
+student224@alx.edu,Africa,Zimbabwe,0,Unemployed,18,36,100
+student225@alx.edu,Africa,Ethiopia,2,Employed,14,36,89
+student226@alx.edu,Africa,Nigeria,2,Unemployed,14,24,91
+student227@alx.edu,Africa,South Africa,3,Unemployed,39,83,100
+student228@alx.edu,Africa,Kenya,8,Employed,19,41,97
+student229@alx.edu,Africa,Rwanda,3,Employed,36,73,100
+student230@alx.edu,Africa,Morocco,2,Unemployed,27,59,100
+student231@alx.edu,Africa,Egypt,5,Unemployed,33,67,100
+student232@alx.edu,Africa,Ghana,9,Unemployed,23,46,100
+student233@alx.edu,Africa,Zimbabwe,2,Employed,25,50,100
+student234@alx.edu,Africa,Ethiopia,1,Unemployed,22,48,100
+student235@alx.edu,Africa,Nigeria,4,Unemployed,12,27,81
+student236@alx.edu,Africa,South Africa,7,Employed,30,59,100
+student237@alx.edu,Africa,Kenya,6,Unemployed,15,26,82
+student238@alx.edu,Africa,Rwanda,8,Employed,6,11,54
+student239@alx.edu,Africa,Morocco,10,Unemployed,28,53,100
+student240@alx.edu,Africa,Egypt,8,Employed,,22,70
+student241@alx.edu,Africa,Ghana,6,Unemployed,38,80,100
+student242@alx.edu,Africa,Zimbabwe,5,Employed,38,75,100
+student243@alx.edu,Africa,Ethiopia,0,Employed,37,74,100
+student244@alx.edu,Africa,Nigeria,10,Unemployed,18,36,87
+student245@alx.edu,Africa,South Africa,4,Employed,6,14,61
+student246@alx.edu,Africa,Kenya,2,Unemployed,37,68,100
+student247@alx.edu,Africa,Rwanda,7,Employed,20,38,100
+student248@alx.edu,Africa,Morocco,3,Employed,39,78,100
+student249@alx.edu,Africa,Egypt,6,Employed,39,81,100
+student250@alx.edu,Africa,Ghana,6,Employed,35,68,100
+student251@alx.edu,Africa,Zimbabwe,4,Employed,15,25,87
+student252@alx.edu,Africa,Ethiopia,8,Employed,18,39,96
+student253@alx.edu,Africa,Nigeria,3,Employed,35,68,100
+student254@alx.edu,Africa,South Africa,4,Unemployed,16,29,89
+student255@alx.edu,Africa,Kenya,5,Unemployed,11,20,68
+student256@alx.edu,Africa,Rwanda,7,Employed,24,48,100
+student257@alx.edu,Africa,Morocco,8,Employed,38,74,100
+student258@alx.edu,Africa,Egypt,4,Employed,29,52,100
+student259@alx.edu,Africa,Ghana,6,Unemployed,25,53,100
+student260@alx.edu,Africa,Zimbabwe,2,Employed,8,21,72
+student261@alx.edu,Africa,Ethiopia,9,Unemployed,27,55,100
+student262@alx.edu,Africa,Nigeria,4,Employed,40,76,100
+student263@alx.edu,Africa,South Africa,7,Employed,10,19,71
+student264@alx.edu,Africa,Kenya,0,Employed,23,46,100
+student265@alx.edu,Africa,Rwanda,2,Employed,36,73,100
+student266@alx.edu,Africa,Morocco,5,Employed,31,64,100
+student267@alx.edu,Africa,Egypt,9,Unemployed,29,57,100
+student268@alx.edu,Africa,Ghana,5,Employed,30,59,100
+student269@alx.edu,Africa,Zimbabwe,9,Unemployed,18,37,89
+student270@alx.edu,Africa,Ethiopia,5,Unemployed,15,35,89
+student271@alx.edu,Africa,Nigeria,5,Employed,33,69,100
+student272@alx.edu,Africa,South Africa,1,Employed,33,69,100
+student273@alx.edu,Africa,Kenya,8,Employed,35,71,100
+student274@alx.edu,Africa,Rwanda,2,Unemployed,37,78,100
+student275@alx.edu,Africa,Morocco,9,Unemployed,23,47,97
+student276@alx.edu,Africa,Egypt,9,Unemployed,23,43,100
+student277@alx.edu,Africa,Ghana,9,Employed,33,70,100
+student278@alx.edu,Africa,Zimbabwe,5,Unemployed,28,58,100
+student279@alx.edu,Africa,Ethiopia,7,Unemployed,30,58,100
+student280@alx.edu,Africa,Nigeria,8,Unemployed,33,64,100
+student281@alx.edu,Africa,South Africa,1,Employed,36,73,100
+student282@alx.edu,Africa,Kenya,6,Unemployed,17,35,94
+student283@alx.edu,Africa,Rwanda,0,Unemployed,18,37,99
+student284@alx.edu,Africa,Morocco,5,Employed,8,18,57
+student285@alx.edu,Africa,Egypt,2,Employed,25,56,100
+student286@alx.edu,Africa,Ghana,2,Employed,6,16,72
+student287@alx.edu,Africa,Zimbabwe,4,Unemployed,21,43,96
+student288@alx.edu,Africa,Ethiopia,4,Unemployed,24,51,100
+student289@alx.edu,Africa,Nigeria,6,Unemployed,15,27,93
+student290@alx.edu,Africa,South Africa,1,Employed,26,53,100
+student291@alx.edu,Africa,Kenya,5,Unemployed,6,18,61
+student292@alx.edu,Africa,Rwanda,2,Employed,6,12,61
+student293@alx.edu,Africa,Morocco,6,Employed,34,65,100
+student294@alx.edu,Africa,Egypt,6,Unemployed,18,33,84
+student295@alx.edu,Africa,Ghana,6,Unemployed,9,16,74
+student296@alx.edu,Africa,Zimbabwe,7,Unemployed,23,44,98
+student297@alx.edu,Africa,Ethiopia,3,Employed,32,63,100
+student298@alx.edu,Africa,Nigeria,8,Employed,13,21,76
+student299@alx.edu,Africa,South Africa,4,Unemployed,27,54,100
+student300@alx.edu,Africa,Kenya,5,Employed,8,19,60
+student301@alx.edu,Africa,Rwanda,6,Unemployed,7,11,65
+student302@alx.edu,Africa,Morocco,0,Unemployed,24,52,100
+student303@alx.edu,Africa,Egypt,7,Unemployed,24,49,100
+student304@alx.edu,Africa,Ghana,6,Employed,27,58,100
+student305@alx.edu,Africa,Zimbabwe,3,Employed,30,59,100
+student306@alx.edu,Africa,Ethiopia,1,Unemployed,39,81,100
+student307@alx.edu,Africa,Nigeria,1,Unemployed,23,43,100
+student308@alx.edu,Africa,South Africa,9,Employed,16,35,81
+student309@alx.edu,Africa,Kenya,7,Unemployed,33,66,100
+student310@alx.edu,Africa,Rwanda,1,Employed,14,31,88
+student311@alx.edu,Africa,Morocco,4,Unemployed,20,37,100
+student312@alx.edu,Africa,Egypt,6,Employed,8,13,52
+student313@alx.edu,Africa,Ghana,8,Unemployed,6,14,49
+student314@alx.edu,Africa,Zimbabwe,0,Employed,39,75,100
+student315@alx.edu,Africa,Ethiopia,2,Unemployed,34,70,100
+student316@alx.edu,Africa,Nigeria,9,Employed,29,55,100
+student317@alx.edu,Africa,South Africa,0,Employed,19,41,97
+student318@alx.edu,Africa,Kenya,2,Employed,11,18,75
+student319@alx.edu,Africa,Rwanda,10,Employed,10,23,65
+student320@alx.edu,Africa,Morocco,6,Unemployed,14,29,86
+student321@alx.edu,Africa,Egypt,3,Employed,24,46,100
+student322@alx.edu,Africa,Ghana,1,Employed,30,62,100
+student323@alx.edu,Africa,Zimbabwe,0,Unemployed,28,57,100
+student324@alx.edu,Africa,Ethiopia,2,Employed,15,28,80
+student325@alx.edu,Africa,Nigeria,9,Unemployed,38,74,100
+student326@alx.edu,Africa,South Africa,4,Employed,31,56,100
+student327@alx.edu,Africa,Kenya,7,Employed,24,50,100
+student328@alx.edu,Africa,Rwanda,9,Employed,26,48,100
+student329@alx.edu,Africa,Morocco,4,Employed,20,40,100
+student330@alx.edu,Africa,Egypt,2,Employed,14,27,84
+student331@alx.edu,Africa,Ghana,5,Employed,17,37,93
+student332@alx.edu,Africa,Zimbabwe,9,Unemployed,32,62,100
+student333@alx.edu,Africa,Ethiopia,8,Unemployed,6,10,52
+student334@alx.edu,Africa,Nigeria,1,Employed,9,20,70
+student335@alx.edu,Africa,South Africa,7,Employed,7,14,59
+student336@alx.edu,Africa,Kenya,6,Unemployed,6,14,56
+student337@alx.edu,Africa,Rwanda,9,Unemployed,35,71,100
+student338@alx.edu,Africa,Morocco,1,Employed,30,55,100
+student339@alx.edu,Africa,Egypt,5,Employed,22,45,100
+student340@alx.edu,Africa,Ghana,9,Employed,8,19,68
+student341@alx.edu,Africa,Zimbabwe,4,Employed,22,41,100
+student342@alx.edu,Africa,Ethiopia,5,Employed,22,42,98
+student343@alx.edu,Africa,Nigeria,1,Employed,11,22,80
+student344@alx.edu,Africa,South Africa,3,Unemployed,20,40,100
+student345@alx.edu,Africa,Kenya,3,Employed,19,39,95
+student346@alx.edu,Africa,Rwanda,9,Employed,27,57,100
+student347@alx.edu,Africa,Morocco,3,Unemployed,27,58,100
+student348@alx.edu,Africa,Egypt,5,Unemployed,7,9,60
+student349@alx.edu,Africa,Ghana,7,Unemployed,18,38,86
+student350@alx.edu,Africa,Zimbabwe,2,Unemployed,27,58,100
+student351@alx.edu,Africa,Ethiopia,5,Employed,23,46,100
+student352@alx.edu,Africa,Nigeria,7,Unemployed,35,73,100
+student353@alx.edu,Africa,South Africa,9,Unemployed,28,62,100
+student354@alx.edu,Africa,Kenya,6,Employed,11,24,75
+student355@alx.edu,Africa,Rwanda,7,Unemployed,7,16,62
+student356@alx.edu,Africa,Morocco,1,Unemployed,27,58,100
+student357@alx.edu,Africa,Egypt,9,Employed,6,12,60
+student358@alx.edu,Africa,Ghana,1,Employed,26,51,100
+student359@alx.edu,Africa,Zimbabwe,8,Employed,38,75,100
+student360@alx.edu,Africa,Ethiopia,3,Employed,25,55,100
+student361@alx.edu,Africa,Nigeria,9,Employed,19,35,83
+student362@alx.edu,Africa,South Africa,7,Employed,28,60,100
+student363@alx.edu,Africa,Kenya,8,Employed,21,44,96
+student364@alx.edu,Africa,Rwanda,2,Unemployed,24,44,100
+student365@alx.edu,Africa,Morocco,4,Unemployed,38,77,100
+student366@alx.edu,Africa,Egypt,6,Employed,19,31,92
+student367@alx.edu,Africa,Ghana,8,Unemployed,39,79,100
+student368@alx.edu,Africa,Zimbabwe,1,Employed,37,76,100
+student369@alx.edu,Africa,Ethiopia,10,Unemployed,12,22,76
+student370@alx.edu,Africa,Nigeria,9,Employed,7,15,57
+student371@alx.edu,Africa,South Africa,3,Unemployed,9,23,70
+student372@alx.edu,Africa,Kenya,8,Employed,6,10,54
+student373@alx.edu,Africa,Rwanda,5,Unemployed,8,13,67
+student374@alx.edu,Africa,Morocco,5,Employed,29,62,100
+student375@alx.edu,Africa,Egypt,3,Unemployed,7,21,73
+student376@alx.edu,Africa,Ghana,6,Unemployed,16,32,92
+student377@alx.edu,Africa,Zimbabwe,7,Employed,35,72,100
+student378@alx.edu,Africa,Ethiopia,4,Unemployed,6,16,68
+student379@alx.edu,Africa,Nigeria,6,Unemployed,34,65,100
+student380@alx.edu,Africa,South Africa,7,Unemployed,15,28,85
+student381@alx.edu,Africa,Kenya,7,Unemployed,9,22,61
+student382@alx.edu,Africa,Rwanda,1,Unemployed,29,64,100
+student383@alx.edu,Africa,Morocco,9,Employed,27,56,100
+student384@alx.edu,Africa,Egypt,5,Employed,36,69,100
+student385@alx.edu,Africa,Ghana,3,Unemployed,31,67,100
+student386@alx.edu,Africa,Zimbabwe,2,Employed,33,65,100
+student387@alx.edu,Africa,Ethiopia,5,Unemployed,15,29,88
+student388@alx.edu,Africa,Nigeria,9,Employed,11,23,63
+student389@alx.edu,Africa,South Africa,4,Unemployed,31,67,100
+student390@alx.edu,Africa,Kenya,7,Unemployed,33,69,100
+student391@alx.edu,Africa,Rwanda,1,Unemployed,40,81,100
+student392@alx.edu,Africa,Morocco,5,Unemployed,19,40,93
+student393@alx.edu,Africa,Egypt,10,Employed,18,36,91
+student394@alx.edu,Africa,Ghana,8,Employed,32,66,100
+student395@alx.edu,Africa,Zimbabwe,2,Employed,17,26,95
+student396@alx.edu,Africa,Ethiopia,5,Unemployed,38,74,100
+student397@alx.edu,Africa,Nigeria,2,Employed,35,71,100
+student398@alx.edu,Africa,South Africa,4,Employed,20,37,100
+student399@alx.edu,Africa,Kenya,8,Unemployed,31,64,100
+student400@alx.edu,Africa,Rwanda,8,Unemployed,31,62,100
+student401@alx.edu,Africa,Morocco,2,Unemployed,9,22,80
+student402@alx.edu,Africa,Egypt,9,Employed,37,78,100
+student403@alx.edu,Africa,Ghana,6,Employed,23,44,100
+student404@alx.edu,Africa,Zimbabwe,4,Unemployed,34,67,100
+student405@alx.edu,Africa,Ethiopia,5,Employed,16,32,87
+student406@alx.edu,Africa,Nigeria,6,Unemployed,36,71,100
+student407@alx.edu,Africa,South Africa,6,Employed,19,38,92
+student408@alx.edu,Africa,Kenya,5,Unemployed,5,8,52
+student409@alx.edu,Africa,Rwanda,5,Employed,37,70,100
+student410@alx.edu,Africa,Morocco,2,Employed,8,18,68
+student411@alx.edu,Africa,Egypt,8,Employed,16,34,85
+student412@alx.edu,Africa,Ghana,5,Unemployed,38,74,100
+student413@alx.edu,Africa,Zimbabwe,1,Unemployed,38,79,100
+student414@alx.edu,Africa,Ethiopia,8,Unemployed,25,48,100
+student415@alx.edu,Africa,Nigeria,9,Employed,27,55,100
+student416@alx.edu,Africa,South Africa,9,Unemployed,21,44,100
+student417@alx.edu,Africa,Kenya,4,Employed,15,30,88
+student418@alx.edu,Africa,Rwanda,1,Unemployed,17,34,100
+student419@alx.edu,Africa,Morocco,5,Unemployed,29,56,100
+student420@alx.edu,Africa,Egypt,1,Employed,31,62,100
+student421@alx.edu,Africa,Ghana,9,Employed,33,65,100
+student422@alx.edu,Africa,Zimbabwe,2,Unemployed,33,63,100
+student423@alx.edu,Africa,Ethiopia,3,Unemployed,8,16,73
+student424@alx.edu,Africa,Nigeria,4,Employed,22,40,100
+student425@alx.edu,Africa,South Africa,4,Employed,7,13,69
+student426@alx.edu,Africa,Kenya,8,Unemployed,24,48,100
+student427@alx.edu,Africa,Rwanda,5,Employed,20,40,100
+student428@alx.edu,Africa,Morocco,2,Unemployed,36,71,100
+student429@alx.edu,Africa,Egypt,3,Unemployed,17,34,93
+student430@alx.edu,Africa,Ghana,5,Unemployed,9,20,71
+student431@alx.edu,Africa,Zimbabwe,1,Employed,10,23,83
+student432@alx.edu,Africa,Ethiopia,6,Unemployed,32,61,100
+student433@alx.edu,Africa,Nigeria,6,Unemployed,27,50,100
+student434@alx.edu,Africa,South Africa,7,Employed,9,14,60
+student435@alx.edu,Africa,Kenya,9,Employed,8,14,58
+student436@alx.edu,Africa,Rwanda,9,Employed,30,58,100
+student437@alx.edu,Africa,Morocco,9,Unemployed,8,13,60
+student438@alx.edu,Africa,Egypt,2,Employed,34,64,100
+student439@alx.edu,Africa,Ghana,1,Employed,30,58,100
+student440@alx.edu,Africa,Zimbabwe,3,Unemployed,8,16,72
+student441@alx.edu,Africa,Ethiopia,9,Unemployed,8,18,56
+student442@alx.edu,Africa,Nigeria,10,Unemployed,40,77,100
+student443@alx.edu,Africa,South Africa,9,Unemployed,18,35,80
+student444@alx.edu,Africa,Kenya,1,Employed,18,33,100
+student445@alx.edu,Africa,Rwanda,9,Unemployed,33,67,100
+student446@alx.edu,Africa,Morocco,4,Employed,38,74,100
+student447@alx.edu,Africa,Egypt,0,Unemployed,40,81,100
+student448@alx.edu,Africa,Ghana,4,Unemployed,31,57,100
+student449@alx.edu,Africa,Zimbabwe,0,Employed,18,35,100
+student450@alx.edu,Africa,Ethiopia,5,Employed,8,17,70
+student451@alx.edu,Africa,Nigeria,3,Employed,32,65,100
+student452@alx.edu,Africa,South Africa,5,Unemployed,25,57,100
+student453@alx.edu,Africa,Kenya,6,Unemployed,20,41,100
+student454@alx.edu,Africa,Rwanda,9,Employed,37,70,100
+student455@alx.edu,Africa,Morocco,7,Employed,9,17,62
+student456@alx.edu,Africa,Egypt,4,Unemployed,22,39,100
+student457@alx.edu,Africa,Ghana,8,Employed,5,11,56
+student458@alx.edu,Africa,Zimbabwe,9,Employed,21,40,98
+student459@alx.edu,Africa,Ethiopia,1,Unemployed,7,17,63
+student460@alx.edu,Africa,Nigeria,5,Employed,9,17,65
+student461@alx.edu,Africa,South Africa,3,Unemployed,9,18,70
+student462@alx.edu,Africa,Kenya,0,Unemployed,28,54,100
+student463@alx.edu,Africa,Rwanda,7,Unemployed,31,67,100
+student464@alx.edu,Africa,Morocco,9,Employed,25,50,100
+student465@alx.edu,Africa,Egypt,2,Employed,39,83,100
+student466@alx.edu,Africa,Ghana,8,Employed,18,39,97
+student467@alx.edu,Africa,Zimbabwe,9,Employed,15,31,78
+student468@alx.edu,Africa,Ethiopia,9,Unemployed,35,72,100
+student469@alx.edu,Africa,Nigeria,3,Unemployed,13,27,85
+student470@alx.edu,Africa,South Africa,9,Employed,39,72,100
+student471@alx.edu,Africa,Kenya,3,Employed,5,10,52
+student472@alx.edu,Africa,Rwanda,6,Employed,39,80,100
+student473@alx.edu,Africa,Morocco,1,Employed,7,13,62
+student474@alx.edu,Africa,Egypt,0,Unemployed,36,68,100
+student475@alx.edu,Africa,Ghana,7,Employed,23,47,100
+student476@alx.edu,Africa,Zimbabwe,4,Unemployed,40,85,100
+student477@alx.edu,Africa,Ethiopia,3,Employed,8,19,73
+student478@alx.edu,Africa,Nigeria,2,Employed,24,49,100
+student479@alx.edu,Africa,South Africa,7,Employed,39,81,100
+student480@alx.edu,Africa,Kenya,0,Unemployed,23,46,100
+student481@alx.edu,Africa,Rwanda,8,Employed,27,49,100
+student482@alx.edu,Africa,Morocco,1,Unemployed,29,56,100
+student483@alx.edu,Africa,Egypt,2,Unemployed,21,47,100
+student484@alx.edu,Africa,Ghana,4,Employed,27,53,100
+student485@alx.edu,Africa,Zimbabwe,5,Unemployed,25,50,100
+student486@alx.edu,Africa,Ethiopia,4,Unemployed,37,72,100
+student487@alx.edu,Africa,Nigeria,3,Unemployed,7,19,65
+student488@alx.edu,Africa,South Africa,10,Employed,15,35,83
+student489@alx.edu,Africa,Kenya,6,Unemployed,38,83,100
+student490@alx.edu,Africa,Rwanda,0,Unemployed,36,72,100
+student491@alx.edu,Africa,Morocco,4,Employed,21,43,96
+student492@alx.edu,Africa,Egypt,9,Employed,27,49,100
+student493@alx.edu,Africa,Ghana,3,Unemployed,15,34,95
+student494@alx.edu,Africa,Zimbabwe,1,Unemployed,12,20,91
+student495@alx.edu,Africa,Ethiopia,8,Unemployed,21,43,97
+student496@alx.edu,Africa,Nigeria,6,Unemployed,17,31,89
+student497@alx.edu,Africa,South Africa,6,Employed,25,49,100
+student498@alx.edu,Africa,Kenya,1,Employed,8,13,75
+student499@alx.edu,Africa,Rwanda,1,Unemployed,39,76,100
+student500@alx.edu,Africa,Morocco,6,Employed,40,77,100
+student501@alx.edu,Africa,Egypt,2,Unemployed,29,57,100
+student502@alx.edu,Africa,Ghana,5,Employed,24,50,100
+student503@alx.edu,Africa,Zimbabwe,5,Employed,16,28,79
+student504@alx.edu,Africa,Ethiopia,3,Unemployed,33,68,100
+student505@alx.edu,Africa,Nigeria,9,Unemployed,29,62,100
+student506@alx.edu,Africa,South Africa,8,Unemployed,11,20,71
+student507@alx.edu,Africa,Kenya,7,Unemployed,37,72,100
+student508@alx.edu,Africa,Rwanda,1,Employed,34,67,100
+student509@alx.edu,Africa,Morocco,1,Employed,38,80,100
+student510@alx.edu,Africa,Egypt,5,Unemployed,30,61,100
+student511@alx.edu,Africa,Ghana,2,Employed,26,51,100
+student512@alx.edu,Africa,Zimbabwe,10,Employed,20,41,93
+student513@alx.edu,Africa,Ethiopia,2,Unemployed,38,72,100
+student514@alx.edu,Africa,Nigeria,5,Unemployed,35,73,100
+student515@alx.edu,Africa,South Africa,4,Employed,7,14,57
+student516@alx.edu,Africa,Kenya,6,Unemployed,6,11,55
+student517@alx.edu,Africa,Rwanda,1,Unemployed,18,34,91
+student518@alx.edu,Africa,Morocco,4,Employed,33,64,100
+student519@alx.edu,Africa,Egypt,3,Employed,40,81,100
+student520@alx.edu,Africa,Ghana,9,Unemployed,10,24,65
+student521@alx.edu,Africa,Zimbabwe,0,Employed,26,50,100
+student522@alx.edu,Africa,Ethiopia,9,Unemployed,18,38,89
+student523@alx.edu,Africa,Nigeria,8,Unemployed,39,72,100
+student524@alx.edu,Africa,South Africa,3,Employed,34,67,100
+student525@alx.edu,Africa,Kenya,8,Employed,34,69,100
+student526@alx.edu,Africa,Rwanda,0,Unemployed,21,40,100
+student527@alx.edu,Africa,Morocco,10,Unemployed,20,36,97
+student528@alx.edu,Africa,Egypt,5,Unemployed,15,27,84
+student529@alx.edu,Africa,Ghana,3,Employed,7,15,55
+student530@alx.edu,Africa,Zimbabwe,4,Unemployed,35,70,100
+student531@alx.edu,Africa,Ethiopia,1,Employed,33,60,100
+student532@alx.edu,Africa,Nigeria,10,Unemployed,40,74,100
+student533@alx.edu,Africa,South Africa,0,Employed,40,78,100
+student534@alx.edu,Africa,Kenya,7,Unemployed,24,50,100
+student535@alx.edu,Africa,Rwanda,4,Employed,32,56,100
+student536@alx.edu,Africa,Morocco,9,Unemployed,38,75,100
+student537@alx.edu,Africa,Egypt,2,Unemployed,35,68,100
+student538@alx.edu,Africa,Ghana,5,Unemployed,14,31,89
+student539@alx.edu,Africa,Zimbabwe,5,Unemployed,21,40,100
+student540@alx.edu,Africa,Ethiopia,7,Employed,10,20,68
+student541@alx.edu,Africa,Nigeria,1,Employed,38,77,100
+student542@alx.edu,Africa,South Africa,2,Employed,26,46,100
+student543@alx.edu,Africa,Kenya,2,Employed,13,28,88
+student544@alx.edu,Africa,Rwanda,7,Employed,29,58,100
+student545@alx.edu,Africa,Morocco,2,Unemployed,27,55,100
+student546@alx.edu,Africa,Egypt,6,Employed,18,47,97
+student547@alx.edu,Africa,Ghana,2,Employed,9,12,73
+student548@alx.edu,Africa,Zimbabwe,9,Employed,29,62,100
+student549@alx.edu,Africa,Ethiopia,9,Employed,23,46,100
+student550@alx.edu,Africa,Nigeria,5,Unemployed,32,65,100
+student551@alx.edu,Africa,South Africa,4,Unemployed,23,46,100
+student552@alx.edu,Africa,Kenya,2,Unemployed,35,68,100
+student553@alx.edu,Africa,Rwanda,0,Unemployed,24,47,100
+student554@alx.edu,Africa,Morocco,3,Employed,25,50,100
+student555@alx.edu,Africa,Egypt,7,Employed,36,67,100
+student556@alx.edu,Africa,Ghana,5,Unemployed,19,40,91
+student557@alx.edu,Africa,Zimbabwe,9,Unemployed,10,18,61
+student558@alx.edu,Africa,Ethiopia,4,Employed,6,9,57
+student559@alx.edu,Africa,Nigeria,7,Employed,31,62,100
+student560@alx.edu,Africa,South Africa,5,Unemployed,27,57,100
+student561@alx.edu,Africa,Kenya,5,Unemployed,30,58,100
+student562@alx.edu,Africa,Rwanda,3,Unemployed,12,26,81
+student563@alx.edu,Africa,Morocco,5,Unemployed,10,17,61
+student564@alx.edu,Africa,Egypt,5,Employed,6,13,58
+student565@alx.edu,Africa,Ghana,7,Employed,17,37,91
+student566@alx.edu,Africa,Zimbabwe,9,Employed,26,57,100
+student567@alx.edu,Africa,Ethiopia,3,Unemployed,19,37,100
+student568@alx.edu,Africa,Nigeria,0,Employed,20,43,100
+student569@alx.edu,Africa,South Africa,5,Employed,37,74,100
+student570@alx.edu,Africa,Kenya,5,Unemployed,17,38,93
+student571@alx.edu,Africa,Rwanda,2,Unemployed,23,44,100
+student572@alx.edu,Africa,Morocco,8,Unemployed,32,67,100
+student573@alx.edu,Africa,Egypt,10,Unemployed,19,37,84
+student574@alx.edu,Africa,Ghana,9,Unemployed,27,53,100
+student575@alx.edu,Africa,Zimbabwe,2,Unemployed,35,71,100
+student576@alx.edu,Africa,Ethiopia,9,Employed,38,77,100
+student577@alx.edu,Africa,Nigeria,7,Employed,10,20,64
+student578@alx.edu,Africa,South Africa,5,Employed,37,76,100
+student579@alx.edu,Africa,Kenya,5,Employed,22,49,100
+student580@alx.edu,Africa,Rwanda,8,Employed,14,31,78
+student581@alx.edu,Africa,Morocco,5,Employed,21,45,100
+student582@alx.edu,Africa,Egypt,4,Unemployed,39,77,100
+student583@alx.edu,Africa,Ghana,5,Unemployed,22,42,100
+student584@alx.edu,Africa,Zimbabwe,6,Unemployed,17,36,86
+student585@alx.edu,Africa,Ethiopia,2,Employed,27,57,100
+student586@alx.edu,Africa,Nigeria,9,Employed,13,31,80
+student587@alx.edu,Africa,South Africa,7,Unemployed,8,13,62
+student588@alx.edu,Africa,Kenya,6,Unemployed,10,18,77
+student589@alx.edu,Africa,Rwanda,1,Unemployed,9,14,73
+student590@alx.edu,Africa,Morocco,6,Unemployed,10,19,78
+student591@alx.edu,Africa,Egypt,1,Unemployed,10,23,80
+student592@alx.edu,Africa,Ghana,1,Employed,27,53,100
+student593@alx.edu,Africa,Zimbabwe,5,Employed,11,25,83
+student594@alx.edu,Africa,Ethiopia,4,Employed,17,34,97
+student595@alx.edu,Africa,Nigeria,6,Unemployed,36,74,100
+student596@alx.edu,Africa,South Africa,1,Employed,22,40,100
+student597@alx.edu,Africa,Kenya,4,Unemployed,28,57,100
+student598@alx.edu,Africa,Rwanda,2,Employed,11,13,77
+student599@alx.edu,Africa,Morocco,10,Unemployed,12,23,58
+student600@alx.edu,Africa,Egypt,6,Unemployed,6,8,53
+student601@alx.edu,Africa,Ghana,7,Employed,11,25,76
+student602@alx.edu,Africa,Zimbabwe,3,Employed,15,32,86
+student603@alx.edu,Africa,Ethiopia,1,Employed,11,24,81
+student604@alx.edu,Africa,Nigeria,10,Employed,8,21,52
+student605@alx.edu,Africa,South Africa,3,Employed,9,16,78
+student606@alx.edu,Africa,Kenya,4,Unemployed,21,47,100
+student607@alx.edu,Africa,Rwanda,6,Employed,12,27,74
+student608@alx.edu,Africa,Morocco,0,Employed,18,35,97
+student609@alx.edu,Africa,Egypt,8,Unemployed,23,49,100
+student610@alx.edu,Africa,Ghana,5,Employed,29,55,100
+student611@alx.edu,Africa,Zimbabwe,3,Unemployed,6,10,68
+student612@alx.edu,Africa,Ethiopia,1,Employed,33,64,100
+student613@alx.edu,Africa,Nigeria,2,Employed,27,52,100
+student614@alx.edu,Africa,South Africa,9,Unemployed,8,13,54
+student615@alx.edu,Africa,Kenya,7,Employed,36,75,100
+student616@alx.edu,Africa,Rwanda,2,Employed,37,74,100
+student617@alx.edu,Africa,Morocco,1,Employed,7,15,69
+student618@alx.edu,Africa,Egypt,7,Employed,15,28,79
+student619@alx.edu,Africa,Ghana,6,Unemployed,33,61,100
+student620@alx.edu,Africa,Zimbabwe,4,Unemployed,31,63,100
+student621@alx.edu,Africa,Ethiopia,4,Employed,11,17,65
+student622@alx.edu,Africa,Nigeria,2,Employed,12,24,78
+student623@alx.edu,Africa,South Africa,7,Unemployed,18,32,96
+student624@alx.edu,Africa,Kenya,10,Unemployed,22,50,100
+student625@alx.edu,Africa,Rwanda,2,Employed,27,56,100
+student626@alx.edu,Africa,Morocco,6,Unemployed,18,36,100
+student627@alx.edu,Africa,Egypt,4,Unemployed,21,46,100
+student628@alx.edu,Africa,Ghana,4,Unemployed,31,60,100
+student629@alx.edu,Africa,Zimbabwe,3,Unemployed,6,14,67
+student630@alx.edu,Africa,Ethiopia,8,Employed,14,28,74
+student631@alx.edu,Africa,Nigeria,5,Unemployed,30,61,100
+student632@alx.edu,Africa,South Africa,5,Employed,36,76,100
+student633@alx.edu,Africa,Kenya,3,Employed,23,48,100
+student634@alx.edu,Africa,Rwanda,2,Unemployed,24,48,100
+student635@alx.edu,Africa,Morocco,1,Employed,9,13,73
+student636@alx.edu,Africa,Egypt,7,Employed,21,38,100
+student637@alx.edu,Africa,Ghana,2,Unemployed,24,47,100
+student638@alx.edu,Africa,Zimbabwe,7,Unemployed,13,27,70
+student639@alx.edu,Africa,Ethiopia,4,Unemployed,14,25,88
+student640@alx.edu,Africa,Nigeria,4,Employed,18,44,99
+student641@alx.edu,Africa,South Africa,5,Employed,6,16,62
+student642@alx.edu,Africa,Kenya,4,Employed,16,34,90
+student643@alx.edu,Africa,Rwanda,1,Employed,12,25,81
+student644@alx.edu,Africa,Morocco,3,Unemployed,16,32,100
+student645@alx.edu,Africa,Egypt,7,Employed,9,16,56
+student646@alx.edu,Africa,Ghana,7,Unemployed,36,73,100
+student647@alx.edu,Africa,Zimbabwe,3,Unemployed,26,52,100
+student648@alx.edu,Africa,Ethiopia,5,Unemployed,29,54,100
+student649@alx.edu,Africa,Nigeria,2,Unemployed,33,66,100
+student650@alx.edu,Africa,South Africa,2,Employed,22,44,100
+student651@alx.edu,Africa,Kenya,0,Unemployed,8,10,74
+student652@alx.edu,Africa,Rwanda,9,Employed,24,45,100
+student653@alx.edu,Africa,Morocco,2,Unemployed,26,50,100
+student654@alx.edu,Africa,Egypt,2,Unemployed,31,68,100
+student655@alx.edu,Africa,Ghana,3,Unemployed,20,42,100
+student656@alx.edu,Africa,Zimbabwe,1,Employed,9,15,74
+student657@alx.edu,Africa,Ethiopia,6,Unemployed,15,31,97
+student658@alx.edu,Africa,Nigeria,1,Unemployed,18,31,98
+student659@alx.edu,Africa,South Africa,1,Unemployed,28,58,100
+student660@alx.edu,Africa,Kenya,6,Unemployed,25,49,100
+student661@alx.edu,Africa,Rwanda,3,Employed,17,35,92
+student662@alx.edu,Africa,Morocco,7,Employed,40,83,100
+student663@alx.edu,Africa,Egypt,6,Unemployed,26,49,100
+student664@alx.edu,Africa,Ghana,3,Unemployed,13,22,80
+student665@alx.edu,Africa,Zimbabwe,7,Employed,9,15,54
+student666@alx.edu,Africa,Ethiopia,1,Employed,10,24,82
+student667@alx.edu,Africa,Nigeria,5,Employed,14,23,72
+student668@alx.edu,Africa,South Africa,4,Unemployed,11,13,69
+student669@alx.edu,Africa,Kenya,3,Employed,12,22,84
+student670@alx.edu,Africa,Rwanda,6,Unemployed,15,32,80
+student671@alx.edu,Africa,Morocco,9,Employed,11,26,61
+student672@alx.edu,Africa,Egypt,10,Employed,36,71,100
+student673@alx.edu,Africa,Ghana,6,Unemployed,8,14,69
+student674@alx.edu,Africa,Zimbabwe,4,Employed,23,50,100
+student675@alx.edu,Africa,Ethiopia,2,Unemployed,19,33,100
+student676@alx.edu,Africa,Nigeria,3,Employed,39,78,100
+student677@alx.edu,Africa,South Africa,5,Unemployed,9,18,60
+student678@alx.edu,Africa,Kenya,4,Employed,19,39,100
+student679@alx.edu,Africa,Rwanda,9,Employed,39,76,100
+student680@alx.edu,Africa,Morocco,4,Unemployed,35,71,100
+student681@alx.edu,Africa,Egypt,4,Unemployed,34,60,100
+student682@alx.edu,Africa,Ghana,4,Unemployed,14,26,91
+student683@alx.edu,Africa,Zimbabwe,8,Unemployed,11,23,72
+student684@alx.edu,Africa,Ethiopia,7,Employed,28,54,100
+student685@alx.edu,Africa,Nigeria,6,Employed,38,75,100
+student686@alx.edu,Africa,South Africa,3,Employed,24,50,100
+student687@alx.edu,Africa,Kenya,8,Employed,25,49,100
+student688@alx.edu,Africa,Rwanda,0,Employed,15,30,89
+student689@alx.edu,Africa,Morocco,9,Employed,32,61,100
+student690@alx.edu,Africa,Egypt,5,Unemployed,12,22,83
+student691@alx.edu,Africa,Ghana,4,Employed,16,34,92
+student692@alx.edu,Africa,Zimbabwe,5,Employed,20,40,98
+student693@alx.edu,Africa,Ethiopia,7,Unemployed,23,44,100
+student694@alx.edu,Africa,Nigeria,0,Employed,13,28,95
+student695@alx.edu,Africa,South Africa,9,Employed,9,20,48
+student696@alx.edu,Africa,Kenya,4,Employed,26,47,100
+student697@alx.edu,Africa,Rwanda,3,Unemployed,15,34,85
+student698@alx.edu,Africa,Morocco,1,Unemployed,25,50,100
+student699@alx.edu,Africa,Egypt,4,Employed,10,22,73
+student700@alx.edu,Africa,Ghana,5,Unemployed,22,47,100
+student701@alx.edu,Africa,Zimbabwe,4,Employed,24,43,100
+student702@alx.edu,Africa,Ethiopia,7,Employed,7,11,47
+student703@alx.edu,Africa,Nigeria,4,Employed,17,33,88
+student704@alx.edu,Africa,South Africa,10,Unemployed,10,17,66
+student705@alx.edu,Africa,Kenya,6,Employed,7,20,67
+student706@alx.edu,Africa,Rwanda,8,Employed,40,77,100
+student707@alx.edu,Africa,Morocco,1,Employed,16,31,99
+student708@alx.edu,Africa,Egypt,4,Employed,33,67,100
+student709@alx.edu,Africa,Ghana,3,Employed,14,24,84
+student710@alx.edu,Africa,Zimbabwe,6,Unemployed,29,57,100
+student711@alx.edu,Africa,Ethiopia,9,Employed,32,64,100
+student712@alx.edu,Africa,Nigeria,1,Unemployed,26,51,100
+student713@alx.edu,Africa,South Africa,1,Employed,22,43,100
+student714@alx.edu,Africa,Kenya,9,Unemployed,19,37,91
+student715@alx.edu,Africa,Rwanda,2,Employed,17,30,94
+student716@alx.edu,Africa,Morocco,7,Employed,38,76,100
+student717@alx.edu,Africa,Egypt,5,Unemployed,34,73,100
+student718@alx.edu,Africa,Ghana,8,Unemployed,39,78,100
+student719@alx.edu,Africa,Zimbabwe,1,Employed,9,19,84
+student720@alx.edu,Africa,Ethiopia,1,Unemployed,31,63,100
+student721@alx.edu,Africa,Nigeria,6,Unemployed,38,72,100
+student722@alx.edu,Africa,South Africa,9,Employed,11,28,66
+student723@alx.edu,Africa,Kenya,4,Employed,7,15,63
+student724@alx.edu,Africa,Rwanda,3,Employed,31,67,100
+student725@alx.edu,Africa,Morocco,6,Employed,25,48,100
+student726@alx.edu,Africa,Egypt,9,Employed,34,74,100
+student727@alx.edu,Africa,Ghana,8,Unemployed,10,22,65
+student728@alx.edu,Africa,Zimbabwe,10,Employed,33,67,100
+student729@alx.edu,Africa,Ethiopia,0,Unemployed,12,25,78
+student730@alx.edu,Africa,Nigeria,1,Employed,11,21,79
+student731@alx.edu,Africa,South Africa,6,Employed,11,25,73
+student732@alx.edu,Africa,Kenya,8,Unemployed,34,67,100
+student733@alx.edu,Africa,Rwanda,3,Employed,28,51,100
+student734@alx.edu,Africa,Morocco,2,Unemployed,23,43,100
+student735@alx.edu,Africa,Egypt,8,Unemployed,18,35,93
+student736@alx.edu,Africa,Ghana,1,Unemployed,36,72,100
+student737@alx.edu,Africa,Zimbabwe,4,Employed,19,37,99
+student738@alx.edu,Africa,Ethiopia,5,Employed,34,71,100
+student739@alx.edu,Africa,Nigeria,6,Employed,20,35,100
+student740@alx.edu,Africa,South Africa,7,Employed,18,37,94
+student741@alx.edu,Africa,Kenya,4,Employed,21,37,100
+student742@alx.edu,Africa,Rwanda,6,Employed,16,33,93
+student743@alx.edu,Africa,Morocco,6,Unemployed,31,62,100
+student744@alx.edu,Africa,Egypt,5,Employed,23,46,100
+student745@alx.edu,Africa,Ghana,6,Employed,13,24,79
+student746@alx.edu,Africa,Zimbabwe,3,Employed,36,77,100
+student747@alx.edu,Africa,Ethiopia,1,Employed,18,40,100
+student748@alx.edu,Africa,Nigeria,1,Unemployed,24,50,100
+student749@alx.edu,Africa,South Africa,2,Unemployed,37,73,100
+student750@alx.edu,Africa,Kenya,5,Unemployed,27,55,100
+student751@alx.edu,Africa,Rwanda,8,Unemployed,9,16,62
+student752@alx.edu,Africa,Morocco,7,Unemployed,38,78,100
+student753@alx.edu,Africa,Egypt,8,Employed,27,59,100
+student754@alx.edu,Africa,Ghana,4,Unemployed,17,37,100
+student755@alx.edu,Africa,Zimbabwe,4,Unemployed,10,18,72
+student756@alx.edu,Africa,Ethiopia,4,Employed,33,67,100
+student757@alx.edu,Africa,Nigeria,2,Employed,27,50,100
+student758@alx.edu,Africa,South Africa,1,Unemployed,24,49,100
+student759@alx.edu,Africa,Kenya,6,Employed,36,74,100
+student760@alx.edu,Africa,Rwanda,10,Employed,33,60,100
+student761@alx.edu,Africa,Morocco,2,Unemployed,10,17,72
+student762@alx.edu,Africa,Egypt,0,Employed,16,31,86
+student763@alx.edu,Africa,Ghana,8,Unemployed,14,26,82
+student764@alx.edu,Africa,Zimbabwe,3,Unemployed,31,58,100
+student765@alx.edu,Africa,Ethiopia,8,Employed,6,14,49
+student766@alx.edu,Africa,Nigeria,7,Unemployed,25,51,100
+student767@alx.edu,Africa,South Africa,9,Unemployed,32,63,100
+student768@alx.edu,Africa,Kenya,4,Employed,36,69,100
+student769@alx.edu,Africa,Rwanda,7,Employed,17,37,88
+student770@alx.edu,Africa,Morocco,5,Employed,34,72,100
+student771@alx.edu,Africa,Egypt,6,Employed,9,16,68
+student772@alx.edu,Africa,Ghana,4,Unemployed,35,67,100
+student773@alx.edu,Africa,Zimbabwe,2,Employed,9,20,69
+student774@alx.edu,Africa,Ethiopia,5,Employed,19,37,100
+student775@alx.edu,Africa,Nigeria,5,Unemployed,33,65,100
+student776@alx.edu,Africa,South Africa,8,Unemployed,10,23,62
+student777@alx.edu,Africa,Kenya,7,Unemployed,13,20,75
+student778@alx.edu,Africa,Rwanda,7,Unemployed,30,65,100
+student779@alx.edu,Africa,Morocco,1,Employed,30,61,100
+student780@alx.edu,Africa,Egypt,7,Employed,27,54,100
+student781@alx.edu,Africa,Ghana,5,Unemployed,29,58,100
+student782@alx.edu,Africa,Zimbabwe,9,Unemployed,24,48,100
+student783@alx.edu,Africa,Ethiopia,9,Unemployed,14,22,74
+student784@alx.edu,Africa,Nigeria,1,Unemployed,17,39,99
+student785@alx.edu,Africa,South Africa,8,Employed,11,23,69
+student786@alx.edu,Africa,Kenya,0,Unemployed,37,75,100
+student787@alx.edu,Africa,Rwanda,4,Employed,25,54,100
+student788@alx.edu,Africa,Morocco,5,Unemployed,19,35,90
+student789@alx.edu,Africa,Egypt,1,Employed,21,44,100
+student790@alx.edu,Africa,Ghana,7,Employed,38,76,100
+student791@alx.edu,Africa,Zimbabwe,0,Employed,10,23,82
+student792@alx.edu,Africa,Ethiopia,2,Employed,26,45,100
+student793@alx.edu,Africa,Nigeria,6,Unemployed,23,45,100
+student794@alx.edu,Africa,South Africa,7,Employed,26,51,100
+student795@alx.edu,Africa,Kenya,9,Unemployed,6,13,62
+student796@alx.edu,Africa,Rwanda,7,Employed,36,72,100
+student797@alx.edu,Africa,Morocco,7,Employed,38,73,100
+student798@alx.edu,Africa,Egypt,4,Unemployed,25,47,100
+student799@alx.edu,Africa,Ghana,0,Unemployed,29,58,100
+student800@alx.edu,Africa,Zimbabwe,1,Employed,37,72,100
+student801@alx.edu,Africa,Ethiopia,5,Employed,30,62,100
+student802@alx.edu,Africa,Nigeria,7,Unemployed,10,20,69
+student803@alx.edu,Africa,South Africa,4,Employed,25,42,100
+student804@alx.edu,Africa,Kenya,7,Unemployed,26,51,100
+student805@alx.edu,Africa,Rwanda,5,Unemployed,20,37,100
+student806@alx.edu,Africa,Morocco,1,Unemployed,31,57,100
+student807@alx.edu,Africa,Egypt,2,Employed,38,72,100
+student808@alx.edu,Africa,Ghana,8,Employed,37,75,100
+student809@alx.edu,Africa,Zimbabwe,7,Unemployed,21,46,100
+student810@alx.edu,Africa,Ethiopia,9,Unemployed,9,19,65
+student811@alx.edu,Africa,Nigeria,1,Unemployed,39,77,100
+student812@alx.edu,Africa,South Africa,10,Unemployed,34,70,100
+student813@alx.edu,Africa,Kenya,2,Employed,9,17,68
+student814@alx.edu,Africa,Rwanda,0,Unemployed,37,72,100
+student815@alx.edu,Africa,Morocco,10,Employed,35,67,100
+student816@alx.edu,Africa,Egypt,3,Unemployed,23,41,100
+student817@alx.edu,Africa,Ghana,7,Employed,26,50,100
+student818@alx.edu,Africa,Zimbabwe,2,Employed,19,38,100
+student819@alx.edu,Africa,Ethiopia,6,Employed,7,14,53
+student820@alx.edu,Africa,Nigeria,9,Employed,17,32,89
+student821@alx.edu,Africa,South Africa,3,Employed,33,63,100
+student822@alx.edu,Africa,Kenya,7,Unemployed,5,12,50
+student823@alx.edu,Africa,Rwanda,2,Unemployed,17,29,100
+student824@alx.edu,Africa,Morocco,6,Employed,19,40,95
+student825@alx.edu,Africa,Egypt,3,Unemployed,24,45,100
+student826@alx.edu,Africa,Ghana,2,Unemployed,37,72,100
+student827@alx.edu,Africa,Zimbabwe,3,Unemployed,17,30,99
+student828@alx.edu,Africa,Ethiopia,2,Unemployed,17,33,100
+student829@alx.edu,Africa,Nigeria,9,Unemployed,31,65,100
+student830@alx.edu,Africa,South Africa,4,Unemployed,21,43,100
+student831@alx.edu,Africa,Kenya,2,Unemployed,13,29,79
+student832@alx.edu,Africa,Rwanda,4,Employed,21,43,100
+student833@alx.edu,Africa,Morocco,3,Unemployed,10,17,76
+student834@alx.edu,Africa,Egypt,7,Unemployed,11,21,75
+student835@alx.edu,Africa,Ghana,10,Unemployed,22,43,100
+student836@alx.edu,Africa,Zimbabwe,4,Employed,20,43,96
+student837@alx.edu,Africa,Ethiopia,9,Employed,37,70,100
+student838@alx.edu,Africa,Nigeria,6,Unemployed,18,38,100
+student839@alx.edu,Africa,South Africa,2,Employed,25,53,100
+student840@alx.edu,Africa,Kenya,7,Employed,27,60,100
+student841@alx.edu,Africa,Rwanda,5,Unemployed,5,10,53
+student842@alx.edu,Africa,Morocco,7,Employed,28,59,100
+student843@alx.edu,Africa,Egypt,9,Unemployed,11,29,71
+student844@alx.edu,Africa,Ghana,4,Employed,39,75,100
+student845@alx.edu,Africa,Zimbabwe,9,Unemployed,10,16,69
+student846@alx.edu,Africa,Ethiopia,8,Employed,20,33,89
+student847@alx.edu,Africa,Nigeria,5,Unemployed,8,18,67
+student848@alx.edu,Africa,South Africa,6,Unemployed,40,74,100
+student849@alx.edu,Africa,Kenya,3,Employed,23,44,100
+student850@alx.edu,Africa,Rwanda,10,Unemployed,26,53,100
+student851@alx.edu,Africa,Morocco,7,Unemployed,7,15,63
+student852@alx.edu,Africa,Egypt,0,Employed,31,64,100
+student853@alx.edu,Africa,Ghana,3,Unemployed,12,25,83
+student854@alx.edu,Africa,Zimbabwe,6,Unemployed,36,77,100
+student855@alx.edu,Africa,Ethiopia,1,Employed,12,22,86
+student856@alx.edu,Africa,Nigeria,0,Unemployed,12,21,84
+student857@alx.edu,Africa,South Africa,5,Employed,6,10,61
+student858@alx.edu,Africa,Kenya,3,Unemployed,22,46,100
+student859@alx.edu,Africa,Rwanda,4,Employed,25,52,96
+student860@alx.edu,Africa,Morocco,3,Employed,7,16,67
+student861@alx.edu,Africa,Egypt,2,Unemployed,32,68,100
+student862@alx.edu,Africa,Ghana,7,Employed,21,38,96
+student863@alx.edu,Africa,Zimbabwe,5,Unemployed,23,52,100
+student864@alx.edu,Africa,Ethiopia,2,Unemployed,20,45,100
+student865@alx.edu,Africa,Nigeria,3,Employed,19,40,100
+student866@alx.edu,Africa,South Africa,6,Unemployed,25,55,100
+student867@alx.edu,Africa,Kenya,1,Unemployed,10,16,82
+student868@alx.edu,Africa,Rwanda,1,Employed,11,21,80
+student869@alx.edu,Africa,Morocco,1,Unemployed,35,68,100
+student870@alx.edu,Africa,Egypt,8,Unemployed,38,78,100
+student871@alx.edu,Africa,Ghana,8,Employed,18,33,83
+student872@alx.edu,Africa,Zimbabwe,8,Unemployed,14,31,85
+student873@alx.edu,Africa,Ethiopia,7,Unemployed,28,59,100
+student874@alx.edu,Africa,Nigeria,7,Employed,19,41,97
+student875@alx.edu,Africa,South Africa,5,Unemployed,6,13,62
+student876@alx.edu,Africa,Kenya,6,Unemployed,10,18,79
+student877@alx.edu,Africa,Rwanda,0,Employed,30,58,100
+student878@alx.edu,Africa,Morocco,6,Unemployed,28,60,100
+student879@alx.edu,Africa,Egypt,8,Unemployed,6,14,61
+student880@alx.edu,Africa,Ghana,5,Employed,13,25,79
+student881@alx.edu,Africa,Zimbabwe,4,Employed,13,25,81
+student882@alx.edu,Africa,Ethiopia,3,Unemployed,29,51,100
+student883@alx.edu,Africa,Nigeria,6,Unemployed,6,8,53
+student884@alx.edu,Africa,South Africa,7,Employed,9,23,72
+student885@alx.edu,Africa,Kenya,9,Unemployed,33,62,100
+student886@alx.edu,Africa,Rwanda,3,Unemployed,11,23,81
+student887@alx.edu,Africa,Morocco,8,Unemployed,28,59,100
+student888@alx.edu,Africa,Egypt,6,Employed,13,23,71
+student889@alx.edu,Africa,Ghana,9,Unemployed,8,18,67
+student890@alx.edu,Africa,Zimbabwe,5,Unemployed,14,30,87
+student891@alx.edu,Africa,Ethiopia,5,Employed,30,61,100
+student892@alx.edu,Africa,Nigeria,6,Employed,35,79,100
+student893@alx.edu,Africa,South Africa,7,Employed,34,63,100
+student894@alx.edu,Africa,Kenya,10,Unemployed,19,41,87
+student895@alx.edu,Africa,Rwanda,1,Unemployed,28,56,100
+student896@alx.edu,Africa,Morocco,1,Employed,12,27,89
+student897@alx.edu,Africa,Egypt,9,Unemployed,15,32,72
+student898@alx.edu,Africa,Ghana,5,Unemployed,36,71,100
+student899@alx.edu,Africa,Zimbabwe,6,Unemployed,5,12,55
+student900@alx.edu,Africa,Ethiopia,5,Unemployed,8,10,60
+student901@alx.edu,Africa,Nigeria,1,Employed,12,26,85
+student902@alx.edu,Africa,South Africa,8,Employed,6,13,59
+student903@alx.edu,Africa,Kenya,7,Unemployed,11,25,73
+student904@alx.edu,Africa,Rwanda,3,Employed,25,54,100
+student905@alx.edu,Africa,Morocco,3,Unemployed,20,41,100
+student906@alx.edu,Africa,Egypt,8,Unemployed,36,73,100
+student907@alx.edu,Africa,Ghana,1,Employed,34,65,100
+student908@alx.edu,Africa,Zimbabwe,9,Employed,17,32,89
+student909@alx.edu,Africa,Ethiopia,3,Unemployed,14,32,92
+student910@alx.edu,Africa,Nigeria,6,Unemployed,18,41,100
+student911@alx.edu,Africa,South Africa,9,Unemployed,26,51,100
+student912@alx.edu,Africa,Kenya,7,Unemployed,14,29,81
+student913@alx.edu,Africa,Rwanda,4,Employed,27,51,100
+student914@alx.edu,Africa,Morocco,7,Employed,19,42,89
+student915@alx.edu,Africa,Egypt,3,Unemployed,24,51,100
+student916@alx.edu,Africa,Ghana,3,Unemployed,20,46,100
+student917@alx.edu,Africa,Zimbabwe,10,Employed,15,28,79
+student918@alx.edu,Africa,Ethiopia,8,Unemployed,38,75,100
+student919@alx.edu,Africa,Nigeria,6,Employed,32,64,100
+student920@alx.edu,Africa,South Africa,4,Unemployed,10,22,71
+student921@alx.edu,Africa,Kenya,0,Employed,35,70,100
+student922@alx.edu,Africa,Rwanda,0,Unemployed,22,42,100
+student923@alx.edu,Africa,Morocco,6,Unemployed,36,75,100
+student924@alx.edu,Africa,Egypt,8,Unemployed,33,68,100
+student925@alx.edu,Africa,Ghana,5,Employed,20,37,100
+student926@alx.edu,Africa,Zimbabwe,8,Employed,6,16,60
+student927@alx.edu,Africa,Ethiopia,0,Unemployed,14,32,89
+student928@alx.edu,Africa,Nigeria,4,Unemployed,24,48,100
+student929@alx.edu,Africa,South Africa,2,Unemployed,27,55,100
+student930@alx.edu,Africa,Kenya,4,Unemployed,14,30,93
+student931@alx.edu,Africa,Rwanda,1,Employed,10,17,72
+student932@alx.edu,Africa,Morocco,10,Employed,34,69,100
+student933@alx.edu,Africa,Egypt,2,Employed,39,72,100
+student934@alx.edu,Africa,Ghana,9,Unemployed,23,49,100
+student935@alx.edu,Africa,Zimbabwe,4,Unemployed,11,17,76
+student936@alx.edu,Africa,Ethiopia,10,Employed,15,34,79
+student937@alx.edu,Africa,Nigeria,6,Unemployed,6,10,54
+student938@alx.edu,Africa,South Africa,9,Employed,37,73,100
+student939@alx.edu,Africa,Kenya,0,Employed,9,16,70
+student940@alx.edu,Africa,Rwanda,7,Employed,25,49,100
+student941@alx.edu,Africa,Morocco,9,Employed,15,33,83
+student942@alx.edu,Africa,Egypt,1,Unemployed,24,41,100
+student943@alx.edu,Africa,Ghana,1,Employed,28,59,100
+student944@alx.edu,Africa,Zimbabwe,4,Unemployed,34,69,100
+student945@alx.edu,Africa,Ethiopia,9,Employed,12,21,64
+student946@alx.edu,Africa,Nigeria,5,Employed,5,8,51
+student947@alx.edu,Africa,South Africa,5,Employed,10,25,74
+student948@alx.edu,Africa,Kenya,1,Employed,37,70,100
+student949@alx.edu,Africa,Rwanda,0,Unemployed,36,68,100
+student950@alx.edu,Africa,Morocco,8,Unemployed,26,55,100
+student951@alx.edu,Africa,Egypt,1,Unemployed,26,53,100
+student952@alx.edu,Africa,Ghana,6,Unemployed,28,54,100
+student953@alx.edu,Africa,Zimbabwe,9,Employed,11,23,68
+student954@alx.edu,Africa,Ethiopia,2,Unemployed,37,71,100
+student955@alx.edu,Africa,Nigeria,7,Unemployed,20,43,100
+student956@alx.edu,Africa,South Africa,1,Employed,18,40,100
+student957@alx.edu,Africa,Kenya,6,Unemployed,23,48,100
+student958@alx.edu,Africa,Rwanda,2,Unemployed,7,14,66
+student959@alx.edu,Africa,Morocco,7,Unemployed,11,27,74
+student960@alx.edu,Africa,Egypt,3,Unemployed,31,62,100
+student961@alx.edu,Africa,Ghana,5,Employed,8,12,60
+student962@alx.edu,Africa,Zimbabwe,6,Employed,26,54,100
+student963@alx.edu,Africa,Ethiopia,2,Unemployed,14,33,93
+student964@alx.edu,Africa,Nigeria,7,Employed,19,34,90
+student965@alx.edu,Africa,South Africa,3,Unemployed,15,29,100
+student966@alx.edu,Africa,Kenya,7,Unemployed,17,36,86
+student967@alx.edu,Africa,Rwanda,2,Unemployed,30,60,100
+student968@alx.edu,Africa,Morocco,7,Employed,15,28,90
+student969@alx.edu,Africa,Egypt,1,Employed,25,53,100
+student970@alx.edu,Africa,Ghana,4,Employed,22,50,100
+student971@alx.edu,Africa,Zimbabwe,2,Employed,28,57,100
+student972@alx.edu,Africa,Ethiopia,7,Employed,38,73,100
+student973@alx.edu,Africa,Nigeria,3,Employed,31,57,100
+student974@alx.edu,Africa,South Africa,9,Unemployed,13,26,69
+student975@alx.edu,Africa,Kenya,9,Employed,6,15,53
+student976@alx.edu,Africa,Rwanda,2,Unemployed,14,30,89
+student977@alx.edu,Africa,Morocco,6,Unemployed,26,52,100
+student978@alx.edu,Africa,Egypt,1,Employed,7,12,60
+student979@alx.edu,Africa,Ghana,4,Unemployed,22,41,100
+student980@alx.edu,Africa,Zimbabwe,7,Unemployed,26,54,100
+student981@alx.edu,Africa,Ethiopia,7,Unemployed,17,36,90
+student982@alx.edu,Africa,Nigeria,6,Employed,32,59,100
+student983@alx.edu,Africa,South Africa,3,Employed,9,22,71
+student984@alx.edu,Africa,Kenya,4,Unemployed,8,17,64
+student985@alx.edu,Africa,Rwanda,1,Employed,30,65,100
+student986@alx.edu,Africa,Morocco,7,Unemployed,22,41,100
+student987@alx.edu,Africa,Egypt,5,Employed,29,54,100
+student988@alx.edu,Africa,Ghana,7,Unemployed,20,40,100
+student989@alx.edu,Africa,Zimbabwe,2,Unemployed,14,29,93
+student990@alx.edu,Africa,Ethiopia,3,Employed,34,73,100
+student991@alx.edu,Africa,Nigeria,3,Employed,33,68,100
+student992@alx.edu,Africa,South Africa,0,Employed,29,58,100
+student993@alx.edu,Africa,Kenya,3,Employed,15,26,89
+student994@alx.edu,Africa,Rwanda,8,Employed,26,55,100
+student995@alx.edu,Africa,Morocco,9,Unemployed,18,32,91
+student996@alx.edu,Africa,Egypt,5,Unemployed,8,21,81
+student997@alx.edu,Africa,Ghana,5,Unemployed,37,73,100
+student998@alx.edu,Africa,Zimbabwe,0,Employed,10,24,85
+student999@alx.edu,Africa,Ethiopia,9,Employed,38,79,100
+student1000@alx.edu,Africa,Nigeria,0,Unemployed,21,41,100
+student1001@alx.edu,Africa,South Africa,9,Unemployed,11,21,66
+student1002@alx.edu,Africa,Kenya,5,Unemployed,24,47,100
+student1003@alx.edu,Africa,Rwanda,3,Unemployed,36,72,100
+student1004@alx.edu,Africa,Morocco,9,Employed,31,61,100
+student1005@alx.edu,Africa,Egypt,0,Unemployed,33,65,100
+student1006@alx.edu,Africa,Ghana,6,Employed,28,56,100
+student1007@alx.edu,Africa,Zimbabwe,5,Unemployed,29,59,100
+student1008@alx.edu,Africa,Ethiopia,2,Employed,35,63,100
+student1009@alx.edu,Africa,Nigeria,4,Employed,14,29,77
+student1010@alx.edu,Africa,South Africa,7,Employed,22,41,100
+student1011@alx.edu,Africa,Kenya,7,Employed,13,22,64
+student1012@alx.edu,Africa,Rwanda,0,Unemployed,40,74,100
+student1013@alx.edu,Africa,Morocco,9,Unemployed,38,71,100
+student1014@alx.edu,Africa,Egypt,2,Unemployed,6,9,62
+student1015@alx.edu,Africa,Ghana,2,Employed,30,57,100
+student1016@alx.edu,Africa,Zimbabwe,3,Unemployed,37,81,100
+student1017@alx.edu,Africa,Ethiopia,0,Unemployed,11,21,86
+student1018@alx.edu,Africa,Nigeria,1,Unemployed,25,50,100
+student1019@alx.edu,Africa,South Africa,10,Employed,37,75,100
+student1020@alx.edu,Africa,Kenya,3,Employed,6,13,57
+student1021@alx.edu,Africa,Rwanda,1,Employed,29,59,100
+student1022@alx.edu,Africa,Morocco,1,Unemployed,15,27,89
+student1023@alx.edu,Africa,Egypt,7,Unemployed,37,79,100
+student1024@alx.edu,Africa,Ghana,9,Unemployed,39,83,100
+student1025@alx.edu,Africa,Zimbabwe,3,Employed,38,71,100
+student1026@alx.edu,Africa,Ethiopia,0,Unemployed,22,40,100
+student1027@alx.edu,Africa,Nigeria,2,Employed,35,70,100
+student1028@alx.edu,Africa,South Africa,1,Employed,35,66,100
+student1029@alx.edu,Africa,Kenya,1,Employed,16,34,92
+student1030@alx.edu,Africa,Rwanda,4,Employed,34,66,100
+student1031@alx.edu,Africa,Morocco,2,Unemployed,6,19,79
+student1032@alx.edu,Africa,Egypt,5,Unemployed,26,55,100
+student1033@alx.edu,Africa,Ghana,3,Employed,13,27,82
+student1034@alx.edu,Africa,Zimbabwe,9,Unemployed,9,22,56
+student1035@alx.edu,Africa,Ethiopia,9,Employed,8,19,46
+student1036@alx.edu,Africa,Nigeria,6,Unemployed,29,57,100
+student1037@alx.edu,Africa,South Africa,4,Unemployed,17,31,93
+student1038@alx.edu,Africa,Kenya,4,Employed,30,61,100
+student1039@alx.edu,Africa,Rwanda,4,Employed,7,17,68
+student1040@alx.edu,Africa,Morocco,7,Employed,16,32,86
+student1041@alx.edu,Africa,Egypt,5,Employed,24,43,100
+student1042@alx.edu,Africa,Ghana,9,Unemployed,33,63,100
+student1043@alx.edu,Africa,Zimbabwe,9,Employed,16,32,82
+student1044@alx.edu,Africa,Ethiopia,3,Unemployed,27,54,100
+student1045@alx.edu,Africa,Nigeria,6,Employed,36,78,100
+student1046@alx.edu,Africa,South Africa,1,Unemployed,27,49,100
+student1047@alx.edu,Africa,Kenya,2,Employed,13,28,87
+student1048@alx.edu,Africa,Rwanda,4,Unemployed,6,16,66
+student1049@alx.edu,Africa,Morocco,2,Unemployed,35,78,100
+student1050@alx.edu,Africa,Egypt,9,Unemployed,6,10,50
+student1051@alx.edu,Africa,Ghana,2,Employed,36,73,100
+student1052@alx.edu,Africa,Zimbabwe,5,Employed,24,49,100
+student1053@alx.edu,Africa,Ethiopia,6,Employed,38,76,100
+student1054@alx.edu,Africa,Nigeria,7,Employed,33,66,100
+student1055@alx.edu,Africa,South Africa,4,Unemployed,40,81,100
+student1056@alx.edu,Africa,Kenya,9,Unemployed,17,27,85
+student1057@alx.edu,Africa,Rwanda,6,Unemployed,32,66,100
+student1058@alx.edu,Africa,Morocco,4,Employed,19,39,94
+student1059@alx.edu,Africa,Egypt,1,Unemployed,22,43,100
+student1060@alx.edu,Africa,Ghana,5,Unemployed,27,60,100
+student1061@alx.edu,Africa,Zimbabwe,8,Employed,36,69,100
+student1062@alx.edu,Africa,Ethiopia,6,Employed,39,78,100
+student1063@alx.edu,Africa,Nigeria,8,Unemployed,32,70,100
+student1064@alx.edu,Africa,South Africa,5,Employed,20,37,94
+student1065@alx.edu,Africa,Kenya,1,Employed,20,38,100
+student1066@alx.edu,Africa,Rwanda,0,Employed,31,61,100
+student1067@alx.edu,Africa,Morocco,3,Employed,13,29,79
+student1068@alx.edu,Africa,Egypt,7,Unemployed,9,18,58
+student1069@alx.edu,Africa,Ghana,8,Unemployed,17,31,86
+student1070@alx.edu,Africa,Zimbabwe,3,Unemployed,15,29,87
+student1071@alx.edu,Africa,Ethiopia,5,Unemployed,15,29,90
+student1072@alx.edu,Africa,Nigeria,4,Unemployed,13,26,84
+student1073@alx.edu,Africa,South Africa,4,Employed,6,14,55
+student1074@alx.edu,Africa,Kenya,2,Unemployed,6,13,62
+student1075@alx.edu,Africa,Rwanda,1,Unemployed,40,74,100
+student1076@alx.edu,Africa,Morocco,2,Employed,20,43,97
+student1077@alx.edu,Africa,Egypt,1,Employed,18,38,97
+student1078@alx.edu,Africa,Ghana,2,Employed,29,62,100
+student1079@alx.edu,Africa,Zimbabwe,0,Unemployed,13,27,96
+student1080@alx.edu,Africa,Ethiopia,6,Employed,38,80,100
+student1081@alx.edu,Africa,Nigeria,3,Employed,33,66,100
+student1082@alx.edu,Africa,South Africa,10,Employed,8,20,51
+student1083@alx.edu,Africa,Kenya,2,Unemployed,20,41,100
+student1084@alx.edu,Africa,Rwanda,3,Employed,36,71,100
+student1085@alx.edu,Africa,Morocco,4,Employed,38,83,100
+student1086@alx.edu,Africa,Egypt,0,Unemployed,21,45,100
+student1087@alx.edu,Africa,Ghana,8,Employed,26,55,100
+student1088@alx.edu,Africa,Zimbabwe,0,Unemployed,11,18,83
+student1089@alx.edu,Africa,Ethiopia,9,Unemployed,40,76,100
+student1090@alx.edu,Africa,Nigeria,9,Employed,13,27,72
+student1091@alx.edu,Africa,South Africa,5,Unemployed,38,76,100
+student1092@alx.edu,Africa,Kenya,5,Employed,28,54,100
+student1093@alx.edu,Africa,Rwanda,7,Employed,26,53,100
+student1094@alx.edu,Africa,Morocco,4,Employed,23,51,100
+student1095@alx.edu,Africa,Egypt,6,Employed,13,28,83
+student1096@alx.edu,Africa,Ghana,0,Unemployed,11,19,77
+student1097@alx.edu,Africa,Zimbabwe,1,Employed,13,25,80
+student1098@alx.edu,Africa,Ethiopia,5,Employed,12,21,78
+student1099@alx.edu,Africa,Nigeria,5,Employed,32,63,100
+student1100@alx.edu,Africa,South Africa,9,Unemployed,17,33,92
+student1101@alx.edu,Africa,Kenya,1,Unemployed,7,13,62
+student1102@alx.edu,Africa,Rwanda,8,Employed,39,74,100
+student1103@alx.edu,Africa,Morocco,2,Unemployed,36,71,100
+student1104@alx.edu,Africa,Egypt,4,Unemployed,37,73,100
+student1105@alx.edu,Africa,Ghana,3,Employed,40,71,100
+student1106@alx.edu,Africa,Zimbabwe,4,Employed,11,28,80
+student1107@alx.edu,Africa,Ethiopia,2,Employed,19,41,99
+student1108@alx.edu,Africa,Nigeria,5,Employed,32,62,100
+student1109@alx.edu,Africa,South Africa,8,Employed,29,59,100
+student1110@alx.edu,Africa,Kenya,4,Unemployed,10,17,76
+student1111@alx.edu,Africa,Rwanda,5,Employed,34,72,100
+student1112@alx.edu,Africa,Morocco,8,Employed,13,31,76
+student1113@alx.edu,Africa,Egypt,7,Employed,13,26,79
+student1114@alx.edu,Africa,Ghana,5,Employed,24,51,100
+student1115@alx.edu,Africa,Zimbabwe,3,Employed,26,52,100
+student1116@alx.edu,Africa,Ethiopia,9,Unemployed,25,47,100
+student1117@alx.edu,Africa,Nigeria,6,Employed,8,15,54
+student1118@alx.edu,Africa,South Africa,2,Unemployed,36,72,100
+student1119@alx.edu,Africa,Kenya,3,Employed,14,27,89
+student1120@alx.edu,Africa,Rwanda,8,Employed,10,18,68
+student1121@alx.edu,Africa,Morocco,0,Employed,36,72,100
+student1122@alx.edu,Africa,Egypt,10,Unemployed,38,77,100
+student1123@alx.edu,Africa,Ghana,1,Employed,35,71,100
+student1124@alx.edu,Africa,Zimbabwe,8,Employed,33,63,100
+student1125@alx.edu,Africa,Ethiopia,4,Employed,28,54,100
+student1126@alx.edu,Africa,Nigeria,5,Employed,24,45,100
+student1127@alx.edu,Africa,South Africa,9,Employed,8,19,62
+student1128@alx.edu,Africa,Kenya,4,Employed,19,32,100
+student1129@alx.edu,Africa,Rwanda,5,Employed,18,40,95
+student1130@alx.edu,Africa,Morocco,0,Unemployed,14,32,93
+student1131@alx.edu,Africa,Egypt,0,Employed,30,60,100
+student1132@alx.edu,Africa,Ghana,2,Employed,22,37,100
+student1133@alx.edu,Africa,Zimbabwe,7,Employed,8,15,56
+student1134@alx.edu,Africa,Ethiopia,1,Unemployed,13,25,87
+student1135@alx.edu,Africa,Nigeria,1,Unemployed,29,55,100
+student1136@alx.edu,Africa,South Africa,4,Employed,8,14,64
+student1137@alx.edu,Africa,Kenya,6,Unemployed,35,74,100
+student1138@alx.edu,Africa,Rwanda,7,Employed,22,47,100
+student1139@alx.edu,Africa,Morocco,2,Employed,22,41,100
+student1140@alx.edu,Africa,Egypt,1,Unemployed,26,47,100
+student1141@alx.edu,Africa,Ghana,9,Employed,34,67,100
+student1142@alx.edu,Africa,Zimbabwe,3,Unemployed,17,34,92
+student1143@alx.edu,Africa,Ethiopia,9,Unemployed,29,59,100
+student1144@alx.edu,Africa,Nigeria,9,Unemployed,25,48,100
+student1145@alx.edu,Africa,South Africa,8,Employed,14,30,78
+student1146@alx.edu,Africa,Kenya,2,Employed,36,77,100
+student1147@alx.edu,Africa,Rwanda,8,Employed,33,68,100
+student1148@alx.edu,Africa,Morocco,8,Employed,28,56,100
+student1149@alx.edu,Africa,Egypt,6,Employed,35,69,100
+student1150@alx.edu,Africa,Ghana,3,Employed,35,70,100
+student1151@alx.edu,Africa,Zimbabwe,3,Employed,30,63,100
+student1152@alx.edu,Africa,Ethiopia,1,Unemployed,34,67,100
+student1153@alx.edu,Africa,Nigeria,5,Employed,29,59,100
+student1154@alx.edu,Africa,South Africa,6,Employed,29,58,100
+student1155@alx.edu,Africa,Kenya,4,Employed,27,52,100
+student1156@alx.edu,Africa,Rwanda,5,Unemployed,31,59,100
+student1157@alx.edu,Africa,Morocco,4,Unemployed,11,22,78
+student1158@alx.edu,Africa,Egypt,6,Unemployed,36,71,100
+student1159@alx.edu,Africa,Ghana,9,Employed,36,73,100
+student1160@alx.edu,Africa,Zimbabwe,2,Unemployed,6,10,59
+student1161@alx.edu,Africa,Ethiopia,4,Unemployed,34,71,100
+student1162@alx.edu,Africa,Nigeria,1,Employed,10,16,74
+student1163@alx.edu,Africa,South Africa,6,Employed,17,39,95
+student1164@alx.edu,Africa,Kenya,7,Employed,31,57,100
+student1165@alx.edu,Africa,Rwanda,9,Unemployed,11,23,65
+student1166@alx.edu,Africa,Morocco,3,Employed,34,69,100
+student1167@alx.edu,Africa,Egypt,10,Employed,34,66,100
+student1168@alx.edu,Africa,Ghana,1,Employed,23,47,100
+student1169@alx.edu,Africa,Zimbabwe,6,Employed,5,14,65
+student1170@alx.edu,Africa,Ethiopia,1,Employed,15,23,81
+student1171@alx.edu,Africa,Nigeria,9,Employed,27,55,100
+student1172@alx.edu,Africa,South Africa,5,Unemployed,39,71,100
+student1173@alx.edu,Africa,Kenya,7,Employed,27,51,100
+student1174@alx.edu,Africa,Rwanda,8,Unemployed,14,33,83
+student1175@alx.edu,Africa,Morocco,2,Unemployed,27,53,100
+student1176@alx.edu,Africa,Egypt,0,Employed,24,44,100
+student1177@alx.edu,Africa,Ghana,9,Unemployed,32,64,100
+student1178@alx.edu,Africa,Zimbabwe,3,Unemployed,9,24,82
+student1179@alx.edu,Africa,Ethiopia,1,Unemployed,32,58,100
+student1180@alx.edu,Africa,Nigeria,5,Employed,24,45,100
+student1181@alx.edu,Africa,South Africa,6,Unemployed,39,82,100
+student1182@alx.edu,Africa,Kenya,0,Unemployed,17,40,98
+student1183@alx.edu,Africa,Rwanda,3,Unemployed,27,54,100
+student1184@alx.edu,Africa,Morocco,0,Unemployed,38,72,100
+student1185@alx.edu,Africa,Egypt,4,Employed,9,23,73
+student1186@alx.edu,Africa,Ghana,9,Employed,38,80,100
+student1187@alx.edu,Africa,Zimbabwe,10,Unemployed,29,60,100
+student1188@alx.edu,Africa,Ethiopia,6,Employed,7,12,55
+student1189@alx.edu,Africa,Nigeria,2,Employed,16,31,98
+student1190@alx.edu,Africa,South Africa,9,Unemployed,30,59,100
+student1191@alx.edu,Africa,Kenya,5,Employed,7,16,51
+student1192@alx.edu,Africa,Rwanda,2,Employed,25,55,100
+student1193@alx.edu,Africa,Morocco,9,Unemployed,17,37,85
+student1194@alx.edu,Africa,Egypt,8,Unemployed,27,50,100
+student1195@alx.edu,Africa,Ghana,7,Employed,7,17,61
+student1196@alx.edu,Africa,Zimbabwe,7,Employed,36,72,100
+student1197@alx.edu,Africa,Ethiopia,2,Employed,39,80,100
+student1198@alx.edu,Africa,Nigeria,2,Employed,39,82,100
+student1199@alx.edu,Africa,South Africa,7,Unemployed,31,59,100
+student1200@alx.edu,Africa,Kenya,2,Unemployed,10,19,85
+student1201@alx.edu,Africa,Rwanda,4,Unemployed,32,61,100
+student1202@alx.edu,Africa,Morocco,8,Unemployed,6,7,54
+student1203@alx.edu,Africa,Egypt,8,Unemployed,6,13,55
+student1204@alx.edu,Africa,Ghana,5,Employed,16,40,94
+student1205@alx.edu,Africa,Zimbabwe,8,Employed,22,39,100
+student1206@alx.edu,Africa,Ethiopia,8,Unemployed,32,64,100
+student1207@alx.edu,Africa,Nigeria,7,Unemployed,29,60,100
+student1208@alx.edu,Africa,South Africa,2,Unemployed,21,42,100
+student1209@alx.edu,Africa,Kenya,3,Employed,15,29,99
+student1210@alx.edu,Africa,Rwanda,3,Employed,40,76,100
+student1211@alx.edu,Africa,Morocco,1,Employed,20,41,100
+student1212@alx.edu,Africa,Egypt,3,Unemployed,21,39,99
+student1213@alx.edu,Africa,Ghana,2,Unemployed,11,15,74
+student1214@alx.edu,Africa,Zimbabwe,5,Unemployed,33,69,100
+student1215@alx.edu,Africa,Ethiopia,9,Unemployed,29,61,100
+student1216@alx.edu,Africa,Nigeria,1,Unemployed,13,26,73
+student1217@alx.edu,Africa,South Africa,7,Employed,8,16,61
+student1218@alx.edu,Africa,Kenya,7,Unemployed,29,61,100
+student1219@alx.edu,Africa,Rwanda,1,Employed,28,56,100
+student1220@alx.edu,Africa,Morocco,9,Employed,15,32,73
+student1221@alx.edu,Africa,Egypt,6,Employed,38,76,100
+student1222@alx.edu,Africa,Ghana,4,Employed,10,25,73
+student1223@alx.edu,Africa,Zimbabwe,8,Employed,20,41,91
+student1224@alx.edu,Africa,Ethiopia,3,Unemployed,38,77,100
+student1225@alx.edu,Africa,Nigeria,7,Unemployed,20,36,91
+student1226@alx.edu,Africa,South Africa,0,Unemployed,27,56,100
+student1227@alx.edu,Africa,Kenya,8,Employed,19,35,95
+student1228@alx.edu,Africa,Rwanda,4,Employed,15,27,77
+student1229@alx.edu,Africa,Morocco,6,Employed,39,76,100
+student1230@alx.edu,Africa,Egypt,2,Employed,19,35,100
+student1231@alx.edu,Africa,Ghana,7,Employed,36,79,100
+student1232@alx.edu,Africa,Zimbabwe,8,Employed,13,30,72
+student1233@alx.edu,Africa,Ethiopia,5,Unemployed,12,31,84
+student1234@alx.edu,Africa,Nigeria,6,Employed,6,9,60
+student1235@alx.edu,Africa,South Africa,5,Employed,28,56,100
+student1236@alx.edu,Africa,Kenya,9,Unemployed,18,32,88
+student1237@alx.edu,Africa,Rwanda,5,Employed,35,68,100
+student1238@alx.edu,Africa,Morocco,8,Unemployed,22,40,99
+student1239@alx.edu,Africa,Egypt,8,Unemployed,39,81,100
+student1240@alx.edu,Africa,Ghana,4,Unemployed,11,22,73
+student1241@alx.edu,Africa,Zimbabwe,2,Employed,35,74,100
+student1242@alx.edu,Africa,Ethiopia,4,Unemployed,32,66,100
+student1243@alx.edu,Africa,Nigeria,8,Unemployed,32,71,100
+student1244@alx.edu,Africa,South Africa,2,Employed,35,65,100
+student1245@alx.edu,Africa,Kenya,5,Unemployed,32,67,100
+student1246@alx.edu,Africa,Rwanda,8,Employed,27,57,100
+student1247@alx.edu,Africa,Morocco,4,Employed,10,16,72
+student1248@alx.edu,Africa,Egypt,6,Unemployed,6,15,66
+student1249@alx.edu,Africa,Ghana,2,Employed,37,75,100
+student1250@alx.edu,Africa,Zimbabwe,1,Employed,27,52,100
+student1251@alx.edu,Africa,Ethiopia,8,Unemployed,33,63,100
+student1252@alx.edu,Africa,Nigeria,1,Unemployed,22,42,100
+student1253@alx.edu,Africa,South Africa,3,Unemployed,9,24,64
+student1254@alx.edu,Africa,Kenya,9,Unemployed,9,19,68
+student1255@alx.edu,Africa,Rwanda,3,Employed,29,60,100
+student1256@alx.edu,Africa,Morocco,10,Unemployed,20,38,95
+student1257@alx.edu,Africa,Egypt,10,Unemployed,12,22,65
+student1258@alx.edu,Africa,Ghana,3,Unemployed,22,48,100
+student1259@alx.edu,Africa,Zimbabwe,0,Employed,7,10,75
+student1260@alx.edu,Africa,Ethiopia,7,Employed,25,49,100
+student1261@alx.edu,Africa,Nigeria,5,Employed,14,29,87
+student1262@alx.edu,Africa,South Africa,1,Employed,33,66,100
+student1263@alx.edu,Africa,Kenya,7,Employed,16,31,80
+student1264@alx.edu,Africa,Rwanda,0,Unemployed,21,43,100
+student1265@alx.edu,Africa,Morocco,9,Employed,5,13,51
+student1266@alx.edu,Africa,Egypt,1,Employed,8,17,71
+student1267@alx.edu,Africa,Ghana,1,Employed,19,35,100
+student1268@alx.edu,Africa,Zimbabwe,2,Unemployed,22,43,100
+student1269@alx.edu,Africa,Ethiopia,10,Unemployed,26,56,100
+student1270@alx.edu,Africa,Nigeria,7,Employed,15,33,85
+student1271@alx.edu,Africa,South Africa,8,Unemployed,29,55,100
+student1272@alx.edu,Africa,Kenya,4,Employed,35,71,100
+student1273@alx.edu,Africa,Rwanda,3,Unemployed,32,59,100
+student1274@alx.edu,Africa,Morocco,2,Unemployed,6,13,80
+student1275@alx.edu,Africa,Egypt,5,Employed,22,49,100
+student1276@alx.edu,Africa,Ghana,6,Unemployed,9,15,61
+student1277@alx.edu,Africa,Zimbabwe,6,Employed,13,24,78
+student1278@alx.edu,Africa,Ethiopia,3,Employed,40,81,100
+student1279@alx.edu,Africa,Nigeria,9,Employed,10,15,56
+student1280@alx.edu,Africa,South Africa,2,Unemployed,22,43,100
+student1281@alx.edu,Africa,Kenya,10,Unemployed,27,55,100
+student1282@alx.edu,Africa,Rwanda,0,Employed,30,57,100
+student1283@alx.edu,Africa,Morocco,5,Employed,25,48,100
+student1284@alx.edu,Africa,Egypt,3,Unemployed,5,13,65
+student1285@alx.edu,Africa,Ghana,4,Employed,16,34,92
+student1286@alx.edu,Africa,Zimbabwe,6,Unemployed,23,47,100
+student1287@alx.edu,Africa,Ethiopia,4,Unemployed,8,15,74
+student1288@alx.edu,Africa,Nigeria,4,Unemployed,17,36,98
+student1289@alx.edu,Africa,South Africa,7,Employed,6,12,56
+student1290@alx.edu,Africa,Kenya,7,Employed,8,17,62
+student1291@alx.edu,Africa,Rwanda,8,Unemployed,19,36,96
+student1292@alx.edu,Africa,Morocco,2,Employed,10,19,72
+student1293@alx.edu,Africa,Egypt,6,Employed,25,47,100
+student1294@alx.edu,Africa,Ghana,6,Unemployed,29,58,100
+student1295@alx.edu,Africa,Zimbabwe,4,Unemployed,33,64,100
+student1296@alx.edu,Africa,Ethiopia,5,Employed,12,21,67
+student1297@alx.edu,Africa,Nigeria,3,Unemployed,11,22,78
+student1298@alx.edu,Africa,South Africa,1,Employed,9,18,68
+student1299@alx.edu,Africa,Kenya,2,Unemployed,27,57,100
+student1300@alx.edu,Africa,Rwanda,1,Unemployed,30,58,100
+student1301@alx.edu,Africa,Morocco,7,Employed,6,13,59
+student1302@alx.edu,Africa,Egypt,7,Employed,38,77,100
+student1303@alx.edu,Africa,Ghana,10,Employed,7,15,44
+student1304@alx.edu,Africa,Zimbabwe,7,Employed,24,45,100
+student1305@alx.edu,Africa,Ethiopia,1,Employed,30,60,100
+student1306@alx.edu,Africa,Nigeria,9,Unemployed,35,72,100
+student1307@alx.edu,Africa,South Africa,9,Unemployed,30,60,100
+student1308@alx.edu,Africa,Kenya,4,Employed,33,60,100
+student1309@alx.edu,Africa,Rwanda,6,Unemployed,17,34,99
+student1310@alx.edu,Africa,Morocco,10,Employed,34,74,100
+student1311@alx.edu,Africa,Egypt,5,Unemployed,8,15,55
+student1312@alx.edu,Africa,Ghana,9,Unemployed,36,70,100
+student1313@alx.edu,Africa,Zimbabwe,1,Employed,24,49,100
+student1314@alx.edu,Africa,Ethiopia,2,Employed,34,68,100
+student1315@alx.edu,Africa,Nigeria,4,Employed,21,45,100
+student1316@alx.edu,Africa,South Africa,6,Unemployed,28,51,100
+student1317@alx.edu,Africa,Kenya,8,Employed,23,49,100
+student1318@alx.edu,Africa,Rwanda,10,Employed,31,63,100
+student1319@alx.edu,Africa,Morocco,4,Employed,8,15,69
+student1320@alx.edu,Africa,Egypt,0,Employed,7,15,62
+student1321@alx.edu,Africa,Ghana,8,Employed,14,30,73
+student1322@alx.edu,Africa,Zimbabwe,6,Employed,11,24,65
+student1323@alx.edu,Africa,Ethiopia,2,Unemployed,36,68,100
+student1324@alx.edu,Africa,Nigeria,5,Unemployed,13,28,83
+student1325@alx.edu,Africa,South Africa,7,Unemployed,39,78,100
+student1326@alx.edu,Africa,Kenya,8,Unemployed,17,34,88
+student1327@alx.edu,Africa,Rwanda,5,Employed,11,23,66
+student1328@alx.edu,Africa,Morocco,3,Employed,33,65,100
+student1329@alx.edu,Africa,Egypt,10,Unemployed,28,60,100
+student1330@alx.edu,Africa,Ghana,7,Unemployed,22,45,100
+student1331@alx.edu,Africa,Zimbabwe,4,Unemployed,24,46,100
+student1332@alx.edu,Africa,Ethiopia,3,Employed,30,59,100
+student1333@alx.edu,Africa,Nigeria,7,Employed,13,27,83
+student1334@alx.edu,Africa,South Africa,2,Employed,40,83,100
+student1335@alx.edu,Africa,Kenya,2,Unemployed,39,80,100
+student1336@alx.edu,Africa,Rwanda,5,Unemployed,28,53,100
+student1337@alx.edu,Africa,Morocco,3,Unemployed,12,31,89
+student1338@alx.edu,Africa,Egypt,6,Unemployed,29,58,100
+student1339@alx.edu,Africa,Ghana,1,Unemployed,8,19,70
+student1340@alx.edu,Africa,Zimbabwe,7,Employed,6,12,60
+student1341@alx.edu,Africa,Ethiopia,3,Employed,14,30,88
+student1342@alx.edu,Africa,Nigeria,0,Employed,21,45,100
+student1343@alx.edu,Africa,South Africa,1,Employed,35,74,100
+student1344@alx.edu,Africa,Kenya,9,Employed,30,64,100
+student1345@alx.edu,Africa,Rwanda,9,Unemployed,31,65,100
+student1346@alx.edu,Africa,Morocco,2,Employed,20,39,100
+student1347@alx.edu,Africa,Egypt,8,Unemployed,17,33,87
+student1348@alx.edu,Africa,Ghana,6,Employed,18,37,92
+student1349@alx.edu,Africa,Zimbabwe,10,Unemployed,40,82,100
+student1350@alx.edu,Africa,Ethiopia,4,Unemployed,6,12,68
+student1351@alx.edu,Africa,Nigeria,7,Unemployed,35,74,100
+student1352@alx.edu,Africa,South Africa,1,Unemployed,25,55,100
+student1353@alx.edu,Africa,Kenya,4,Unemployed,20,38,100
+student1354@alx.edu,Africa,Rwanda,10,Unemployed,30,58,100
+student1355@alx.edu,Africa,Morocco,5,Employed,22,44,100
+student1356@alx.edu,Africa,Egypt,3,Unemployed,36,72,100
+student1357@alx.edu,Africa,Ghana,1,Unemployed,37,71,100
+student1358@alx.edu,Africa,Zimbabwe,7,Employed,20,44,100
+student1359@alx.edu,Africa,Ethiopia,6,Unemployed,15,31,83
+student1360@alx.edu,Africa,Nigeria,4,Employed,26,52,100
+student1361@alx.edu,Africa,South Africa,10,Employed,37,70,100
+student1362@alx.edu,Africa,Kenya,0,Unemployed,12,21,90
+student1363@alx.edu,Africa,Rwanda,3,Unemployed,27,54,100
+student1364@alx.edu,Africa,Morocco,9,Employed,27,48,100
+student1365@alx.edu,Africa,Egypt,3,Unemployed,31,64,100
+student1366@alx.edu,Africa,Ghana,3,Employed,10,19,74
+student1367@alx.edu,Africa,Zimbabwe,5,Unemployed,30,70,100
+student1368@alx.edu,Africa,Ethiopia,8,Employed,37,81,100
+student1369@alx.edu,Africa,Nigeria,1,Unemployed,11,22,84
+student1370@alx.edu,Africa,South Africa,9,Unemployed,13,26,75
+student1371@alx.edu,Africa,Kenya,8,Employed,39,81,100
+student1372@alx.edu,Africa,Rwanda,2,Employed,11,28,82
+student1373@alx.edu,Africa,Morocco,7,Employed,35,65,100
+student1374@alx.edu,Africa,Egypt,4,Employed,22,39,100
+student1375@alx.edu,Africa,Ghana,4,Unemployed,14,25,84
+student1376@alx.edu,Africa,Zimbabwe,8,Employed,35,73,100
+student1377@alx.edu,Africa,Ethiopia,10,Employed,21,43,92
+student1378@alx.edu,Africa,Nigeria,1,Unemployed,23,49,100
+student1379@alx.edu,Africa,South Africa,4,Unemployed,18,32,90
+student1380@alx.edu,Africa,Kenya,5,Employed,26,45,100
+student1381@alx.edu,Africa,Rwanda,4,Unemployed,11,24,73
+student1382@alx.edu,Africa,Morocco,4,Employed,19,35,96
+student1383@alx.edu,Africa,Egypt,1,Unemployed,39,72,100
+student1384@alx.edu,Africa,Ghana,7,Employed,14,29,78
+student1385@alx.edu,Africa,Zimbabwe,4,Unemployed,28,58,100
+student1386@alx.edu,Africa,Ethiopia,2,Employed,16,32,100
+student1387@alx.edu,Africa,Nigeria,8,Employed,32,63,100
+student1388@alx.edu,Africa,South Africa,8,Unemployed,10,19,69
+student1389@alx.edu,Africa,Kenya,5,Unemployed,39,77,100
+student1390@alx.edu,Africa,Rwanda,3,Employed,21,38,98
+student1391@alx.edu,Africa,Morocco,6,Employed,13,24,86
+student1392@alx.edu,Africa,Egypt,3,Unemployed,8,17,64
+student1393@alx.edu,Africa,Ghana,2,Unemployed,11,23,81
+student1394@alx.edu,Africa,Zimbabwe,7,Unemployed,23,47,100
+student1395@alx.edu,Africa,Ethiopia,0,Unemployed,17,31,98
+student1396@alx.edu,Africa,Nigeria,1,Unemployed,34,67,100
+student1397@alx.edu,Africa,South Africa,0,Unemployed,20,34,100
+student1398@alx.edu,Africa,Kenya,2,Unemployed,14,28,93
+student1399@alx.edu,Africa,Rwanda,1,Unemployed,27,57,100
+student1400@alx.edu,Africa,Morocco,10,Unemployed,30,55,100
+student1401@alx.edu,Africa,Egypt,3,Employed,11,20,71
+student1402@alx.edu,Africa,Ghana,1,Unemployed,11,23,85
+student1403@alx.edu,Africa,Zimbabwe,2,Unemployed,6,16,64
+student1404@alx.edu,Africa,Ethiopia,9,Employed,31,60,100
+student1405@alx.edu,Africa,Nigeria,5,Employed,28,54,100
+student1406@alx.edu,Africa,South Africa,4,Employed,22,37,95
+student1407@alx.edu,Africa,Kenya,9,Employed,35,69,100
+student1408@alx.edu,Africa,Rwanda,4,Employed,33,73,100
+student1409@alx.edu,Africa,Morocco,3,Employed,25,52,100
+student1410@alx.edu,Africa,Egypt,2,Unemployed,35,71,100
+student1411@alx.edu,Africa,Ghana,4,Employed,12,25,84
+student1412@alx.edu,Africa,Zimbabwe,3,Employed,9,18,68
+student1413@alx.edu,Africa,Ethiopia,7,Employed,14,26,80
+student1414@alx.edu,Africa,Nigeria,3,Unemployed,7,16,61
+student1415@alx.edu,Africa,South Africa,6,Employed,24,48,100
+student1416@alx.edu,Africa,Kenya,1,Unemployed,38,76,100
+student1417@alx.edu,Africa,Rwanda,2,Employed,6,10,64
+student1418@alx.edu,Africa,Morocco,4,Employed,9,22,76
+student1419@alx.edu,Africa,Egypt,9,Unemployed,21,44,96
+student1420@alx.edu,Africa,Ghana,4,Unemployed,38,74,100
+student1421@alx.edu,Africa,Zimbabwe,7,Employed,16,35,96
+student1422@alx.edu,Africa,Ethiopia,3,Unemployed,23,44,100
+student1423@alx.edu,Africa,Nigeria,1,Unemployed,6,11,67
+student1424@alx.edu,Africa,South Africa,1,Employed,10,18,75
+student1425@alx.edu,Africa,Kenya,3,Employed,40,74,100
+student1426@alx.edu,Africa,Rwanda,2,Employed,39,79,100
+student1427@alx.edu,Africa,Morocco,2,Unemployed,5,5,58
+student1428@alx.edu,Africa,Egypt,8,Employed,38,73,100
+student1429@alx.edu,Africa,Ghana,0,Employed,27,49,100
+student1430@alx.edu,Africa,Zimbabwe,6,Unemployed,35,70,100
+student1431@alx.edu,Africa,Ethiopia,4,Unemployed,21,41,100
+student1432@alx.edu,Africa,Nigeria,5,Employed,23,45,100
+student1433@alx.edu,Africa,South Africa,6,Unemployed,22,41,100
+student1434@alx.edu,Africa,Kenya,3,Employed,28,53,100
+student1435@alx.edu,Africa,Rwanda,3,Unemployed,10,21,80
+student1436@alx.edu,Africa,Morocco,7,Employed,6,10,60
+student1437@alx.edu,Africa,Egypt,9,Unemployed,16,33,89
+student1438@alx.edu,Africa,Ghana,2,Unemployed,30,57,100
+student1439@alx.edu,Africa,Zimbabwe,1,Unemployed,12,25,86
+student1440@alx.edu,Africa,Ethiopia,9,Unemployed,29,61,100
+student1441@alx.edu,Africa,Nigeria,3,Employed,39,80,100
+student1442@alx.edu,Africa,South Africa,6,Unemployed,8,15,62
+student1443@alx.edu,Africa,Kenya,4,Employed,29,58,100
+student1444@alx.edu,Africa,Rwanda,1,Unemployed,21,40,100
+student1445@alx.edu,Africa,Morocco,6,Unemployed,35,71,100
+student1446@alx.edu,Africa,Egypt,5,Employed,11,21,62
+student1447@alx.edu,Africa,Ghana,2,Unemployed,29,58,100
+student1448@alx.edu,Africa,Zimbabwe,5,Unemployed,34,69,100
+student1449@alx.edu,Africa,Ethiopia,8,Employed,38,73,100
+student1450@alx.edu,Africa,Nigeria,6,Unemployed,29,55,100
+student1451@alx.edu,Africa,South Africa,1,Employed,22,41,100
+student1452@alx.edu,Africa,Kenya,5,Unemployed,27,48,100
+student1453@alx.edu,Africa,Rwanda,7,Unemployed,35,67,100
+student1454@alx.edu,Africa,Morocco,8,Unemployed,25,50,100
+student1455@alx.edu,Africa,Egypt,6,Employed,6,9,49
+student1456@alx.edu,Africa,Ghana,2,Unemployed,38,77,100
+student1457@alx.edu,Africa,Zimbabwe,7,Unemployed,29,58,100
+student1458@alx.edu,Africa,Ethiopia,7,Unemployed,29,51,100
+student1459@alx.edu,Africa,Nigeria,0,Unemployed,13,27,84
+student1460@alx.edu,Africa,South Africa,4,Unemployed,28,59,100
+student1461@alx.edu,Africa,Kenya,3,Unemployed,19,35,100
+student1462@alx.edu,Africa,Rwanda,7,Unemployed,28,57,100
+student1463@alx.edu,Africa,Morocco,2,Unemployed,9,15,72
+student1464@alx.edu,Africa,Egypt,6,Unemployed,28,56,100
+student1465@alx.edu,Africa,Ghana,9,Employed,40,76,100
+student1466@alx.edu,Africa,Zimbabwe,8,Unemployed,7,8,59
+student1467@alx.edu,Africa,Ethiopia,9,Employed,39,77,100
+student1468@alx.edu,Africa,Nigeria,10,Employed,19,38,89
+student1469@alx.edu,Africa,South Africa,0,Employed,35,70,100
+student1470@alx.edu,Africa,Kenya,6,Unemployed,32,61,100
+student1471@alx.edu,Africa,Rwanda,4,Employed,25,48,100
+student1472@alx.edu,Africa,Morocco,9,Employed,31,62,100
+student1473@alx.edu,Africa,Egypt,3,Employed,36,71,100
+student1474@alx.edu,Africa,Ghana,10,Unemployed,19,39,92
+student1475@alx.edu,Africa,Zimbabwe,6,Employed,16,31,80
+student1476@alx.edu,Africa,Ethiopia,8,Unemployed,28,60,100
+student1477@alx.edu,Africa,Nigeria,1,Employed,33,63,100
+student1478@alx.edu,Africa,South Africa,2,Employed,32,65,100
+student1479@alx.edu,Africa,Kenya,8,Unemployed,33,69,100
+student1480@alx.edu,Africa,Rwanda,0,Unemployed,20,42,100
+student1481@alx.edu,Africa,Morocco,8,Employed,34,67,100
+student1482@alx.edu,Africa,Egypt,0,Employed,9,17,72
+student1483@alx.edu,Africa,Ghana,7,Employed,24,51,100
+student1484@alx.edu,Africa,Zimbabwe,4,Unemployed,5,6,54
+student1485@alx.edu,Africa,Ethiopia,6,Unemployed,16,30,86
+student1486@alx.edu,Africa,Nigeria,7,Employed,18,34,97
+student1487@alx.edu,Africa,South Africa,3,Employed,19,41,99
+student1488@alx.edu,Africa,Kenya,1,Unemployed,29,60,100
+student1489@alx.edu,Africa,Rwanda,1,Unemployed,19,34,100
+student1490@alx.edu,Africa,Morocco,6,Employed,21,40,99
+student1491@alx.edu,Africa,Egypt,5,Unemployed,13,25,87
+student1492@alx.edu,Africa,Ghana,7,Employed,18,34,89
+student1493@alx.edu,Africa,Zimbabwe,5,Unemployed,13,29,81
+student1494@alx.edu,Africa,Ethiopia,4,Employed,8,11,67
+student1495@alx.edu,Africa,Nigeria,4,Employed,26,57,100
+student1496@alx.edu,Africa,South Africa,0,Employed,28,59,100
+student1497@alx.edu,Africa,Kenya,3,Unemployed,27,57,100
+student1498@alx.edu,Africa,Rwanda,10,Employed,21,41,96
+student1499@alx.edu,Africa,Morocco,9,Employed,18,36,89
+student1500@alx.edu,Africa,Egypt,3,Unemployed,35,66,100
+student1501@alx.edu,Africa,Ghana,6,Employed,23,45,100
+student1502@alx.edu,Africa,Zimbabwe,8,Employed,22,45,98
+student1503@alx.edu,Africa,Ethiopia,4,Employed,6,16,60
+student1504@alx.edu,Africa,Nigeria,0,Unemployed,17,31,98
+student1505@alx.edu,Africa,South Africa,1,Unemployed,18,36,100
+student1506@alx.edu,Africa,Kenya,5,Unemployed,19,37,100
+student1507@alx.edu,Africa,Rwanda,10,Unemployed,25,46,100
+student1508@alx.edu,Africa,Morocco,7,Employed,24,49,100
+student1509@alx.edu,Africa,Egypt,1,Unemployed,26,50,100
+student1510@alx.edu,Africa,Ghana,2,Unemployed,32,63,100
+student1511@alx.edu,Africa,Zimbabwe,8,Unemployed,33,66,100
+student1512@alx.edu,Africa,Ethiopia,8,Employed,30,58,100
+student1513@alx.edu,Africa,Nigeria,6,Employed,38,77,100
+student1514@alx.edu,Africa,South Africa,6,Employed,6,11,56
+student1515@alx.edu,Africa,Kenya,0,Unemployed,12,23,84
+student1516@alx.edu,Africa,Rwanda,8,Employed,5,8,47
+student1517@alx.edu,Africa,Morocco,8,Employed,28,56,100
+student1518@alx.edu,Africa,Egypt,3,Unemployed,36,78,100
+student1519@alx.edu,Africa,Ghana,7,Employed,14,27,75
+student1520@alx.edu,Africa,Zimbabwe,2,Unemployed,37,78,100
+student1521@alx.edu,Africa,Ethiopia,0,Unemployed,7,10,70
+student1522@alx.edu,Africa,Nigeria,2,Employed,38,76,100
+student1523@alx.edu,Africa,South Africa,2,Unemployed,17,31,99
+student1524@alx.edu,Africa,Kenya,3,Unemployed,9,13,69
+student1525@alx.edu,Africa,Rwanda,4,Unemployed,22,42,100
+student1526@alx.edu,Africa,Morocco,5,Unemployed,14,32,84
+student1527@alx.edu,Africa,Egypt,5,Unemployed,15,33,97
+student1528@alx.edu,Africa,Ghana,3,Unemployed,16,32,90
+student1529@alx.edu,Africa,Zimbabwe,0,Employed,33,62,100
+student1530@alx.edu,Africa,Ethiopia,6,Unemployed,24,47,100
+student1531@alx.edu,Africa,Nigeria,4,Unemployed,16,33,92
+student1532@alx.edu,Africa,South Africa,3,Unemployed,26,53,100
+student1533@alx.edu,Africa,Kenya,9,Unemployed,30,55,100
+student1534@alx.edu,Africa,Rwanda,7,Employed,15,26,79
+student1535@alx.edu,Africa,Morocco,9,Employed,19,39,96
+student1536@alx.edu,Africa,Egypt,5,Unemployed,9,20,66
+student1537@alx.edu,Africa,Ghana,1,Employed,11,16,74
+student1538@alx.edu,Africa,Zimbabwe,7,Unemployed,29,57,100
+student1539@alx.edu,Africa,Ethiopia,2,Unemployed,11,23,83
+student1540@alx.edu,Africa,Nigeria,4,Unemployed,23,49,100
+student1541@alx.edu,Africa,South Africa,1,Unemployed,30,62,100
+student1542@alx.edu,Africa,Kenya,8,Employed,9,19,68
+student1543@alx.edu,Africa,Rwanda,1,Employed,25,47,100
+student1544@alx.edu,Africa,Morocco,9,Unemployed,14,22,73
+student1545@alx.edu,Africa,Egypt,9,Unemployed,39,76,100
+student1546@alx.edu,Africa,Ghana,5,Employed,22,47,100
+student1547@alx.edu,Africa,Zimbabwe,7,Employed,33,71,100
+student1548@alx.edu,Africa,Ethiopia,6,Unemployed,24,51,100
+student1549@alx.edu,Africa,Nigeria,8,Employed,7,14,49
+student1550@alx.edu,Africa,South Africa,4,Unemployed,27,55,100
+student1551@alx.edu,Africa,Kenya,8,Employed,38,75,100
+student1552@alx.edu,Africa,Rwanda,5,Employed,26,52,100
+student1553@alx.edu,Africa,Morocco,9,Employed,34,72,100
+student1554@alx.edu,Africa,Egypt,5,Employed,36,69,100
+student1555@alx.edu,Africa,Ghana,5,Unemployed,13,31,80
+student1556@alx.edu,Africa,Zimbabwe,8,Unemployed,12,24,81
+student1557@alx.edu,Africa,Ethiopia,8,Employed,26,57,100
+student1558@alx.edu,Africa,Nigeria,6,Unemployed,19,35,100
+student1559@alx.edu,Africa,South Africa,2,Employed,34,71,100
+student1560@alx.edu,Africa,Kenya,5,Employed,37,71,100
+student1561@alx.edu,Africa,Rwanda,10,Unemployed,17,30,83
+student1562@alx.edu,Africa,Morocco,8,Unemployed,13,27,74
+student1563@alx.edu,Africa,Egypt,8,Unemployed,32,68,100
+student1564@alx.edu,Africa,Ghana,0,Employed,15,27,83
+student1565@alx.edu,Africa,Zimbabwe,5,Unemployed,34,63,100
+student1566@alx.edu,Africa,Ethiopia,6,Unemployed,20,39,100
+student1567@alx.edu,Africa,Nigeria,8,Unemployed,28,56,100
+student1568@alx.edu,Africa,South Africa,0,Unemployed,8,18,77
+student1569@alx.edu,Africa,Kenya,9,Employed,27,57,100
+student1570@alx.edu,Africa,Rwanda,5,Employed,21,41,100
+student1571@alx.edu,Africa,Morocco,2,Employed,26,57,100
+student1572@alx.edu,Africa,Egypt,3,Employed,11,22,78
+student1573@alx.edu,Africa,Ghana,3,Employed,31,61,100
+student1574@alx.edu,Africa,Zimbabwe,5,Employed,35,66,100
+student1575@alx.edu,Africa,Ethiopia,1,Employed,13,24,82
+student1576@alx.edu,Africa,Nigeria,2,Unemployed,8,16,77
+student1577@alx.edu,Africa,South Africa,8,Employed,6,15,49
+student1578@alx.edu,Africa,Kenya,1,Employed,27,56,100
+student1579@alx.edu,Africa,Rwanda,2,Employed,26,49,100
+student1580@alx.edu,Africa,Morocco,5,Employed,24,49,100
+student1581@alx.edu,Africa,Egypt,5,Unemployed,13,28,77
+student1582@alx.edu,Africa,Ghana,8,Employed,19,42,90
+student1583@alx.edu,Africa,Zimbabwe,4,Employed,26,54,100
+student1584@alx.edu,Africa,Ethiopia,8,Unemployed,22,47,100
+student1585@alx.edu,Africa,Nigeria,6,Employed,40,79,100
+student1586@alx.edu,Africa,South Africa,1,Employed,10,21,76
+student1587@alx.edu,Africa,Kenya,2,Employed,29,62,100
+student1588@alx.edu,Africa,Rwanda,4,Employed,19,34,97
+student1589@alx.edu,Africa,Morocco,4,Employed,20,39,100
+student1590@alx.edu,Africa,Egypt,7,Employed,30,58,100
+student1591@alx.edu,Africa,Ghana,6,Employed,29,60,100
+student1592@alx.edu,Africa,Zimbabwe,4,Unemployed,40,83,100
+student1593@alx.edu,Africa,Ethiopia,2,Unemployed,9,17,75
+student1594@alx.edu,Africa,Nigeria,2,Employed,9,10,70
+student1595@alx.edu,Africa,South Africa,6,Unemployed,30,59,100
+student1596@alx.edu,Africa,Kenya,4,Employed,25,53,100
+student1597@alx.edu,Africa,Rwanda,5,Unemployed,15,31,89
+student1598@alx.edu,Africa,Morocco,2,Employed,8,17,63
+student1599@alx.edu,Africa,Egypt,7,Unemployed,8,15,59
+student1600@alx.edu,Africa,Ghana,9,Employed,36,69,100
+student1601@alx.edu,Africa,Zimbabwe,3,Unemployed,12,25,82
+student1602@alx.edu,Africa,Ethiopia,5,Unemployed,16,30,83
+student1603@alx.edu,Africa,Nigeria,10,Employed,13,32,75
+student1604@alx.edu,Africa,South Africa,3,Employed,17,37,100
+student1605@alx.edu,Africa,Kenya,6,Unemployed,7,13,57
+student1606@alx.edu,Africa,Rwanda,1,Unemployed,23,45,100
+student1607@alx.edu,Africa,Morocco,6,Employed,7,14,52
+student1608@alx.edu,Africa,Egypt,1,Unemployed,33,65,100
+student1609@alx.edu,Africa,Ghana,10,Employed,13,30,72
+student1610@alx.edu,Africa,Zimbabwe,7,Unemployed,24,48,100
+student1611@alx.edu,Africa,Ethiopia,8,Unemployed,36,69,100
+student1612@alx.edu,Africa,Nigeria,7,Employed,28,61,100
+student1613@alx.edu,Africa,South Africa,6,Employed,24,47,100
+student1614@alx.edu,Africa,Kenya,4,Employed,16,35,90
+student1615@alx.edu,Africa,Rwanda,9,Unemployed,17,31,83
+student1616@alx.edu,Africa,Morocco,10,Unemployed,28,58,100
+student1617@alx.edu,Africa,Egypt,5,Unemployed,40,81,100
+student1618@alx.edu,Africa,Ghana,9,Employed,28,51,100
+student1619@alx.edu,Africa,Zimbabwe,6,Unemployed,25,55,100
+student1620@alx.edu,Africa,Ethiopia,5,Unemployed,31,65,100
+student1621@alx.edu,Africa,Nigeria,5,Employed,21,41,100
+student1622@alx.edu,Africa,South Africa,2,Unemployed,7,11,71
+student1623@alx.edu,Africa,Kenya,0,Unemployed,25,50,100
+student1624@alx.edu,Africa,Rwanda,2,Employed,39,77,100
+student1625@alx.edu,Africa,Morocco,5,Employed,11,23,79
+student1626@alx.edu,Africa,Egypt,4,Employed,29,59,100
+student1627@alx.edu,Africa,Ghana,4,Employed,12,26,68
+student1628@alx.edu,Africa,Zimbabwe,10,Employed,24,52,100
+student1629@alx.edu,Africa,Ethiopia,4,Employed,8,18,61
+student1630@alx.edu,Africa,Nigeria,5,Employed,21,38,100
+student1631@alx.edu,Africa,South Africa,1,Employed,31,67,100
+student1632@alx.edu,Africa,Kenya,0,Employed,17,39,86
+student1633@alx.edu,Africa,Rwanda,8,Unemployed,28,66,100
+student1634@alx.edu,Africa,Morocco,6,Employed,33,62,100
+student1635@alx.edu,Africa,Egypt,8,Employed,37,76,100
+student1636@alx.edu,Africa,Ghana,1,Unemployed,13,20,89
+student1637@alx.edu,Africa,Zimbabwe,6,Employed,19,40,94
+student1638@alx.edu,Africa,Ethiopia,3,Unemployed,10,19,80
+student1639@alx.edu,Africa,Nigeria,2,Unemployed,40,85,100
+student1640@alx.edu,Africa,South Africa,0,Employed,37,73,100
+student1641@alx.edu,Africa,Kenya,1,Unemployed,24,43,100
+student1642@alx.edu,Africa,Rwanda,3,Employed,34,68,100
+student1643@alx.edu,Africa,Morocco,1,Employed,23,41,100
+student1644@alx.edu,Africa,Egypt,10,Unemployed,27,56,100
+student1645@alx.edu,Africa,Ghana,3,Unemployed,8,10,68
+student1646@alx.edu,Africa,Zimbabwe,1,Unemployed,31,63,100
+student1647@alx.edu,Africa,Ethiopia,2,Employed,9,13,69
+student1648@alx.edu,Africa,Nigeria,6,Employed,34,67,100
+student1649@alx.edu,Africa,South Africa,1,Unemployed,32,70,100
+student1650@alx.edu,Africa,Kenya,9,Employed,30,61,100
+student1651@alx.edu,Africa,Rwanda,10,Employed,6,10,50
+student1652@alx.edu,Africa,Morocco,2,Unemployed,16,31,92
+student1653@alx.edu,Africa,Egypt,5,Unemployed,14,28,97
+student1654@alx.edu,Africa,Ghana,0,Unemployed,18,37,96
+student1655@alx.edu,Africa,Zimbabwe,6,Unemployed,8,12,69
+student1656@alx.edu,Africa,Ethiopia,4,Unemployed,38,77,100
+student1657@alx.edu,Africa,Nigeria,3,Unemployed,24,41,100
+student1658@alx.edu,Africa,South Africa,2,Unemployed,16,29,100
+student1659@alx.edu,Africa,Kenya,7,Unemployed,19,36,87
+student1660@alx.edu,Africa,Rwanda,4,Unemployed,21,43,100
+student1661@alx.edu,Africa,Morocco,2,Unemployed,26,52,100
+student1662@alx.edu,Africa,Egypt,7,Employed,23,42,100
+student1663@alx.edu,Africa,Ghana,6,Employed,37,71,100
+student1664@alx.edu,Africa,Zimbabwe,9,Unemployed,22,45,100
+student1665@alx.edu,Africa,Ethiopia,1,Employed,40,79,100
+student1666@alx.edu,Africa,Nigeria,8,Employed,35,68,100
+student1667@alx.edu,Africa,South Africa,7,Employed,12,23,75
+student1668@alx.edu,Africa,Kenya,1,Employed,38,77,100
+student1669@alx.edu,Africa,Rwanda,7,Employed,9,17,58
+student1670@alx.edu,Africa,Morocco,4,Employed,34,67,100
+student1671@alx.edu,Africa,Egypt,9,Unemployed,18,43,92
+student1672@alx.edu,Africa,Ghana,1,Unemployed,36,67,100
+student1673@alx.edu,Africa,Zimbabwe,6,Employed,35,65,100
+student1674@alx.edu,Africa,Ethiopia,4,Employed,33,69,100
+student1675@alx.edu,Africa,Nigeria,10,Unemployed,33,63,100
+student1676@alx.edu,Africa,South Africa,3,Employed,16,30,90
+student1677@alx.edu,Africa,Kenya,10,Employed,8,13,57
+student1678@alx.edu,Africa,Rwanda,9,Employed,19,37,89
+student1679@alx.edu,Africa,Morocco,3,Employed,11,27,77
+student1680@alx.edu,Africa,Egypt,8,Employed,29,61,100
+student1681@alx.edu,Africa,Ghana,10,Unemployed,17,37,87
+student1682@alx.edu,Africa,Zimbabwe,3,Unemployed,39,74,100
+student1683@alx.edu,Africa,Ethiopia,4,Employed,27,51,100
+student1684@alx.edu,Africa,Nigeria,5,Unemployed,34,59,100
+student1685@alx.edu,Africa,South Africa,3,Employed,10,17,73
+student1686@alx.edu,Africa,Kenya,0,Employed,35,73,100
+student1687@alx.edu,Africa,Rwanda,2,Employed,37,76,100
+student1688@alx.edu,Africa,Morocco,3,Employed,22,43,100
+student1689@alx.edu,Africa,Egypt,4,Employed,26,52,100
+student1690@alx.edu,Africa,Ghana,2,Employed,32,61,100
+student1691@alx.edu,Africa,Zimbabwe,9,Employed,11,23,63
+student1692@alx.edu,Africa,Ethiopia,7,Employed,23,47,99
+student1693@alx.edu,Africa,Nigeria,1,Employed,19,33,100
+student1694@alx.edu,Africa,South Africa,7,Unemployed,10,21,62
+student1695@alx.edu,Africa,Kenya,7,Employed,18,39,94
+student1696@alx.edu,Africa,Rwanda,10,Unemployed,7,14,57
+student1697@alx.edu,Africa,Morocco,0,Unemployed,6,14,74
+student1698@alx.edu,Africa,Egypt,2,Employed,10,28,73
+student1699@alx.edu,Africa,Ghana,9,Unemployed,39,77,100
+student1700@alx.edu,Africa,Zimbabwe,9,Employed,24,50,100
+student1701@alx.edu,Africa,Ethiopia,7,Employed,39,75,100
+student1702@alx.edu,Africa,Nigeria,8,Employed,20,41,93
+student1703@alx.edu,Africa,South Africa,1,Employed,16,33,95
+student1704@alx.edu,Africa,Kenya,5,Unemployed,23,46,100
+student1705@alx.edu,Africa,Rwanda,2,Unemployed,20,38,100
+student1706@alx.edu,Africa,Morocco,2,Employed,9,18,69
+student1707@alx.edu,Africa,Egypt,8,Unemployed,27,59,100
+student1708@alx.edu,Africa,Ghana,1,Unemployed,13,26,77
+student1709@alx.edu,Africa,Zimbabwe,5,Unemployed,27,56,100
+student1710@alx.edu,Africa,Ethiopia,9,Employed,28,55,100
+student1711@alx.edu,Africa,Nigeria,2,Unemployed,10,23,82
+student1712@alx.edu,Africa,South Africa,10,Unemployed,7,15,64
+student1713@alx.edu,Africa,Kenya,10,Unemployed,32,62,100
+student1714@alx.edu,Africa,Rwanda,6,Employed,21,43,100
+student1715@alx.edu,Africa,Morocco,2,Unemployed,7,11,74
+student1716@alx.edu,Africa,Egypt,3,Unemployed,40,78,100
+student1717@alx.edu,Africa,Ghana,4,Employed,7,15,67
+student1718@alx.edu,Africa,Zimbabwe,3,Unemployed,29,60,100
+student1719@alx.edu,Africa,Ethiopia,3,Employed,39,75,100
+student1720@alx.edu,Africa,Nigeria,10,Employed,13,30,75
+student1721@alx.edu,Africa,South Africa,2,Employed,10,22,74
+student1722@alx.edu,Africa,Kenya,7,Employed,9,16,55
+student1723@alx.edu,Africa,Rwanda,0,Employed,16,27,93
+student1724@alx.edu,Africa,Morocco,6,Employed,9,17,58
+student1725@alx.edu,Africa,Egypt,9,Unemployed,29,57,100
+student1726@alx.edu,Africa,Ghana,3,Employed,7,15,58
+student1727@alx.edu,Africa,Zimbabwe,2,Unemployed,23,45,100
+student1728@alx.edu,Africa,Ethiopia,7,Unemployed,40,74,100
+student1729@alx.edu,Africa,Nigeria,7,Employed,33,66,100
+student1730@alx.edu,Africa,South Africa,7,Unemployed,27,52,100
+student1731@alx.edu,Africa,Kenya,3,Unemployed,16,33,99
+student1732@alx.edu,Africa,Rwanda,3,Unemployed,27,52,100
+student1733@alx.edu,Africa,Morocco,10,Employed,23,52,100
+student1734@alx.edu,Africa,Egypt,9,Unemployed,20,34,94
+student1735@alx.edu,Africa,Ghana,5,Unemployed,10,23,84
+student1736@alx.edu,Africa,Zimbabwe,8,Employed,36,71,100
+student1737@alx.edu,Africa,Ethiopia,5,Unemployed,21,44,100
+student1738@alx.edu,Africa,Nigeria,4,Unemployed,12,24,72
+student1739@alx.edu,Africa,South Africa,2,Unemployed,18,39,100
+student1740@alx.edu,Africa,Kenya,4,Employed,19,38,100
+student1741@alx.edu,Africa,Rwanda,5,Unemployed,34,65,100
+student1742@alx.edu,Africa,Morocco,0,Unemployed,31,66,100
+student1743@alx.edu,Africa,Egypt,4,Employed,32,64,100
+student1744@alx.edu,Africa,Ghana,8,Employed,5,11,59
+student1745@alx.edu,Africa,Zimbabwe,7,Employed,20,43,100
+student1746@alx.edu,Africa,Ethiopia,6,Unemployed,22,41,100
+student1747@alx.edu,Africa,Nigeria,9,Employed,6,13,55
+student1748@alx.edu,Africa,South Africa,0,Employed,14,26,82
+student1749@alx.edu,Africa,Kenya,6,Employed,32,63,100
+student1750@alx.edu,Africa,Rwanda,8,Unemployed,10,20,69
+student1751@alx.edu,Africa,Morocco,5,Employed,24,43,100
+student1752@alx.edu,Africa,Egypt,3,Employed,13,23,70
+student1753@alx.edu,Africa,Ghana,1,Employed,5,15,67
+student1754@alx.edu,Africa,Zimbabwe,9,Employed,13,30,75
+student1755@alx.edu,Africa,Ethiopia,5,Employed,39,78,100
+student1756@alx.edu,Africa,Nigeria,9,Unemployed,33,67,100
+student1757@alx.edu,Africa,South Africa,6,Unemployed,39,76,100
+student1758@alx.edu,Africa,Kenya,7,Employed,22,48,100
+student1759@alx.edu,Africa,Rwanda,8,Employed,9,17,65
+student1760@alx.edu,Africa,Morocco,7,Employed,24,49,100
+student1761@alx.edu,Africa,Egypt,4,Unemployed,21,45,100
+student1762@alx.edu,Africa,Ghana,5,Unemployed,35,67,100
+student1763@alx.edu,Africa,Zimbabwe,8,Unemployed,8,22,58
+student1764@alx.edu,Africa,Ethiopia,4,Unemployed,22,40,100
+student1765@alx.edu,Africa,Nigeria,4,Employed,10,25,80
+student1766@alx.edu,Africa,South Africa,1,Employed,16,32,95
+student1767@alx.edu,Africa,Kenya,9,Employed,31,61,100
+student1768@alx.edu,Africa,Rwanda,1,Employed,22,38,100
+student1769@alx.edu,Africa,Morocco,6,Unemployed,18,35,90
+student1770@alx.edu,Africa,Egypt,4,Employed,19,34,96
+student1771@alx.edu,Africa,Ghana,4,Unemployed,21,40,100
+student1772@alx.edu,Africa,Zimbabwe,7,Unemployed,32,65,100
+student1773@alx.edu,Africa,Ethiopia,1,Employed,36,75,100
+student1774@alx.edu,Africa,Nigeria,6,Unemployed,38,77,100
+student1775@alx.edu,Africa,South Africa,8,Unemployed,33,66,100
+student1776@alx.edu,Africa,Kenya,8,Employed,16,29,80
+student1777@alx.edu,Africa,Rwanda,2,Unemployed,29,56,100
+student1778@alx.edu,Africa,Morocco,9,Unemployed,20,46,98
+student1779@alx.edu,Africa,Egypt,7,Employed,14,26,75
+student1780@alx.edu,Africa,Ghana,9,Unemployed,34,74,100
+student1781@alx.edu,Africa,Zimbabwe,5,Unemployed,6,12,67
+student1782@alx.edu,Africa,Ethiopia,5,Employed,37,73,100
+student1783@alx.edu,Africa,Nigeria,9,Unemployed,21,46,100
+student1784@alx.edu,Africa,South Africa,9,Employed,27,58,100
+student1785@alx.edu,Africa,Kenya,4,Unemployed,28,56,100
+student1786@alx.edu,Africa,Rwanda,3,Unemployed,36,71,100
+student1787@alx.edu,Africa,Morocco,4,Employed,27,54,100
+student1788@alx.edu,Africa,Egypt,4,Employed,26,54,100
+student1789@alx.edu,Africa,Ghana,3,Unemployed,7,17,66
+student1790@alx.edu,Africa,Zimbabwe,3,Employed,23,46,100
+student1791@alx.edu,Africa,Ethiopia,9,Unemployed,10,22,67
+student1792@alx.edu,Africa,Nigeria,1,Employed,31,67,100
+student1793@alx.edu,Africa,South Africa,7,Unemployed,23,47,100
+student1794@alx.edu,Africa,Kenya,2,Unemployed,29,59,100
+student1795@alx.edu,Africa,Rwanda,3,Unemployed,6,8,62
+student1796@alx.edu,Africa,Morocco,1,Unemployed,8,8,65
+student1797@alx.edu,Africa,Egypt,3,Unemployed,30,61,100
+student1798@alx.edu,Africa,Ghana,8,Employed,8,15,55
+student1799@alx.edu,Africa,Zimbabwe,9,Employed,7,13,61
+student1800@alx.edu,Africa,Ethiopia,2,Unemployed,5,12,74
+student1801@alx.edu,Africa,Nigeria,5,Unemployed,38,77,100
+student1802@alx.edu,Africa,South Africa,5,Employed,31,65,100
+student1803@alx.edu,Africa,Kenya,9,Employed,17,35,85
+student1804@alx.edu,Africa,Rwanda,8,Employed,15,29,73
+student1805@alx.edu,Africa,Morocco,5,Employed,17,37,93
+student1806@alx.edu,Africa,Egypt,7,Employed,32,64,100
+student1807@alx.edu,Africa,Ghana,8,Unemployed,28,58,100
+student1808@alx.edu,Africa,Zimbabwe,0,Unemployed,11,22,85
+student1809@alx.edu,Africa,Ethiopia,4,Employed,11,20,72
+student1810@alx.edu,Africa,Nigeria,9,Employed,8,17,49
+student1811@alx.edu,Africa,South Africa,7,Employed,28,56,100
+student1812@alx.edu,Africa,Kenya,5,Employed,32,65,100
+student1813@alx.edu,Africa,Rwanda,5,Employed,14,28,85
+student1814@alx.edu,Africa,Morocco,3,Employed,6,6,53
+student1815@alx.edu,Africa,Egypt,5,Employed,8,14,60
+student1816@alx.edu,Africa,Ghana,7,Employed,39,80,100
+student1817@alx.edu,Africa,Zimbabwe,4,Employed,15,30,75
+student1818@alx.edu,Africa,Ethiopia,7,Unemployed,32,63,100
+student1819@alx.edu,Africa,Nigeria,9,Employed,27,57,100
+student1820@alx.edu,Africa,South Africa,2,Employed,18,35,100
+student1821@alx.edu,Africa,Kenya,5,Unemployed,12,20,75
+student1822@alx.edu,Africa,Rwanda,4,Unemployed,9,18,69
+student1823@alx.edu,Africa,Morocco,7,Unemployed,27,52,100
+student1824@alx.edu,Africa,Egypt,2,Employed,32,61,100
+student1825@alx.edu,Africa,Ghana,6,Employed,28,55,100
+student1826@alx.edu,Africa,Zimbabwe,9,Employed,24,49,100
+student1827@alx.edu,Africa,Ethiopia,4,Employed,6,13,58
+student1828@alx.edu,Africa,Nigeria,9,Unemployed,39,79,100
+student1829@alx.edu,Africa,South Africa,10,Employed,33,71,100
+student1830@alx.edu,Africa,Kenya,1,Employed,15,29,91
+student1831@alx.edu,Africa,Rwanda,2,Unemployed,39,79,100
+student1832@alx.edu,Africa,Morocco,10,Employed,26,51,100
+student1833@alx.edu,Africa,Egypt,10,Employed,25,48,100
+student1834@alx.edu,Africa,Ghana,1,Employed,31,61,100
+student1835@alx.edu,Africa,Zimbabwe,0,Employed,33,65,100
+student1836@alx.edu,Africa,Ethiopia,2,Unemployed,28,57,100
+student1837@alx.edu,Africa,Nigeria,10,Unemployed,9,26,58
+student1838@alx.edu,Africa,South Africa,2,Unemployed,17,32,96
+student1839@alx.edu,Africa,Kenya,5,Unemployed,37,74,100
+student1840@alx.edu,Africa,Rwanda,8,Employed,13,26,78
+student1841@alx.edu,Africa,Morocco,0,Employed,18,37,90
+student1842@alx.edu,Africa,Egypt,6,Employed,20,41,93
+student1843@alx.edu,Africa,Ghana,3,Unemployed,20,45,100
+student1844@alx.edu,Africa,Zimbabwe,9,Unemployed,26,46,100
+student1845@alx.edu,Africa,Ethiopia,3,Unemployed,38,69,100
+student1846@alx.edu,Africa,Nigeria,7,Employed,13,25,76
+student1847@alx.edu,Africa,South Africa,7,Employed,9,22,68
+student1848@alx.edu,Africa,Kenya,2,Unemployed,12,19,76
+student1849@alx.edu,Africa,Rwanda,0,Unemployed,36,63,100
+student1850@alx.edu,Africa,Morocco,4,Employed,28,57,100
+student1851@alx.edu,Africa,Egypt,3,Employed,15,31,86
+student1852@alx.edu,Africa,Ghana,8,Employed,34,64,100
+student1853@alx.edu,Africa,Zimbabwe,8,Unemployed,35,67,100
+student1854@alx.edu,Africa,Ethiopia,5,Unemployed,35,66,100
+student1855@alx.edu,Africa,Nigeria,6,Unemployed,37,75,100
+student1856@alx.edu,Africa,South Africa,6,Unemployed,14,26,89
+student1857@alx.edu,Africa,Kenya,8,Employed,31,64,100
+student1858@alx.edu,Africa,Rwanda,4,Employed,21,34,100
+student1859@alx.edu,Africa,Morocco,3,Employed,34,66,100
+student1860@alx.edu,Africa,Egypt,3,Unemployed,30,58,100
+student1861@alx.edu,Africa,Ghana,5,Employed,32,64,100
+student1862@alx.edu,Africa,Zimbabwe,4,Employed,28,54,100
+student1863@alx.edu,Africa,Ethiopia,4,Employed,11,25,85
+student1864@alx.edu,Africa,Nigeria,1,Employed,24,43,100
+student1865@alx.edu,Africa,South Africa,7,Employed,39,79,100
+student1866@alx.edu,Africa,Kenya,2,Unemployed,38,77,100
+student1867@alx.edu,Africa,Rwanda,2,Employed,7,19,68
+student1868@alx.edu,Africa,Morocco,4,Employed,11,20,73
+student1869@alx.edu,Africa,Egypt,2,Unemployed,10,20,70
+student1870@alx.edu,Africa,Ghana,6,Unemployed,30,55,100
+student1871@alx.edu,Africa,Zimbabwe,4,Employed,34,60,100
+student1872@alx.edu,Africa,Ethiopia,4,Employed,12,27,83
+student1873@alx.edu,Africa,Nigeria,5,Employed,23,45,100
+student1874@alx.edu,Africa,South Africa,2,Employed,34,72,100
+student1875@alx.edu,Africa,Kenya,2,Unemployed,31,57,100
+student1876@alx.edu,Africa,Rwanda,9,Employed,24,50,100
+student1877@alx.edu,Africa,Morocco,4,Unemployed,26,57,100
+student1878@alx.edu,Africa,Egypt,4,Employed,23,47,100
+student1879@alx.edu,Africa,Ghana,0,Employed,15,32,92
+student1880@alx.edu,Africa,Zimbabwe,5,Employed,25,50,100
+student1881@alx.edu,Africa,Ethiopia,6,Unemployed,29,54,100
+student1882@alx.edu,Africa,Nigeria,6,Employed,36,75,100
+student1883@alx.edu,Africa,South Africa,7,Employed,27,53,100
+student1884@alx.edu,Africa,Kenya,2,Unemployed,32,65,100
+student1885@alx.edu,Africa,Rwanda,3,Employed,11,17,63
+student1886@alx.edu,Africa,Morocco,8,Unemployed,21,39,97
+student1887@alx.edu,Africa,Egypt,9,Employed,5,15,51
+student1888@alx.edu,Africa,Ghana,1,Unemployed,14,26,94
+student1889@alx.edu,Africa,Zimbabwe,5,Unemployed,30,65,100
+student1890@alx.edu,Africa,Ethiopia,2,Unemployed,40,79,100
+student1891@alx.edu,Africa,Nigeria,1,Employed,8,11,70
+student1892@alx.edu,Africa,South Africa,3,Unemployed,19,41,100
+student1893@alx.edu,Africa,Kenya,1,Unemployed,33,64,100
+student1894@alx.edu,Africa,Rwanda,7,Employed,12,26,71
+student1895@alx.edu,Africa,Morocco,5,Unemployed,24,49,100
+student1896@alx.edu,Africa,Egypt,1,Employed,31,57,100
+student1897@alx.edu,Africa,Ghana,0,Employed,27,54,100
+student1898@alx.edu,Africa,Zimbabwe,8,Unemployed,12,30,78
+student1899@alx.edu,Africa,Ethiopia,2,Unemployed,17,36,97
+student1900@alx.edu,Africa,Nigeria,6,Employed,32,65,100
+student1901@alx.edu,Africa,South Africa,3,Unemployed,24,52,100
+student1902@alx.edu,Africa,Kenya,6,Unemployed,5,11,58
+student1903@alx.edu,Africa,Rwanda,3,Unemployed,32,64,100
+student1904@alx.edu,Africa,Morocco,1,Unemployed,6,9,64
+student1905@alx.edu,Africa,Egypt,2,Employed,31,63,100
+student1906@alx.edu,Africa,Ghana,2,Employed,12,27,83
+student1907@alx.edu,Africa,Zimbabwe,4,Unemployed,39,75,100
+student1908@alx.edu,Africa,Ethiopia,7,Employed,18,40,100
+student1909@alx.edu,Africa,Nigeria,3,Unemployed,16,33,90
+student1910@alx.edu,Africa,South Africa,0,Unemployed,10,18,79
+student1911@alx.edu,Africa,Kenya,5,Unemployed,16,34,83
+student1912@alx.edu,Africa,Rwanda,6,Unemployed,36,71,100
+student1913@alx.edu,Africa,Morocco,10,Employed,40,82,100
+student1914@alx.edu,Africa,Egypt,6,Unemployed,18,35,93
+student1915@alx.edu,Africa,Ghana,5,Employed,21,41,100
+student1916@alx.edu,Africa,Zimbabwe,6,Unemployed,30,62,100
+student1917@alx.edu,Africa,Ethiopia,9,Employed,36,73,100
+student1918@alx.edu,Africa,Nigeria,8,Employed,26,46,100
+student1919@alx.edu,Africa,South Africa,3,Employed,19,34,100
+student1920@alx.edu,Africa,Kenya,2,Employed,19,42,100
+student1921@alx.edu,Africa,Rwanda,3,Unemployed,29,58,100
+student1922@alx.edu,Africa,Morocco,5,Employed,5,9,53
+student1923@alx.edu,Africa,Egypt,7,Unemployed,27,49,100
+student1924@alx.edu,Africa,Ghana,5,Employed,17,32,89
+student1925@alx.edu,Africa,Zimbabwe,1,Employed,33,60,100
+student1926@alx.edu,Africa,Ethiopia,7,Employed,8,16,57
+student1927@alx.edu,Africa,Nigeria,8,Unemployed,26,49,100
+student1928@alx.edu,Africa,South Africa,3,Employed,22,41,100
+student1929@alx.edu,Africa,Kenya,7,Unemployed,27,55,100
+student1930@alx.edu,Africa,Rwanda,4,Unemployed,7,16,60
+student1931@alx.edu,Africa,Morocco,9,Unemployed,25,57,100
+student1932@alx.edu,Africa,Egypt,8,Employed,25,45,100
+student1933@alx.edu,Africa,Ghana,5,Employed,25,53,100
+student1934@alx.edu,Africa,Zimbabwe,7,Employed,26,55,100
+student1935@alx.edu,Africa,Ethiopia,9,Employed,29,55,100
+student1936@alx.edu,Africa,Nigeria,5,Employed,33,67,100
+student1937@alx.edu,Africa,South Africa,3,Employed,14,28,84
+student1938@alx.edu,Africa,Kenya,8,Employed,34,68,100
+student1939@alx.edu,Africa,Rwanda,2,Unemployed,22,49,100
+student1940@alx.edu,Africa,Morocco,4,Employed,8,17,69
+student1941@alx.edu,Africa,Egypt,9,Unemployed,7,16,58
+student1942@alx.edu,Africa,Ghana,7,Unemployed,17,32,87
+student1943@alx.edu,Africa,Zimbabwe,4,Employed,32,60,100
+student1944@alx.edu,Africa,Ethiopia,2,Employed,30,59,100
+student1945@alx.edu,Africa,Nigeria,4,Unemployed,33,69,100
+student1946@alx.edu,Africa,South Africa,3,Unemployed,23,42,100
+student1947@alx.edu,Africa,Kenya,2,Employed,20,38,100
+student1948@alx.edu,Africa,Rwanda,7,Unemployed,10,21,67
+student1949@alx.edu,Africa,Morocco,3,Unemployed,16,30,93
+student1950@alx.edu,Africa,Egypt,5,Unemployed,20,38,96
+student1951@alx.edu,Africa,Ghana,4,Unemployed,8,15,68
+student1952@alx.edu,Africa,Zimbabwe,10,Employed,13,21,67
+student1953@alx.edu,Africa,Ethiopia,4,Employed,26,49,100
+student1954@alx.edu,Africa,Nigeria,1,Unemployed,31,64,100
+student1955@alx.edu,Africa,South Africa,1,Unemployed,40,76,100
+student1956@alx.edu,Africa,Kenya,6,Unemployed,38,71,100
+student1957@alx.edu,Africa,Rwanda,6,Employed,27,53,100
+student1958@alx.edu,Africa,Morocco,4,Employed,20,42,100
+student1959@alx.edu,Africa,Egypt,4,Unemployed,27,54,100
+student1960@alx.edu,Africa,Ghana,1,Unemployed,32,64,100
+student1961@alx.edu,Africa,Zimbabwe,5,Unemployed,9,18,73
+student1962@alx.edu,Africa,Ethiopia,5,Employed,19,33,98
+student1963@alx.edu,Africa,Nigeria,1,Unemployed,34,70,100
+student1964@alx.edu,Africa,South Africa,1,Unemployed,18,38,95
+student1965@alx.edu,Africa,Kenya,1,Unemployed,25,49,100
+student1966@alx.edu,Africa,Rwanda,1,Unemployed,26,54,100
+student1967@alx.edu,Africa,Morocco,6,Unemployed,11,20,67
+student1968@alx.edu,Africa,Egypt,2,Employed,18,39,94
+student1969@alx.edu,Africa,Ghana,3,Employed,17,34,89
+student1970@alx.edu,Africa,Zimbabwe,2,Employed,6,11,58
+student1971@alx.edu,Africa,Ethiopia,10,Unemployed,6,12,51
+student1972@alx.edu,Africa,Nigeria,9,Employed,34,68,100
+student1973@alx.edu,Africa,South Africa,2,Unemployed,15,33,96
+student1974@alx.edu,Africa,Kenya,3,Employed,23,43,100
+student1975@alx.edu,Africa,Rwanda,2,Employed,15,29,85
+student1976@alx.edu,Africa,Morocco,5,Unemployed,38,79,100
+student1977@alx.edu,Africa,Egypt,0,Unemployed,14,26,98
+student1978@alx.edu,Africa,Ghana,7,Unemployed,20,43,100
+student1979@alx.edu,Africa,Zimbabwe,5,Employed,36,76,100
+student1980@alx.edu,Africa,Ethiopia,9,Unemployed,34,68,100
+student1981@alx.edu,Africa,Nigeria,2,Employed,12,25,80
+student1982@alx.edu,Africa,South Africa,8,Employed,33,63,100
+student1983@alx.edu,Africa,Kenya,8,Employed,21,44,98
+student1984@alx.edu,Africa,Rwanda,1,Unemployed,22,44,100
+student1985@alx.edu,Africa,Morocco,4,Unemployed,10,21,66
+student1986@alx.edu,Africa,Egypt,2,Unemployed,8,14,67
+student1987@alx.edu,Africa,Ghana,3,Employed,30,56,100
+student1988@alx.edu,Africa,Zimbabwe,3,Employed,22,46,100
+student1989@alx.edu,Africa,Ethiopia,6,Unemployed,20,34,95
+student1990@alx.edu,Africa,Nigeria,4,Employed,31,60,100
+student1991@alx.edu,Africa,South Africa,9,Employed,32,66,100
+student1992@alx.edu,Africa,Kenya,1,Employed,11,22,80
+student1993@alx.edu,Africa,Rwanda,10,Unemployed,26,59,100
+student1994@alx.edu,Africa,Morocco,2,Employed,10,23,66
+student1995@alx.edu,Africa,Egypt,8,Employed,31,61,100
+student1996@alx.edu,Africa,Ghana,3,Unemployed,28,56,100
+student1997@alx.edu,Africa,Zimbabwe,1,Unemployed,38,77,100
+student1998@alx.edu,Africa,Ethiopia,9,Unemployed,7,10,54
+student1999@alx.edu,Africa,Nigeria,3,Unemployed,7,11,65
+student2000@alx.edu,Africa,South Africa,7,Unemployed,15,28,86
+student2001@alx.edu,Africa,Kenya,6,Unemployed,14,22,74
+student2002@alx.edu,Africa,Rwanda,5,Employed,14,27,84
+student2003@alx.edu,Africa,Morocco,5,Employed,37,73,100
+student2004@alx.edu,Africa,Egypt,7,Employed,14,22,75
+student2005@alx.edu,Africa,Ghana,1,Employed,15,30,90
+student2006@alx.edu,Africa,Zimbabwe,7,Unemployed,32,65,100
+student2007@alx.edu,Africa,Ethiopia,9,Employed,21,42,91
+student2008@alx.edu,Africa,Nigeria,1,Unemployed,32,63,100
+student2009@alx.edu,Africa,South Africa,1,Unemployed,7,16,79
+student2010@alx.edu,Africa,Kenya,7,Employed,22,46,97
+student2011@alx.edu,Africa,Rwanda,4,Employed,6,13,68
+student2012@alx.edu,Africa,Morocco,4,Unemployed,7,12,63
+student2013@alx.edu,Africa,Egypt,1,Unemployed,37,74,100
+student2014@alx.edu,Africa,Ghana,5,Unemployed,10,23,68
+student2015@alx.edu,Africa,Zimbabwe,1,Unemployed,24,45,100
+student2016@alx.edu,Africa,Ethiopia,5,Employed,19,45,99
+student2017@alx.edu,Africa,Nigeria,8,Unemployed,17,33,84
+student2018@alx.edu,Africa,South Africa,3,Employed,36,73,100
+student2019@alx.edu,Africa,Kenya,5,Unemployed,6,10,57
+student2020@alx.edu,Africa,Rwanda,10,Unemployed,28,57,100
+student2021@alx.edu,Africa,Morocco,7,Unemployed,39,72,100
+student2022@alx.edu,Africa,Egypt,8,Employed,25,48,100
+student2023@alx.edu,Africa,Ghana,4,Unemployed,38,72,100
+student2024@alx.edu,Africa,Zimbabwe,8,Employed,7,14,51
+student2025@alx.edu,Africa,Ethiopia,0,Employed,20,42,100
+student2026@alx.edu,Africa,Nigeria,1,Employed,14,30,86
+student2027@alx.edu,Africa,South Africa,2,Unemployed,31,54,100
+student2028@alx.edu,Africa,Kenya,4,Employed,39,85,100
+student2029@alx.edu,Africa,Rwanda,8,Employed,14,29,71
+student2030@alx.edu,Africa,Morocco,3,Unemployed,28,53,100
+student2031@alx.edu,Africa,Egypt,7,Unemployed,12,24,80
+student2032@alx.edu,Africa,Ghana,7,Employed,25,50,100
+student2033@alx.edu,Africa,Zimbabwe,6,Employed,21,40,100
+student2034@alx.edu,Africa,Ethiopia,4,Unemployed,39,79,100
+student2035@alx.edu,Africa,Nigeria,6,Employed,26,51,100
+student2036@alx.edu,Africa,South Africa,3,Employed,17,33,97
+student2037@alx.edu,Africa,Kenya,1,Employed,9,16,68
+student2038@alx.edu,Africa,Rwanda,10,Unemployed,10,16,75
+student2039@alx.edu,Africa,Morocco,1,Employed,13,26,81
+student2040@alx.edu,Africa,Egypt,1,Unemployed,14,29,96
+student2041@alx.edu,Africa,Ghana,9,Unemployed,35,71,100
+student2042@alx.edu,Africa,Zimbabwe,3,Unemployed,25,52,100
+student2043@alx.edu,Africa,Ethiopia,7,Employed,23,48,100
+student2044@alx.edu,Africa,Nigeria,3,Unemployed,9,16,71
+student2045@alx.edu,Africa,South Africa,4,Employed,35,73,100
+student2046@alx.edu,Africa,Kenya,3,Unemployed,30,57,100
+student2047@alx.edu,Africa,Rwanda,3,Employed,7,12,64
+student2048@alx.edu,Africa,Morocco,4,Employed,30,57,100
+student2049@alx.edu,Africa,Egypt,7,Employed,24,51,95
+student2050@alx.edu,Africa,Ghana,5,Unemployed,8,19,61
+student2051@alx.edu,Africa,Zimbabwe,9,Employed,21,44,93
+student2052@alx.edu,Africa,Ethiopia,0,Employed,22,47,100
+student2053@alx.edu,Africa,Nigeria,5,Unemployed,11,19,75
+student2054@alx.edu,Africa,South Africa,6,Unemployed,38,77,100
+student2055@alx.edu,Africa,Kenya,9,Employed,35,69,100
+student2056@alx.edu,Africa,Rwanda,0,Unemployed,28,59,100
+student2057@alx.edu,Africa,Morocco,6,Unemployed,21,42,100
+student2058@alx.edu,Africa,Egypt,9,Unemployed,19,38,97
+student2059@alx.edu,Africa,Ghana,2,Employed,28,57,100
+student2060@alx.edu,Africa,Zimbabwe,9,Unemployed,24,51,100
+student2061@alx.edu,Africa,Ethiopia,0,Employed,7,12,76
+student2062@alx.edu,Africa,Nigeria,7,Unemployed,23,46,100
+student2063@alx.edu,Africa,South Africa,9,Unemployed,33,63,100
+student2064@alx.edu,Africa,Kenya,7,Employed,21,35,98
+student2065@alx.edu,Africa,Rwanda,4,Unemployed,7,14,68
+student2066@alx.edu,Africa,Morocco,0,Unemployed,33,67,100
+student2067@alx.edu,Africa,Egypt,9,Unemployed,12,25,78
+student2068@alx.edu,Africa,Ghana,5,Unemployed,14,22,84
+student2069@alx.edu,Africa,Zimbabwe,0,Employed,11,20,67
+student2070@alx.edu,Africa,Ethiopia,7,Employed,17,26,84
+student2071@alx.edu,Africa,Nigeria,5,Employed,31,67,100
+student2072@alx.edu,Africa,South Africa,1,Employed,23,43,100
+student2073@alx.edu,Africa,Kenya,2,Employed,12,28,87
+student2074@alx.edu,Africa,Rwanda,1,Employed,36,74,100
+student2075@alx.edu,Africa,Morocco,6,Employed,36,69,100
+student2076@alx.edu,Africa,Egypt,6,Unemployed,35,68,100
+student2077@alx.edu,Africa,Ghana,5,Employed,13,28,83
+student2078@alx.edu,Africa,Zimbabwe,8,Employed,21,39,100
+student2079@alx.edu,Africa,Ethiopia,9,Employed,39,79,100
+student2080@alx.edu,Africa,Nigeria,6,Unemployed,32,63,100
+student2081@alx.edu,Africa,South Africa,0,Employed,6,7,59
+student2082@alx.edu,Africa,Kenya,7,Employed,7,8,53
+student2083@alx.edu,Africa,Rwanda,4,Employed,21,43,98
+student2084@alx.edu,Africa,Morocco,6,Unemployed,37,72,100
+student2085@alx.edu,Africa,Egypt,6,Employed,24,46,100
+student2086@alx.edu,Africa,Ghana,4,Unemployed,22,47,100
+student2087@alx.edu,Africa,Zimbabwe,9,Unemployed,9,21,68
+student2088@alx.edu,Africa,Ethiopia,1,Unemployed,28,55,100
+student2089@alx.edu,Africa,Nigeria,7,Unemployed,34,67,100
+student2090@alx.edu,Africa,South Africa,0,Employed,18,38,100
+student2091@alx.edu,Africa,Kenya,9,Unemployed,32,60,100
+student2092@alx.edu,Africa,Rwanda,1,Unemployed,39,78,100
+student2093@alx.edu,Africa,Morocco,1,Employed,12,26,88
+student2094@alx.edu,Africa,Egypt,3,Unemployed,23,49,100
+student2095@alx.edu,Africa,Ghana,4,Unemployed,15,24,84
+student2096@alx.edu,Africa,Zimbabwe,2,Unemployed,33,63,100
+student2097@alx.edu,Africa,Ethiopia,6,Unemployed,25,48,100
+student2098@alx.edu,Africa,Nigeria,4,Unemployed,27,55,100
+student2099@alx.edu,Africa,South Africa,0,Unemployed,33,67,100
+student2100@alx.edu,Africa,Kenya,3,Employed,19,42,100
+student2101@alx.edu,Africa,Rwanda,8,Employed,37,73,100
+student2102@alx.edu,Africa,Morocco,7,Employed,24,46,100
+student2103@alx.edu,Africa,Egypt,7,Employed,11,25,74
+student2104@alx.edu,Africa,Ghana,7,Unemployed,29,60,100
+student2105@alx.edu,Africa,Zimbabwe,3,Unemployed,33,69,100
+student2106@alx.edu,Africa,Ethiopia,1,Unemployed,16,33,93
+student2107@alx.edu,Africa,Nigeria,3,Employed,35,67,100
+student2108@alx.edu,Africa,South Africa,8,Employed,37,69,100
+student2109@alx.edu,Africa,Kenya,10,Unemployed,15,25,80
+student2110@alx.edu,Africa,Rwanda,5,Unemployed,39,81,100
+student2111@alx.edu,Africa,Morocco,0,Employed,10,23,82
+student2112@alx.edu,Africa,Egypt,1,Employed,12,30,88
+student2113@alx.edu,Africa,Ghana,3,Employed,11,25,78
+student2114@alx.edu,Africa,Zimbabwe,6,Employed,36,76,100
+student2115@alx.edu,Africa,Ethiopia,1,Unemployed,28,54,100
+student2116@alx.edu,Africa,Nigeria,9,Employed,10,17,55
+student2117@alx.edu,Africa,South Africa,4,Employed,20,43,100
+student2118@alx.edu,Africa,Kenya,9,Unemployed,27,54,100
+student2119@alx.edu,Africa,Rwanda,8,Unemployed,8,16,59
+student2120@alx.edu,Africa,Morocco,8,Unemployed,36,73,100
+student2121@alx.edu,Africa,Egypt,6,Employed,33,67,100
+student2122@alx.edu,Africa,Ghana,6,Employed,23,49,100
+student2123@alx.edu,Africa,Zimbabwe,6,Employed,39,82,100
+student2124@alx.edu,Africa,Ethiopia,6,Employed,20,41,92
+student2125@alx.edu,Africa,Nigeria,6,Unemployed,39,81,100
+student2126@alx.edu,Africa,South Africa,10,Unemployed,28,58,100
+student2127@alx.edu,Africa,Kenya,7,Employed,27,53,100
+student2128@alx.edu,Africa,Rwanda,8,Employed,11,24,65
+student2129@alx.edu,Africa,Morocco,9,Employed,36,68,100
+student2130@alx.edu,Africa,Egypt,2,Unemployed,20,43,100
+student2131@alx.edu,Africa,Ghana,1,Employed,11,18,75
+student2132@alx.edu,Africa,Zimbabwe,5,Unemployed,5,12,65
+student2133@alx.edu,Africa,Ethiopia,5,Employed,25,47,100
+student2134@alx.edu,Africa,Nigeria,8,Unemployed,23,49,100
+student2135@alx.edu,Africa,South Africa,4,Unemployed,30,60,100
+student2136@alx.edu,Africa,Kenya,6,Employed,36,68,100
+student2137@alx.edu,Africa,Rwanda,5,Unemployed,8,17,65
+student2138@alx.edu,Africa,Morocco,0,Unemployed,31,59,100
+student2139@alx.edu,Africa,Egypt,6,Employed,12,26,81
+student2140@alx.edu,Africa,Ghana,8,Unemployed,35,70,100
+student2141@alx.edu,Africa,Zimbabwe,2,Employed,34,69,100
+student2142@alx.edu,Africa,Ethiopia,6,Unemployed,24,45,100
+student2143@alx.edu,Africa,Nigeria,6,Unemployed,30,58,100
+student2144@alx.edu,Africa,South Africa,2,Unemployed,16,31,91
+student2145@alx.edu,Africa,Kenya,1,Unemployed,21,46,100
+student2146@alx.edu,Africa,Rwanda,10,Employed,34,73,100
+student2147@alx.edu,Africa,Morocco,4,Employed,21,40,100
+student2148@alx.edu,Africa,Egypt,2,Employed,18,38,100
+student2149@alx.edu,Africa,Ghana,2,Unemployed,22,38,100
+student2150@alx.edu,Africa,Zimbabwe,7,Unemployed,34,64,100
+student2151@alx.edu,Africa,Ethiopia,6,Employed,17,31,78
+student2152@alx.edu,Africa,Nigeria,6,Employed,11,18,74
+student2153@alx.edu,Africa,South Africa,1,Employed,30,55,100
+student2154@alx.edu,Africa,Kenya,9,Employed,34,69,100
+student2155@alx.edu,Africa,Rwanda,4,Unemployed,9,16,68
+student2156@alx.edu,Africa,Morocco,3,Employed,13,28,85
+student2157@alx.edu,Africa,Egypt,5,Unemployed,10,22,81
+student2158@alx.edu,Africa,Ghana,4,Employed,17,35,95
+student2159@alx.edu,Africa,Zimbabwe,9,Unemployed,21,43,97
+student2160@alx.edu,Africa,Ethiopia,9,Employed,31,62,100
+student2161@alx.edu,Africa,Nigeria,3,Employed,28,52,100
+student2162@alx.edu,Africa,South Africa,9,Unemployed,27,57,100
+student2163@alx.edu,Africa,Kenya,8,Unemployed,17,33,86
+student2164@alx.edu,Africa,Rwanda,9,Employed,34,66,100
+student2165@alx.edu,Africa,Morocco,2,Unemployed,21,42,100
+student2166@alx.edu,Africa,Egypt,6,Employed,39,76,100
+student2167@alx.edu,Africa,Ghana,3,Unemployed,27,53,100
+student2168@alx.edu,Africa,Zimbabwe,8,Employed,9,20,71
+student2169@alx.edu,Africa,Ethiopia,0,Employed,29,58,100
+student2170@alx.edu,Africa,Nigeria,6,Employed,16,30,95
+student2171@alx.edu,Africa,South Africa,3,Employed,29,57,100
+student2172@alx.edu,Africa,Kenya,3,Employed,7,18,64
+student2173@alx.edu,Africa,Rwanda,6,Employed,11,24,78
+student2174@alx.edu,Africa,Morocco,9,Employed,35,76,100
+student2175@alx.edu,Africa,Egypt,6,Employed,13,29,80
+student2176@alx.edu,Africa,Ghana,9,Unemployed,34,72,100
+student2177@alx.edu,Africa,Zimbabwe,3,Unemployed,15,25,74
+student2178@alx.edu,Africa,Ethiopia,5,Unemployed,28,57,100
+student2179@alx.edu,Africa,Nigeria,5,Employed,29,58,100
+student2180@alx.edu,Africa,South Africa,0,Employed,23,44,100
+student2181@alx.edu,Africa,Kenya,6,Employed,16,32,86
+student2182@alx.edu,Africa,Rwanda,7,Unemployed,12,28,80
+student2183@alx.edu,Africa,Morocco,6,Unemployed,6,14,57
+student2184@alx.edu,Africa,Egypt,7,Unemployed,16,29,88
+student2185@alx.edu,Africa,Ghana,6,Unemployed,28,58,100
+student2186@alx.edu,Africa,Zimbabwe,1,Unemployed,38,74,100
+student2187@alx.edu,Africa,Ethiopia,1,Employed,35,72,100
+student2188@alx.edu,Africa,Nigeria,6,Unemployed,32,63,100
+student2189@alx.edu,Africa,South Africa,3,Employed,33,65,100
+student2190@alx.edu,Africa,Kenya,1,Employed,28,59,100
+student2191@alx.edu,Africa,Rwanda,4,Employed,14,25,76
+student2192@alx.edu,Africa,Morocco,6,Unemployed,37,79,100
+student2193@alx.edu,Africa,Egypt,3,Unemployed,28,51,100
+student2194@alx.edu,Africa,Ghana,7,Employed,25,47,100
+student2195@alx.edu,Africa,Zimbabwe,6,Unemployed,9,19,70
+student2196@alx.edu,Africa,Ethiopia,3,Unemployed,21,43,100
+student2197@alx.edu,Africa,Nigeria,8,Employed,21,42,98
+student2198@alx.edu,Africa,South Africa,6,Employed,35,70,100
+student2199@alx.edu,Africa,Kenya,6,Employed,24,49,100
+student2200@alx.edu,Africa,Rwanda,6,Employed,18,36,98
+student2201@alx.edu,Africa,Morocco,0,Employed,39,83,100
+student2202@alx.edu,Africa,Egypt,7,Unemployed,9,20,66
+student2203@alx.edu,Africa,Ghana,4,Employed,20,42,100
+student2204@alx.edu,Africa,Zimbabwe,9,Unemployed,6,10,56
+student2205@alx.edu,Africa,Ethiopia,8,Unemployed,31,62,100
+student2206@alx.edu,Africa,Nigeria,6,Employed,37,73,100
+student2207@alx.edu,Africa,South Africa,3,Employed,15,27,92
+student2208@alx.edu,Africa,Kenya,2,Unemployed,35,71,100
+student2209@alx.edu,Africa,Rwanda,3,Employed,15,29,89
+student2210@alx.edu,Africa,Morocco,5,Unemployed,37,76,100
+student2211@alx.edu,Africa,Egypt,3,Employed,31,60,100
+student2212@alx.edu,Africa,Ghana,5,Employed,33,72,100
+student2213@alx.edu,Africa,Zimbabwe,2,Unemployed,6,9,68
+student2214@alx.edu,Africa,Ethiopia,10,Unemployed,39,78,100
+student2215@alx.edu,Africa,Nigeria,1,Employed,30,63,100
+student2216@alx.edu,Africa,South Africa,9,Employed,16,30,74
+student2217@alx.edu,Africa,Kenya,9,Employed,34,71,100
+student2218@alx.edu,Africa,Rwanda,5,Unemployed,15,26,90
+student2219@alx.edu,Africa,Morocco,7,Employed,36,75,100
+student2220@alx.edu,Africa,Egypt,4,Employed,9,18,69
+student2221@alx.edu,Africa,Ghana,6,Employed,30,57,100
+student2222@alx.edu,Africa,Zimbabwe,3,Employed,24,47,100
+student2223@alx.edu,Africa,Ethiopia,3,Unemployed,8,19,73
+student2224@alx.edu,Africa,Nigeria,6,Unemployed,13,25,74
+student2225@alx.edu,Africa,South Africa,5,Unemployed,5,9,53
+student2226@alx.edu,Africa,Kenya,6,Employed,21,42,96
+student2227@alx.edu,Africa,Rwanda,3,Employed,16,28,85
+student2228@alx.edu,Africa,Morocco,4,Employed,26,57,100
+student2229@alx.edu,Africa,Egypt,1,Unemployed,15,29,88
+student2230@alx.edu,Africa,Ghana,1,Unemployed,15,33,100
+student2231@alx.edu,Africa,Zimbabwe,3,Unemployed,31,63,100
+student2232@alx.edu,Africa,Ethiopia,1,Unemployed,7,10,74
+student2233@alx.edu,Africa,Nigeria,1,Employed,37,73,100
+student2234@alx.edu,Africa,South Africa,8,Unemployed,35,72,100
+student2235@alx.edu,Africa,Kenya,0,Unemployed,28,56,100
+student2236@alx.edu,Africa,Rwanda,7,Employed,26,55,100
+student2237@alx.edu,Africa,Morocco,3,Unemployed,36,76,100
+student2238@alx.edu,Africa,Egypt,9,Employed,11,26,74
+student2239@alx.edu,Africa,Ghana,5,Employed,8,14,62
+student2240@alx.edu,Africa,Zimbabwe,3,Employed,13,24,79
+student2241@alx.edu,Africa,Ethiopia,5,Employed,33,64,100
+student2242@alx.edu,Africa,Nigeria,4,Employed,6,13,48
+student2243@alx.edu,Africa,South Africa,6,Unemployed,25,52,100
+student2244@alx.edu,Africa,Kenya,1,Unemployed,40,73,100
+student2245@alx.edu,Africa,Rwanda,10,Employed,35,70,100
+student2246@alx.edu,Africa,Morocco,4,Unemployed,23,47,100
+student2247@alx.edu,Africa,Egypt,3,Employed,7,14,66
+student2248@alx.edu,Africa,Ghana,7,Unemployed,34,72,100
+student2249@alx.edu,Africa,Zimbabwe,4,Unemployed,26,53,100
+student2250@alx.edu,Africa,Ethiopia,8,Unemployed,9,22,62
+student2251@alx.edu,Africa,Nigeria,5,Unemployed,8,16,58
+student2252@alx.edu,Africa,South Africa,7,Unemployed,37,76,100
+student2253@alx.edu,Africa,Kenya,1,Unemployed,28,62,100
+student2254@alx.edu,Africa,Rwanda,8,Unemployed,34,72,100
+student2255@alx.edu,Africa,Morocco,7,Employed,36,68,100
+student2256@alx.edu,Africa,Egypt,2,Employed,25,49,100
+student2257@alx.edu,Africa,Ghana,1,Employed,23,45,100
+student2258@alx.edu,Africa,Zimbabwe,3,Unemployed,20,42,100
+student2259@alx.edu,Africa,Ethiopia,10,Unemployed,16,34,89
+student2260@alx.edu,Africa,Nigeria,3,Employed,20,38,100
+student2261@alx.edu,Africa,South Africa,5,Employed,32,64,100
+student2262@alx.edu,Africa,Kenya,0,Unemployed,26,46,100
+student2263@alx.edu,Africa,Rwanda,4,Employed,36,77,100
+student2264@alx.edu,Africa,Morocco,6,Employed,21,39,100
+student2265@alx.edu,Africa,Egypt,10,Employed,26,53,100
+student2266@alx.edu,Africa,Ghana,5,Employed,27,53,100
+student2267@alx.edu,Africa,Zimbabwe,8,Unemployed,26,55,100
+student2268@alx.edu,Africa,Ethiopia,5,Employed,30,51,100
+student2269@alx.edu,Africa,Nigeria,0,Employed,13,27,69
+student2270@alx.edu,Africa,South Africa,3,Employed,23,46,100
+student2271@alx.edu,Africa,Kenya,6,Employed,9,16,67
+student2272@alx.edu,Africa,Rwanda,10,Unemployed,18,42,92
+student2273@alx.edu,Africa,Morocco,9,Employed,22,41,97
+student2274@alx.edu,Africa,Egypt,2,Employed,28,58,100
+student2275@alx.edu,Africa,Ghana,2,Employed,38,78,100
+student2276@alx.edu,Africa,Zimbabwe,2,Employed,26,56,100
+student2277@alx.edu,Africa,Ethiopia,9,Employed,31,60,100
+student2278@alx.edu,Africa,Nigeria,9,Unemployed,23,43,96
+student2279@alx.edu,Africa,South Africa,8,Employed,27,58,100
+student2280@alx.edu,Africa,Kenya,4,Employed,7,16,63
+student2281@alx.edu,Africa,Rwanda,5,Unemployed,14,23,80
+student2282@alx.edu,Africa,Morocco,5,Employed,18,34,89
+student2283@alx.edu,Africa,Egypt,3,Unemployed,22,44,100
+student2284@alx.edu,Africa,Ghana,5,Employed,7,16,65
+student2285@alx.edu,Africa,Zimbabwe,0,Unemployed,10,18,69
+student2286@alx.edu,Africa,Ethiopia,1,Unemployed,15,21,97
+student2287@alx.edu,Africa,Nigeria,9,Employed,39,80,100
+student2288@alx.edu,Africa,South Africa,8,Unemployed,17,30,86
+student2289@alx.edu,Africa,Kenya,4,Employed,22,38,100
+student2290@alx.edu,Africa,Rwanda,5,Unemployed,12,15,66
+student2291@alx.edu,Africa,Morocco,4,Unemployed,26,55,100
+student2292@alx.edu,Africa,Egypt,7,Employed,15,30,80
+student2293@alx.edu,Africa,Ghana,8,Unemployed,12,24,81
+student2294@alx.edu,Africa,Zimbabwe,8,Employed,23,50,100
+student2295@alx.edu,Africa,Ethiopia,7,Unemployed,5,12,58
+student2296@alx.edu,Africa,Nigeria,2,Unemployed,5,15,62
+student2297@alx.edu,Africa,South Africa,3,Employed,13,21,80
+student2298@alx.edu,Africa,Kenya,5,Employed,6,12,67
+student2299@alx.edu,Africa,Rwanda,3,Unemployed,9,13,74
+student2300@alx.edu,Africa,Morocco,8,Employed,17,33,86
+student2301@alx.edu,Africa,Egypt,3,Employed,33,65,100
+student2302@alx.edu,Africa,Ghana,1,Unemployed,25,52,100
+student2303@alx.edu,Africa,Zimbabwe,4,Unemployed,23,46,100
+student2304@alx.edu,Africa,Ethiopia,10,Employed,15,32,85
+student2305@alx.edu,Africa,Nigeria,2,Unemployed,38,77,100
+student2306@alx.edu,Africa,South Africa,6,Employed,19,44,97
+student2307@alx.edu,Africa,Kenya,4,Employed,8,15,67
+student2308@alx.edu,Africa,Rwanda,1,Employed,27,50,100
+student2309@alx.edu,Africa,Morocco,5,Employed,9,19,62
+student2310@alx.edu,Africa,Egypt,7,Employed,17,32,85
+student2311@alx.edu,Africa,Ghana,5,Employed,23,50,100
+student2312@alx.edu,Africa,Zimbabwe,9,Unemployed,36,70,100
+student2313@alx.edu,Africa,Ethiopia,3,Employed,22,43,100
+student2314@alx.edu,Africa,Nigeria,1,Unemployed,30,58,100
+student2315@alx.edu,Africa,South Africa,9,Employed,40,82,100
+student2316@alx.edu,Africa,Kenya,4,Unemployed,10,19,80
+student2317@alx.edu,Africa,Rwanda,6,Unemployed,15,27,83
+student2318@alx.edu,Africa,Morocco,8,Unemployed,19,43,97
+student2319@alx.edu,Africa,Egypt,3,Employed,20,37,100
+student2320@alx.edu,Africa,Ghana,7,Unemployed,19,39,95
+student2321@alx.edu,Africa,Zimbabwe,1,Unemployed,37,75,100
+student2322@alx.edu,Africa,Ethiopia,3,Employed,30,55,100
+student2323@alx.edu,Africa,Nigeria,1,Unemployed,26,54,100
+student2324@alx.edu,Africa,South Africa,8,Unemployed,16,28,85
+student2325@alx.edu,Africa,Kenya,2,Employed,34,70,100
+student2326@alx.edu,Africa,Rwanda,7,Unemployed,38,74,100
+student2327@alx.edu,Africa,Morocco,9,Unemployed,34,70,100
+student2328@alx.edu,Africa,Egypt,5,Employed,5,13,57
+student2329@alx.edu,Africa,Ghana,5,Unemployed,27,57,100
+student2330@alx.edu,Africa,Zimbabwe,5,Unemployed,7,14,70
+student2331@alx.edu,Africa,Ethiopia,3,Unemployed,14,27,85
+student2332@alx.edu,Africa,Nigeria,5,Unemployed,7,12,64
+student2333@alx.edu,Africa,South Africa,6,Employed,26,57,100
+student2334@alx.edu,Africa,Kenya,10,Employed,29,56,100
+student2335@alx.edu,Africa,Rwanda,9,Employed,9,15,59
+student2336@alx.edu,Africa,Morocco,9,Employed,18,39,90
+student2337@alx.edu,Africa,Egypt,9,Unemployed,21,40,100
+student2338@alx.edu,Africa,Ghana,5,Employed,18,33,91
+student2339@alx.edu,Africa,Zimbabwe,7,Employed,9,14,69
+student2340@alx.edu,Africa,Ethiopia,9,Unemployed,20,38,94
+student2341@alx.edu,Africa,Nigeria,4,Unemployed,31,62,100
+student2342@alx.edu,Africa,South Africa,10,Unemployed,7,16,62
+student2343@alx.edu,Africa,Kenya,4,Employed,8,18,64
+student2344@alx.edu,Africa,Rwanda,6,Unemployed,17,36,97
+student2345@alx.edu,Africa,Morocco,7,Unemployed,38,75,100
+student2346@alx.edu,Africa,Egypt,10,Unemployed,28,56,100
+student2347@alx.edu,Africa,Ghana,2,Employed,29,59,100
+student2348@alx.edu,Africa,Zimbabwe,7,Employed,18,39,85
+student2349@alx.edu,Africa,Ethiopia,5,Employed,26,52,100
+student2350@alx.edu,Africa,Nigeria,3,Employed,5,9,55
+student2351@alx.edu,Africa,South Africa,8,Employed,27,52,100
+student2352@alx.edu,Africa,Kenya,6,Employed,37,70,100
+student2353@alx.edu,Africa,Rwanda,7,Employed,26,55,100
+student2354@alx.edu,Africa,Morocco,3,Unemployed,36,73,100
+student2355@alx.edu,Africa,Egypt,5,Unemployed,30,62,100
+student2356@alx.edu,Africa,Ghana,6,Unemployed,9,18,72
+student2357@alx.edu,Africa,Zimbabwe,4,Employed,37,77,100
+student2358@alx.edu,Africa,Ethiopia,2,Employed,7,13,71
+student2359@alx.edu,Africa,Nigeria,10,Unemployed,24,50,100
+student2360@alx.edu,Africa,South Africa,5,Unemployed,10,20,70
+student2361@alx.edu,Africa,Kenya,7,Employed,5,9,48
+student2362@alx.edu,Africa,Rwanda,4,Employed,20,41,100
+student2363@alx.edu,Africa,Morocco,4,Employed,15,32,92
+student2364@alx.edu,Africa,Egypt,4,Employed,22,45,100
+student2365@alx.edu,Africa,Ghana,4,Employed,25,51,100
+student2366@alx.edu,Africa,Zimbabwe,5,Employed,7,13,58
+student2367@alx.edu,Africa,Ethiopia,5,Employed,9,26,72
+student2368@alx.edu,Africa,Nigeria,5,Employed,25,53,100
+student2369@alx.edu,Africa,South Africa,1,Unemployed,17,36,100
+student2370@alx.edu,Africa,Kenya,5,Employed,31,61,100
+student2371@alx.edu,Africa,Rwanda,2,Employed,28,59,100
+student2372@alx.edu,Africa,Morocco,1,Employed,35,71,100
+student2373@alx.edu,Africa,Egypt,9,Unemployed,29,59,100
+student2374@alx.edu,Africa,Ghana,6,Unemployed,20,39,97
+student2375@alx.edu,Africa,Zimbabwe,7,Employed,29,57,100
+student2376@alx.edu,Africa,Ethiopia,4,Unemployed,15,20,76
+student2377@alx.edu,Africa,Nigeria,9,Unemployed,16,32,80
+student2378@alx.edu,Africa,South Africa,6,Unemployed,33,64,100
+student2379@alx.edu,Africa,Kenya,8,Employed,21,46,100
+student2380@alx.edu,Africa,Rwanda,4,Employed,33,66,100
+student2381@alx.edu,Africa,Morocco,10,Employed,34,64,100
+student2382@alx.edu,Africa,Egypt,8,Employed,35,70,100
+student2383@alx.edu,Africa,Ghana,9,Employed,37,71,100
+student2384@alx.edu,Africa,Zimbabwe,2,Employed,20,42,99
+student2385@alx.edu,Africa,Ethiopia,3,Employed,16,33,88
+student2386@alx.edu,Africa,Nigeria,3,Unemployed,25,54,100
+student2387@alx.edu,Africa,South Africa,3,Employed,18,34,94
+student2388@alx.edu,Africa,Kenya,9,Employed,26,52,100
+student2389@alx.edu,Africa,Rwanda,0,Employed,30,55,100
+student2390@alx.edu,Africa,Morocco,1,Employed,29,60,100
+student2391@alx.edu,Africa,Egypt,3,Employed,18,38,94
+student2392@alx.edu,Africa,Ghana,2,Employed,11,23,66
+student2393@alx.edu,Africa,Zimbabwe,2,Employed,20,40,99
+student2394@alx.edu,Africa,Ethiopia,8,Employed,10,21,63
+student2395@alx.edu,Africa,Nigeria,6,Unemployed,36,77,100
+student2396@alx.edu,Africa,South Africa,0,Unemployed,17,33,95
+student2397@alx.edu,Africa,Kenya,4,Employed,10,21,70
+student2398@alx.edu,Africa,Rwanda,4,Employed,6,9,51
+student2399@alx.edu,Africa,Morocco,1,Unemployed,28,53,100
+student2400@alx.edu,Africa,Egypt,7,Employed,27,55,100
+student2401@alx.edu,Africa,Ghana,7,Employed,17,37,85
+student2402@alx.edu,Africa,Zimbabwe,7,Unemployed,8,14,55
+student2403@alx.edu,Africa,Ethiopia,7,Employed,19,38,93
+student2404@alx.edu,Africa,Nigeria,0,Employed,16,31,90
+student2405@alx.edu,Africa,South Africa,10,Employed,29,56,100
+student2406@alx.edu,Africa,Kenya,8,Unemployed,26,53,100
+student2407@alx.edu,Africa,Rwanda,9,Unemployed,18,31,87
+student2408@alx.edu,Africa,Morocco,0,Employed,13,29,83
+student2409@alx.edu,Africa,Egypt,9,Unemployed,40,77,100
+student2410@alx.edu,Africa,Ghana,8,Unemployed,21,44,100
+student2411@alx.edu,Africa,Zimbabwe,8,Unemployed,29,54,100
+student2412@alx.edu,Africa,Ethiopia,1,Employed,10,22,84
+student2413@alx.edu,Africa,Nigeria,7,Unemployed,22,46,100
+student2414@alx.edu,Africa,South Africa,10,Unemployed,6,13,59
+student2415@alx.edu,Africa,Kenya,7,Unemployed,23,42,100
+student2416@alx.edu,Africa,Rwanda,6,Employed,39,78,100
+student2417@alx.edu,Africa,Morocco,9,Unemployed,18,33,85
+student2418@alx.edu,Africa,Egypt,4,Unemployed,6,12,60
+student2419@alx.edu,Africa,Ghana,6,Employed,6,15,60
+student2420@alx.edu,Africa,Zimbabwe,5,Unemployed,19,40,100
+student2421@alx.edu,Africa,Ethiopia,9,Unemployed,11,21,70
+student2422@alx.edu,Africa,Nigeria,1,Unemployed,6,9,70
+student2423@alx.edu,Africa,South Africa,5,Employed,31,65,100
+student2424@alx.edu,Africa,Kenya,7,Employed,21,42,95
+student2425@alx.edu,Africa,Rwanda,8,Unemployed,15,23,81
+student2426@alx.edu,Africa,Morocco,6,Unemployed,37,75,100
+student2427@alx.edu,Africa,Egypt,9,Unemployed,9,18,80
+student2428@alx.edu,Africa,Ghana,9,Unemployed,38,81,100
+student2429@alx.edu,Africa,Zimbabwe,1,Unemployed,16,29,95
+student2430@alx.edu,Africa,Ethiopia,4,Unemployed,36,63,100
+student2431@alx.edu,Africa,Nigeria,0,Employed,26,53,100
+student2432@alx.edu,Africa,South Africa,3,Unemployed,34,69,100
+student2433@alx.edu,Africa,Kenya,5,Unemployed,39,74,100
+student2434@alx.edu,Africa,Rwanda,9,Unemployed,15,27,78
+student2435@alx.edu,Africa,Morocco,8,Employed,39,86,100
+student2436@alx.edu,Africa,Egypt,1,Unemployed,19,36,100
+student2437@alx.edu,Africa,Ghana,1,Employed,18,39,100
+student2438@alx.edu,Africa,Zimbabwe,6,Unemployed,17,32,92
+student2439@alx.edu,Africa,Ethiopia,5,Unemployed,24,42,100
+student2440@alx.edu,Africa,Nigeria,3,Unemployed,10,20,80
+student2441@alx.edu,Africa,South Africa,9,Unemployed,24,48,100
+student2442@alx.edu,Africa,Kenya,9,Unemployed,24,47,100
+student2443@alx.edu,Africa,Rwanda,4,Unemployed,32,63,100
+student2444@alx.edu,Africa,Morocco,9,Employed,34,69,100
+student2445@alx.edu,Africa,Egypt,4,Unemployed,20,40,100
+student2446@alx.edu,Africa,Ghana,7,Unemployed,16,27,87
+student2447@alx.edu,Africa,Zimbabwe,5,Unemployed,14,30,82
+student2448@alx.edu,Africa,Ethiopia,1,Employed,12,18,79
+student2449@alx.edu,Africa,Nigeria,9,Unemployed,7,8,61
+student2450@alx.edu,Africa,South Africa,5,Employed,17,36,89
+student2451@alx.edu,Africa,Kenya,7,Unemployed,14,30,79
+student2452@alx.edu,Africa,Rwanda,4,Unemployed,39,77,100
+student2453@alx.edu,Africa,Morocco,0,Employed,25,45,100
+student2454@alx.edu,Africa,Egypt,1,Employed,17,32,99
+student2455@alx.edu,Africa,Ghana,5,Unemployed,25,50,100
+student2456@alx.edu,Africa,Zimbabwe,7,Employed,10,15,72
+student2457@alx.edu,Africa,Ethiopia,3,Employed,21,39,96
+student2458@alx.edu,Africa,Nigeria,7,Unemployed,27,56,100
+student2459@alx.edu,Africa,South Africa,7,Unemployed,22,49,100
+student2460@alx.edu,Africa,Kenya,7,Unemployed,19,37,87
+student2461@alx.edu,Africa,Rwanda,5,Employed,40,82,100
+student2462@alx.edu,Africa,Morocco,9,Unemployed,36,66,100
+student2463@alx.edu,Africa,Egypt,5,Unemployed,27,56,100
+student2464@alx.edu,Africa,Ghana,5,Employed,25,47,100
+student2465@alx.edu,Africa,Zimbabwe,2,Employed,27,54,100
+student2466@alx.edu,Africa,Ethiopia,3,Unemployed,12,23,86
+student2467@alx.edu,Africa,Nigeria,0,Employed,19,42,100
+student2468@alx.edu,Africa,South Africa,6,Employed,6,10,56
+student2469@alx.edu,Africa,Kenya,2,Employed,22,45,100
+student2470@alx.edu,Africa,Rwanda,3,Unemployed,24,47,100
+student2471@alx.edu,Africa,Morocco,8,Unemployed,13,25,70
+student2472@alx.edu,Africa,Egypt,3,Unemployed,39,77,100
+student2473@alx.edu,Africa,Ghana,2,Employed,37,71,100
+student2474@alx.edu,Africa,Zimbabwe,2,Unemployed,30,61,100
+student2475@alx.edu,Africa,Ethiopia,8,Unemployed,24,47,100
+student2476@alx.edu,Africa,Nigeria,1,Employed,35,72,100
+student2477@alx.edu,Africa,South Africa,5,Employed,10,19,72
+student2478@alx.edu,Africa,Kenya,5,Unemployed,33,68,100
+student2479@alx.edu,Africa,Rwanda,7,Employed,9,22,59
+student2480@alx.edu,Africa,Morocco,6,Unemployed,33,62,100
+student2481@alx.edu,Africa,Egypt,8,Unemployed,15,32,86
+student2482@alx.edu,Africa,Ghana,0,Unemployed,36,68,100
+student2483@alx.edu,Africa,Zimbabwe,3,Employed,38,78,100
+student2484@alx.edu,Africa,Ethiopia,3,Employed,10,22,71
+student2485@alx.edu,Africa,Nigeria,1,Unemployed,21,37,100
+student2486@alx.edu,Africa,South Africa,3,Unemployed,39,79,100
+student2487@alx.edu,Africa,Kenya,3,Unemployed,22,42,100
+student2488@alx.edu,Africa,Rwanda,5,Unemployed,35,68,100
+student2489@alx.edu,Africa,Morocco,7,Employed,26,55,100
+student2490@alx.edu,Africa,Egypt,4,Unemployed,18,34,94
+student2491@alx.edu,Africa,Ghana,7,Unemployed,15,28,80
+student2492@alx.edu,Africa,Zimbabwe,3,Employed,12,24,73
+student2493@alx.edu,Africa,Ethiopia,3,Unemployed,32,65,100
+student2494@alx.edu,Africa,Nigeria,5,Unemployed,19,37,100
+student2495@alx.edu,Africa,South Africa,0,Unemployed,23,49,100
+student2496@alx.edu,Africa,Kenya,1,Unemployed,22,46,100
+student2497@alx.edu,Africa,Rwanda,4,Unemployed,25,44,100
+student2498@alx.edu,Africa,Morocco,9,Employed,35,69,100
+student2499@alx.edu,Africa,Egypt,7,Employed,39,77,100
+student2500@alx.edu,Africa,Ghana,1,Employed,19,40,94
+student2501@alx.edu,Africa,Zimbabwe,8,Employed,34,60,100
+student2502@alx.edu,Africa,Ethiopia,7,Unemployed,32,71,100
+student2503@alx.edu,Africa,Nigeria,6,Employed,25,52,100
+student2504@alx.edu,Africa,South Africa,8,Employed,38,77,100
+student2505@alx.edu,Africa,Kenya,4,Employed,12,28,79
+student2506@alx.edu,Africa,Rwanda,2,Employed,9,25,71
+student2507@alx.edu,Africa,Morocco,5,Employed,35,72,100
+student2508@alx.edu,Africa,Egypt,5,Employed,20,44,100
+student2509@alx.edu,Africa,Ghana,5,Employed,35,70,100
+student2510@alx.edu,Africa,Zimbabwe,6,Employed,36,72,100
+student2511@alx.edu,Africa,Ethiopia,9,Unemployed,7,13,55
+student2512@alx.edu,Africa,Nigeria,9,Employed,36,69,100
+student2513@alx.edu,Africa,South Africa,9,Unemployed,21,39,92
+student2514@alx.edu,Africa,Kenya,8,Employed,23,42,100
+student2515@alx.edu,Africa,Rwanda,9,Employed,27,54,97
+student2516@alx.edu,Africa,Morocco,1,Employed,37,70,100
+student2517@alx.edu,Africa,Egypt,3,Unemployed,6,12,63
+student2518@alx.edu,Africa,Ghana,5,Unemployed,22,43,100
+student2519@alx.edu,Africa,Zimbabwe,8,Employed,29,59,100
+student2520@alx.edu,Africa,Ethiopia,5,Unemployed,30,59,100
+student2521@alx.edu,Africa,Nigeria,7,Employed,29,68,100
+student2522@alx.edu,Africa,South Africa,1,Unemployed,10,23,79
+student2523@alx.edu,Africa,Kenya,3,Unemployed,15,27,82
+student2524@alx.edu,Africa,Rwanda,7,Unemployed,18,36,86
+student2525@alx.edu,Africa,Morocco,2,Employed,33,64,100
+student2526@alx.edu,Africa,Egypt,4,Unemployed,15,26,94
+student2527@alx.edu,Africa,Ghana,3,Unemployed,12,21,83
+student2528@alx.edu,Africa,Zimbabwe,3,Employed,39,78,100
+student2529@alx.edu,Africa,Ethiopia,7,Unemployed,5,9,54
+student2530@alx.edu,Africa,Nigeria,4,Employed,40,83,100
+student2531@alx.edu,Africa,South Africa,6,Employed,29,60,100
+student2532@alx.edu,Africa,Kenya,1,Unemployed,34,72,100
+student2533@alx.edu,Africa,Rwanda,8,Employed,15,28,73
+student2534@alx.edu,Africa,Morocco,4,Unemployed,6,12,65
+student2535@alx.edu,Africa,Egypt,6,Unemployed,31,64,100
+student2536@alx.edu,Africa,Ghana,7,Employed,34,67,100
+student2537@alx.edu,Africa,Zimbabwe,2,Unemployed,31,60,100
+student2538@alx.edu,Africa,Ethiopia,9,Unemployed,10,25,61
+student2539@alx.edu,Africa,Nigeria,6,Employed,31,63,100
+student2540@alx.edu,Africa,South Africa,4,Employed,32,66,100
+student2541@alx.edu,Africa,Kenya,2,Unemployed,28,54,100
+student2542@alx.edu,Africa,Rwanda,9,Employed,32,60,100
+student2543@alx.edu,Africa,Morocco,8,Employed,35,68,100
+student2544@alx.edu,Africa,Egypt,2,Employed,26,53,100
+student2545@alx.edu,Africa,Ghana,3,Employed,8,13,74
+student2546@alx.edu,Africa,Zimbabwe,8,Unemployed,22,44,100
+student2547@alx.edu,Africa,Ethiopia,7,Unemployed,8,10,56
+student2548@alx.edu,Africa,Nigeria,8,Employed,19,35,90
+student2549@alx.edu,Africa,South Africa,4,Unemployed,19,41,100
+student2550@alx.edu,Africa,Kenya,7,Employed,7,16,61
+student2551@alx.edu,Africa,Rwanda,4,Employed,17,33,89
+student2552@alx.edu,Africa,Morocco,2,Unemployed,9,15,64
+student2553@alx.edu,Africa,Egypt,6,Unemployed,33,63,100
+student2554@alx.edu,Africa,Ghana,10,Unemployed,38,75,100
+student2555@alx.edu,Africa,Zimbabwe,3,Unemployed,8,17,67
+student2556@alx.edu,Africa,Ethiopia,5,Employed,38,80,100
+student2557@alx.edu,Africa,Nigeria,7,Employed,23,45,100
+student2558@alx.edu,Africa,South Africa,5,Unemployed,15,28,87
+student2559@alx.edu,Africa,Kenya,8,Employed,8,16,64
+student2560@alx.edu,Africa,Rwanda,8,Unemployed,23,43,100
+student2561@alx.edu,Africa,Morocco,1,Unemployed,33,64,100
+student2562@alx.edu,Africa,Egypt,10,Unemployed,30,63,100
+student2563@alx.edu,Africa,Ghana,8,Employed,7,16,55
+student2564@alx.edu,Africa,Zimbabwe,9,Employed,8,16,64
+student2565@alx.edu,Africa,Ethiopia,7,Unemployed,19,34,100
+student2566@alx.edu,Africa,Nigeria,9,Unemployed,15,31,84
+student2567@alx.edu,Africa,South Africa,1,Unemployed,13,29,83
+student2568@alx.edu,Africa,Kenya,3,Unemployed,15,29,83
+student2569@alx.edu,Africa,Rwanda,9,Employed,33,70,100
+student2570@alx.edu,Africa,Morocco,2,Employed,38,79,100
+student2571@alx.edu,Africa,Egypt,1,Unemployed,19,43,100
+student2572@alx.edu,Africa,Ghana,8,Unemployed,37,74,100
+student2573@alx.edu,Africa,Zimbabwe,8,Employed,16,34,81
+student2574@alx.edu,Africa,Ethiopia,2,Unemployed,22,48,100
+student2575@alx.edu,Africa,Nigeria,9,Employed,13,27,62
+student2576@alx.edu,Africa,South Africa,7,Employed,27,53,100
+student2577@alx.edu,Africa,Kenya,5,Unemployed,39,77,100
+student2578@alx.edu,Africa,Rwanda,8,Employed,26,53,100
+student2579@alx.edu,Africa,Morocco,4,Employed,18,31,87
+student2580@alx.edu,Africa,Egypt,2,Employed,28,55,100
+student2581@alx.edu,Africa,Ghana,3,Employed,9,22,73
+student2582@alx.edu,Africa,Zimbabwe,5,Unemployed,36,66,100
+student2583@alx.edu,Africa,Ethiopia,5,Employed,23,50,100
+student2584@alx.edu,Africa,Nigeria,8,Employed,21,45,98
+student2585@alx.edu,Africa,South Africa,8,Employed,26,50,100
+student2586@alx.edu,Africa,Kenya,6,Unemployed,27,55,100
+student2587@alx.edu,Africa,Rwanda,8,Unemployed,8,15,60
+student2588@alx.edu,Africa,Morocco,2,Unemployed,29,61,100
+student2589@alx.edu,Africa,Egypt,1,Employed,13,30,91
+student2590@alx.edu,Africa,Ghana,9,Unemployed,30,56,100
+student2591@alx.edu,Africa,Zimbabwe,1,Unemployed,34,69,100
+student2592@alx.edu,Africa,Ethiopia,2,Unemployed,33,66,100
+student2593@alx.edu,Africa,Nigeria,7,Employed,24,49,100
+student2594@alx.edu,Africa,South Africa,4,Unemployed,23,44,100
+student2595@alx.edu,Africa,Kenya,9,Unemployed,10,25,75
+student2596@alx.edu,Africa,Rwanda,3,Unemployed,32,67,100
+student2597@alx.edu,Africa,Morocco,0,Employed,14,27,95
+student2598@alx.edu,Africa,Egypt,3,Employed,22,41,100
+student2599@alx.edu,Africa,Ghana,6,Unemployed,15,29,91
+student2600@alx.edu,Africa,Zimbabwe,4,Unemployed,10,21,75
+student2601@alx.edu,Africa,Ethiopia,5,Unemployed,27,55,100
+student2602@alx.edu,Africa,Nigeria,9,Employed,7,18,49
+student2603@alx.edu,Africa,South Africa,9,Employed,31,65,100
+student2604@alx.edu,Africa,Kenya,3,Unemployed,16,35,100
+student2605@alx.edu,Africa,Rwanda,5,Employed,5,11,54
+student2606@alx.edu,Africa,Morocco,5,Unemployed,23,42,100
+student2607@alx.edu,Africa,Egypt,9,Employed,7,13,57
+student2608@alx.edu,Africa,Ghana,10,Unemployed,15,33,79
+student2609@alx.edu,Africa,Zimbabwe,2,Employed,30,59,100
+student2610@alx.edu,Africa,Ethiopia,7,Unemployed,7,16,47
+student2611@alx.edu,Africa,Nigeria,4,Employed,34,68,100
+student2612@alx.edu,Africa,South Africa,0,Unemployed,5,7,59
+student2613@alx.edu,Africa,Kenya,0,Unemployed,14,27,86
+student2614@alx.edu,Africa,Rwanda,5,Unemployed,31,63,100
+student2615@alx.edu,Africa,Morocco,5,Unemployed,16,30,91
+student2616@alx.edu,Africa,Egypt,0,Employed,9,16,74
+student2617@alx.edu,Africa,Ghana,7,Unemployed,18,32,94
+student2618@alx.edu,Africa,Zimbabwe,3,Employed,14,32,83
+student2619@alx.edu,Africa,Ethiopia,6,Employed,34,68,100
+student2620@alx.edu,Africa,Nigeria,3,Unemployed,16,36,98
+student2621@alx.edu,Africa,South Africa,2,Unemployed,33,70,100
+student2622@alx.edu,Africa,Kenya,4,Unemployed,36,72,100
+student2623@alx.edu,Africa,Rwanda,2,Unemployed,20,37,100
+student2624@alx.edu,Africa,Morocco,5,Employed,37,67,100
+student2625@alx.edu,Africa,Egypt,2,Employed,18,32,100
+student2626@alx.edu,Africa,Ghana,5,Employed,39,73,100
+student2627@alx.edu,Africa,Zimbabwe,2,Employed,8,20,74
+student2628@alx.edu,Africa,Ethiopia,7,Unemployed,29,58,100
+student2629@alx.edu,Africa,Nigeria,8,Employed,22,46,100
+student2630@alx.edu,Africa,South Africa,1,Unemployed,19,30,100
+student2631@alx.edu,Africa,Kenya,5,Unemployed,27,51,100
+student2632@alx.edu,Africa,Rwanda,1,Employed,30,62,100
+student2633@alx.edu,Africa,Morocco,6,Employed,5,11,55
+student2634@alx.edu,Africa,Egypt,3,Employed,11,21,82
+student2635@alx.edu,Africa,Ghana,5,Employed,30,62,100
+student2636@alx.edu,Africa,Zimbabwe,5,Employed,28,62,100
+student2637@alx.edu,Africa,Ethiopia,9,Employed,39,77,100
+student2638@alx.edu,Africa,Nigeria,5,Unemployed,32,63,100
+student2639@alx.edu,Africa,South Africa,6,Unemployed,38,77,100
+student2640@alx.edu,Africa,Kenya,4,Unemployed,30,66,100
+student2641@alx.edu,Africa,Rwanda,9,Employed,15,25,82
+student2642@alx.edu,Africa,Morocco,8,Unemployed,9,19,71
+student2643@alx.edu,Africa,Egypt,3,Unemployed,32,64,100
+student2644@alx.edu,Africa,Ghana,8,Unemployed,28,57,100
+student2645@alx.edu,Africa,Zimbabwe,4,Unemployed,7,11,65
+student2646@alx.edu,Africa,Ethiopia,8,Unemployed,18,35,80
+student2647@alx.edu,Africa,Nigeria,8,Unemployed,38,79,100
+student2648@alx.edu,Africa,South Africa,2,Employed,23,54,100
+student2649@alx.edu,Africa,Kenya,7,Employed,20,43,99
+student2650@alx.edu,Africa,Rwanda,3,Employed,21,39,99
+student2651@alx.edu,Africa,Morocco,3,Unemployed,12,23,76
+student2652@alx.edu,Africa,Egypt,3,Employed,18,34,100
+student2653@alx.edu,Africa,Ghana,7,Employed,18,30,93
+student2654@alx.edu,Africa,Zimbabwe,2,Unemployed,7,13,67
+student2655@alx.edu,Africa,Ethiopia,0,Employed,32,66,100
+student2656@alx.edu,Africa,Nigeria,7,Unemployed,20,35,95
+student2657@alx.edu,Africa,South Africa,2,Employed,34,71,100
+student2658@alx.edu,Africa,Kenya,1,Unemployed,35,71,100
+student2659@alx.edu,Africa,Rwanda,2,Unemployed,12,23,88
+student2660@alx.edu,Africa,Morocco,4,Employed,28,56,100
+student2661@alx.edu,Africa,Egypt,5,Unemployed,22,48,100
+student2662@alx.edu,Africa,Ghana,0,Employed,36,74,100
+student2663@alx.edu,Africa,Zimbabwe,10,Unemployed,13,25,70
+student2664@alx.edu,Africa,Ethiopia,7,Employed,29,57,100
+student2665@alx.edu,Africa,Nigeria,3,Employed,26,53,100
+student2666@alx.edu,Africa,South Africa,3,Unemployed,15,29,93
+student2667@alx.edu,Africa,Kenya,4,Employed,10,13,73
+student2668@alx.edu,Africa,Rwanda,6,Employed,28,62,100
+student2669@alx.edu,Africa,Morocco,1,Employed,31,62,100
+student2670@alx.edu,Africa,Egypt,2,Unemployed,16,33,98
+student2671@alx.edu,Africa,Ghana,9,Unemployed,28,55,100
+student2672@alx.edu,Africa,Zimbabwe,3,Employed,19,35,100
+student2673@alx.edu,Africa,Ethiopia,4,Employed,30,59,100
+student2674@alx.edu,Africa,Nigeria,9,Unemployed,12,19,76
+student2675@alx.edu,Africa,South Africa,7,Unemployed,36,79,100
+student2676@alx.edu,Africa,Kenya,3,Employed,15,26,80
+student2677@alx.edu,Africa,Rwanda,7,Unemployed,18,33,90
+student2678@alx.edu,Africa,Morocco,0,Unemployed,7,13,65
+student2679@alx.edu,Africa,Egypt,7,Employed,9,22,67
+student2680@alx.edu,Africa,Ghana,5,Unemployed,23,46,100
+student2681@alx.edu,Africa,Zimbabwe,8,Unemployed,14,25,91
+student2682@alx.edu,Africa,Ethiopia,10,Unemployed,34,72,100
+student2683@alx.edu,Africa,Nigeria,9,Employed,6,13,51
+student2684@alx.edu,Africa,South Africa,9,Unemployed,18,38,96
+student2685@alx.edu,Africa,Kenya,5,Employed,17,36,83
+student2686@alx.edu,Africa,Rwanda,4,Unemployed,6,19,78
+student2687@alx.edu,Africa,Morocco,5,Unemployed,9,25,71
+student2688@alx.edu,Africa,Egypt,7,Employed,19,37,93
+student2689@alx.edu,Africa,Ghana,9,Employed,22,49,94
+student2690@alx.edu,Africa,Zimbabwe,2,Employed,19,39,100
+student2691@alx.edu,Africa,Ethiopia,9,Employed,24,49,99
+student2692@alx.edu,Africa,Nigeria,8,Unemployed,26,47,100
+student2693@alx.edu,Africa,South Africa,10,Employed,5,10,45
+student2694@alx.edu,Africa,Kenya,9,Employed,21,40,91
+student2695@alx.edu,Africa,Rwanda,3,Employed,39,80,100
+student2696@alx.edu,Africa,Morocco,1,Unemployed,23,50,100
+student2697@alx.edu,Africa,Egypt,1,Unemployed,29,51,100
+student2698@alx.edu,Africa,Ghana,3,Employed,16,32,87
+student2699@alx.edu,Africa,Zimbabwe,6,Employed,32,68,100
+student2700@alx.edu,Africa,Ethiopia,8,Employed,32,64,100
+student2701@alx.edu,Africa,Nigeria,9,Employed,23,49,100
+student2702@alx.edu,Africa,South Africa,6,Unemployed,39,79,100
+student2703@alx.edu,Africa,Kenya,0,Employed,9,20,74
+student2704@alx.edu,Africa,Rwanda,2,Unemployed,6,10,64
+student2705@alx.edu,Africa,Morocco,1,Employed,32,60,100
+student2706@alx.edu,Africa,Egypt,4,Employed,33,63,100
+student2707@alx.edu,Africa,Ghana,5,Unemployed,9,21,72
+student2708@alx.edu,Africa,Zimbabwe,0,Employed,14,29,94
+student2709@alx.edu,Africa,Ethiopia,3,Employed,6,11,57
+student2710@alx.edu,Africa,Nigeria,2,Employed,15,29,96
+student2711@alx.edu,Africa,South Africa,6,Employed,32,63,100
+student2712@alx.edu,Africa,Kenya,5,Unemployed,23,49,100
+student2713@alx.edu,Africa,Rwanda,5,Employed,17,33,100
+student2714@alx.edu,Africa,Morocco,4,Employed,18,32,83
+student2715@alx.edu,Africa,Egypt,10,Unemployed,5,12,48
+student2716@alx.edu,Africa,Ghana,2,Employed,15,30,87
+student2717@alx.edu,Africa,Zimbabwe,5,Unemployed,28,55,100
+student2718@alx.edu,Africa,Ethiopia,7,Employed,39,83,100
+student2719@alx.edu,Africa,Nigeria,6,Employed,35,69,100
+student2720@alx.edu,Africa,South Africa,9,Employed,6,13,49
+student2721@alx.edu,Africa,Kenya,4,Unemployed,36,69,100
+student2722@alx.edu,Africa,Rwanda,5,Unemployed,32,64,100
+student2723@alx.edu,Africa,Morocco,1,Employed,32,66,100
+student2724@alx.edu,Africa,Egypt,6,Unemployed,21,37,100
+student2725@alx.edu,Africa,Ghana,3,Employed,19,38,100
+student2726@alx.edu,Africa,Zimbabwe,2,Unemployed,16,32,93
+student2727@alx.edu,Africa,Ethiopia,5,Employed,7,15,60
+student2728@alx.edu,Africa,Nigeria,5,Unemployed,13,29,86
+student2729@alx.edu,Africa,South Africa,1,Employed,14,28,89
+student2730@alx.edu,Africa,Kenya,7,Unemployed,22,48,100
+student2731@alx.edu,Africa,Rwanda,6,Unemployed,31,59,100
+student2732@alx.edu,Africa,Morocco,2,Unemployed,22,44,97
+student2733@alx.edu,Africa,Egypt,5,Unemployed,7,14,67
+student2734@alx.edu,Africa,Ghana,7,Employed,39,74,100
+student2735@alx.edu,Africa,Zimbabwe,5,Employed,38,79,100
+student2736@alx.edu,Africa,Ethiopia,4,Unemployed,32,72,100
+student2737@alx.edu,Africa,Nigeria,3,Employed,40,79,100
+student2738@alx.edu,Africa,South Africa,6,Unemployed,24,50,100
+student2739@alx.edu,Africa,Kenya,9,Employed,39,78,100
+student2740@alx.edu,Africa,Rwanda,7,Unemployed,8,13,60
+student2741@alx.edu,Africa,Morocco,1,Employed,18,30,98
+student2742@alx.edu,Africa,Egypt,5,Employed,13,24,86
+student2743@alx.edu,Africa,Ghana,9,Unemployed,12,20,59
+student2744@alx.edu,Africa,Zimbabwe,1,Unemployed,10,25,77
+student2745@alx.edu,Africa,Ethiopia,10,Unemployed,27,53,100
+student2746@alx.edu,Africa,Nigeria,9,Unemployed,32,64,100
+student2747@alx.edu,Africa,South Africa,1,Unemployed,25,53,100
+student2748@alx.edu,Africa,Kenya,9,Employed,10,17,60
+student2749@alx.edu,Africa,Rwanda,4,Unemployed,33,64,100
+student2750@alx.edu,Africa,Morocco,8,Employed,27,55,100
+student2751@alx.edu,Africa,Egypt,4,Unemployed,19,40,100
+student2752@alx.edu,Africa,Ghana,4,Employed,29,59,100
+student2753@alx.edu,Africa,Zimbabwe,6,Employed,14,29,81
+student2754@alx.edu,Africa,Ethiopia,8,Unemployed,17,34,86
+student2755@alx.edu,Africa,Nigeria,0,Unemployed,37,75,100
+student2756@alx.edu,Africa,South Africa,6,Employed,15,31,81
+student2757@alx.edu,Africa,Kenya,2,Employed,21,40,100
+student2758@alx.edu,Africa,Rwanda,3,Unemployed,36,72,100
+student2759@alx.edu,Africa,Morocco,3,Employed,30,56,100
+student2760@alx.edu,Africa,Egypt,5,Employed,7,15,62
+student2761@alx.edu,Africa,Ghana,3,Employed,10,19,65
+student2762@alx.edu,Africa,Zimbabwe,1,Employed,5,18,76
+student2763@alx.edu,Africa,Ethiopia,1,Employed,27,54,100
+student2764@alx.edu,Africa,Nigeria,0,Employed,21,37,100
+student2765@alx.edu,Africa,South Africa,5,Unemployed,10,19,72
+student2766@alx.edu,Africa,Kenya,10,Unemployed,39,79,100
+student2767@alx.edu,Africa,Rwanda,1,Unemployed,24,52,100
+student2768@alx.edu,Africa,Morocco,9,Unemployed,13,25,71
+student2769@alx.edu,Africa,Egypt,7,Employed,23,40,96
+student2770@alx.edu,Africa,Ghana,6,Unemployed,29,60,100
+student2771@alx.edu,Africa,Zimbabwe,6,Employed,8,11,68
+student2772@alx.edu,Africa,Ethiopia,8,Employed,15,28,78
+student2773@alx.edu,Africa,Nigeria,1,Unemployed,33,66,100
+student2774@alx.edu,Africa,South Africa,5,Unemployed,21,42,100
+student2775@alx.edu,Africa,Kenya,7,Employed,24,50,100
+student2776@alx.edu,Africa,Rwanda,6,Unemployed,20,38,87
+student2777@alx.edu,Africa,Morocco,8,Unemployed,7,12,55
+student2778@alx.edu,Africa,Egypt,1,Employed,11,22,85
+student2779@alx.edu,Africa,Ghana,7,Employed,21,42,96
+student2780@alx.edu,Africa,Zimbabwe,5,Employed,12,25,85
+student2781@alx.edu,Africa,Ethiopia,4,Employed,7,15,70
+student2782@alx.edu,Africa,Nigeria,3,Employed,35,72,100
+student2783@alx.edu,Africa,South Africa,6,Employed,39,80,100
+student2784@alx.edu,Africa,Kenya,9,Unemployed,33,67,100
+student2785@alx.edu,Africa,Rwanda,5,Unemployed,35,65,100
+student2786@alx.edu,Africa,Morocco,8,Unemployed,13,27,72
+student2787@alx.edu,Africa,Egypt,4,Employed,39,79,100
+student2788@alx.edu,Africa,Ghana,1,Employed,12,26,75
+student2789@alx.edu,Africa,Zimbabwe,1,Unemployed,38,75,100
+student2790@alx.edu,Africa,Ethiopia,1,Unemployed,40,78,100
+student2791@alx.edu,Africa,Nigeria,4,Unemployed,30,58,100
+student2792@alx.edu,Africa,South Africa,3,Employed,39,80,100
+student2793@alx.edu,Africa,Kenya,7,Unemployed,25,53,100
+student2794@alx.edu,Africa,Rwanda,7,Unemployed,14,27,84
+student2795@alx.edu,Africa,Morocco,1,Unemployed,20,43,100
+student2796@alx.edu,Africa,Egypt,2,Employed,26,52,100
+student2797@alx.edu,Africa,Ghana,3,Unemployed,8,15,74
+student2798@alx.edu,Africa,Zimbabwe,5,Unemployed,27,53,100
+student2799@alx.edu,Africa,Ethiopia,1,Employed,39,81,100
+student2800@alx.edu,Africa,Nigeria,1,Employed,12,24,81
+student2801@alx.edu,Africa,South Africa,9,Employed,33,72,100
+student2802@alx.edu,Africa,Kenya,8,Employed,37,71,100
+student2803@alx.edu,Africa,Rwanda,2,Employed,38,78,100
+student2804@alx.edu,Africa,Morocco,4,Unemployed,39,76,100
+student2805@alx.edu,Africa,Egypt,4,Unemployed,23,44,100
+student2806@alx.edu,Africa,Ghana,8,Employed,39,78,100
+student2807@alx.edu,Africa,Zimbabwe,5,Employed,32,63,100
+student2808@alx.edu,Africa,Ethiopia,1,Employed,11,30,90
+student2809@alx.edu,Africa,Nigeria,7,Employed,22,43,100
+student2810@alx.edu,Africa,South Africa,4,Unemployed,30,57,100
+student2811@alx.edu,Africa,Kenya,3,Unemployed,14,28,86
+student2812@alx.edu,Africa,Rwanda,4,Employed,27,49,100
+student2813@alx.edu,Africa,Morocco,5,Employed,28,56,100
+student2814@alx.edu,Africa,Egypt,3,Employed,11,21,70
+student2815@alx.edu,Africa,Ghana,2,Employed,25,52,100
+student2816@alx.edu,Africa,Zimbabwe,4,Unemployed,32,67,100
+student2817@alx.edu,Africa,Ethiopia,0,Employed,22,43,100
+student2818@alx.edu,Africa,Nigeria,8,Employed,5,10,54
+student2819@alx.edu,Africa,South Africa,2,Unemployed,5,8,57
+student2820@alx.edu,Africa,Kenya,0,Employed,17,32,100
+student2821@alx.edu,Africa,Rwanda,7,Unemployed,37,76,100
+student2822@alx.edu,Africa,Morocco,8,Employed,13,22,72
+student2823@alx.edu,Africa,Egypt,8,Employed,27,53,100
+student2824@alx.edu,Africa,Ghana,5,Unemployed,13,23,79
+student2825@alx.edu,Africa,Zimbabwe,2,Employed,16,34,92
+student2826@alx.edu,Africa,Ethiopia,7,Unemployed,35,75,100
+student2827@alx.edu,Africa,Nigeria,7,Unemployed,31,57,100
+student2828@alx.edu,Africa,South Africa,2,Unemployed,8,11,69
+student2829@alx.edu,Africa,Kenya,9,Employed,20,40,93
+student2830@alx.edu,Africa,Rwanda,1,Employed,6,12,63
+student2831@alx.edu,Africa,Morocco,10,Unemployed,22,44,100
+student2832@alx.edu,Africa,Egypt,9,Employed,28,55,100
+student2833@alx.edu,Africa,Ghana,7,Employed,9,18,68
+student2834@alx.edu,Africa,Zimbabwe,9,Employed,15,31,82
+student2835@alx.edu,Africa,Ethiopia,7,Unemployed,19,41,100
+student2836@alx.edu,Africa,Nigeria,2,Unemployed,37,69,100
+student2837@alx.edu,Africa,South Africa,4,Employed,40,78,100
+student2838@alx.edu,Africa,Kenya,1,Unemployed,7,14,61
+student2839@alx.edu,Africa,Rwanda,4,Employed,32,61,100
+student2840@alx.edu,Africa,Morocco,7,Employed,18,41,100
+student2841@alx.edu,Africa,Egypt,4,Employed,19,36,92
+student2842@alx.edu,Africa,Ghana,3,Unemployed,31,63,100
+student2843@alx.edu,Africa,Zimbabwe,6,Unemployed,37,76,100
+student2844@alx.edu,Africa,Ethiopia,9,Employed,38,75,100
+student2845@alx.edu,Africa,Nigeria,0,Unemployed,25,45,100
+student2846@alx.edu,Africa,South Africa,4,Employed,17,34,100
+student2847@alx.edu,Africa,Kenya,2,Unemployed,33,68,100
+student2848@alx.edu,Africa,Rwanda,7,Unemployed,14,27,82
+student2849@alx.edu,Africa,Morocco,1,Unemployed,25,47,100
+student2850@alx.edu,Africa,Egypt,7,Employed,18,38,95
+student2851@alx.edu,Africa,Ghana,3,Employed,28,55,100
+student2852@alx.edu,Africa,Zimbabwe,2,Employed,13,25,84
+student2853@alx.edu,Africa,Ethiopia,9,Unemployed,12,24,71
+student2854@alx.edu,Africa,Nigeria,0,Employed,37,77,100
+student2855@alx.edu,Africa,South Africa,4,Employed,9,24,69
+student2856@alx.edu,Africa,Kenya,0,Employed,23,48,100
+student2857@alx.edu,Africa,Rwanda,5,Employed,13,29,80
+student2858@alx.edu,Africa,Morocco,5,Unemployed,6,11,55
+student2859@alx.edu,Africa,Egypt,3,Unemployed,6,9,53
+student2860@alx.edu,Africa,Ghana,1,Employed,11,22,82
+student2861@alx.edu,Africa,Zimbabwe,4,Unemployed,35,71,100
+student2862@alx.edu,Africa,Ethiopia,7,Unemployed,15,27,85
+student2863@alx.edu,Africa,Nigeria,8,Unemployed,38,76,100
+student2864@alx.edu,Africa,South Africa,5,Unemployed,25,52,100
+student2865@alx.edu,Africa,Kenya,6,Unemployed,20,42,95
+student2866@alx.edu,Africa,Rwanda,2,Employed,25,52,100
+student2867@alx.edu,Africa,Morocco,3,Unemployed,23,47,100
+student2868@alx.edu,Africa,Egypt,2,Employed,32,62,100
+student2869@alx.edu,Africa,Ghana,2,Employed,15,28,87
+student2870@alx.edu,Africa,Zimbabwe,2,Employed,17,31,91
+student2871@alx.edu,Africa,Ethiopia,5,Unemployed,36,78,100
+student2872@alx.edu,Africa,Nigeria,6,Unemployed,38,76,100
+student2873@alx.edu,Africa,South Africa,9,Unemployed,36,72,100
+student2874@alx.edu,Africa,Kenya,2,Unemployed,20,37,100
+student2875@alx.edu,Africa,Rwanda,6,Employed,32,73,100
+student2876@alx.edu,Africa,Morocco,8,Employed,22,40,100
+student2877@alx.edu,Africa,Egypt,6,Employed,22,44,100
+student2878@alx.edu,Africa,Ghana,3,Unemployed,12,26,87
+student2879@alx.edu,Africa,Zimbabwe,3,Employed,26,53,100
+student2880@alx.edu,Africa,Ethiopia,0,Employed,12,26,90
+student2881@alx.edu,Africa,Nigeria,3,Employed,17,39,100
+student2882@alx.edu,Africa,South Africa,7,Unemployed,35,71,100
+student2883@alx.edu,Africa,Kenya,0,Employed,12,21,88
+student2884@alx.edu,Africa,Rwanda,2,Employed,7,14,63
+student2885@alx.edu,Africa,Morocco,7,Unemployed,7,16,53
+student2886@alx.edu,Africa,Egypt,8,Employed,38,82,100
+student2887@alx.edu,Africa,Ghana,5,Unemployed,23,41,100
+student2888@alx.edu,Africa,Zimbabwe,7,Employed,19,42,89
+student2889@alx.edu,Africa,Ethiopia,4,Unemployed,33,67,100
+student2890@alx.edu,Africa,Nigeria,2,Unemployed,34,71,100
+student2891@alx.edu,Africa,South Africa,4,Unemployed,17,33,91
+student2892@alx.edu,Africa,Kenya,6,Employed,29,56,100
+student2893@alx.edu,Africa,Rwanda,9,Employed,32,66,100
+student2894@alx.edu,Africa,Morocco,1,Unemployed,28,58,100
+student2895@alx.edu,Africa,Egypt,5,Unemployed,10,24,68
+student2896@alx.edu,Africa,Ghana,3,Unemployed,36,71,100
+student2897@alx.edu,Africa,Zimbabwe,5,Unemployed,24,46,100
+student2898@alx.edu,Africa,Ethiopia,0,Unemployed,15,25,96
+student2899@alx.edu,Africa,Nigeria,3,Unemployed,20,42,100
+student2900@alx.edu,Africa,South Africa,8,Unemployed,6,14,51
+student2901@alx.edu,Africa,Kenya,6,Unemployed,9,16,67
+student2902@alx.edu,Africa,Rwanda,5,Unemployed,32,62,100
+student2903@alx.edu,Africa,Morocco,3,Unemployed,5,9,63
+student2904@alx.edu,Africa,Egypt,3,Unemployed,20,35,100
+student2905@alx.edu,Africa,Ghana,4,Unemployed,23,44,100
+student2906@alx.edu,Africa,Zimbabwe,8,Employed,7,10,56
+student2907@alx.edu,Africa,Ethiopia,10,Unemployed,39,77,100
+student2908@alx.edu,Africa,Nigeria,4,Employed,13,24,81
+student2909@alx.edu,Africa,South Africa,4,Employed,16,26,83
+student2910@alx.edu,Africa,Kenya,8,Employed,16,37,77
+student2911@alx.edu,Africa,Rwanda,4,Unemployed,13,30,88
+student2912@alx.edu,Africa,Morocco,6,Employed,5,8,59
+student2913@alx.edu,Africa,Egypt,2,Unemployed,31,62,100
+student2914@alx.edu,Africa,Ghana,7,Employed,39,79,100
+student2915@alx.edu,Africa,Zimbabwe,5,Unemployed,13,29,91
+student2916@alx.edu,Africa,Ethiopia,8,Unemployed,28,54,100
+student2917@alx.edu,Africa,Nigeria,8,Employed,31,65,100
+student2918@alx.edu,Africa,South Africa,2,Employed,35,68,100
+student2919@alx.edu,Africa,Kenya,7,Unemployed,20,36,94
+student2920@alx.edu,Africa,Rwanda,8,Employed,16,33,80
+student2921@alx.edu,Africa,Morocco,3,Unemployed,16,37,98
+student2922@alx.edu,Africa,Egypt,2,Unemployed,30,68,100
+student2923@alx.edu,Africa,Egypt,0,Unemployed,34,64,100
+student2924@alx.edu,Africa,Zimbabwe,5,Employed,11,25,75
+student2925@alx.edu,Africa,Ethiopia,4,Unemployed,18,35,98
+student2926@alx.edu,Africa,Nigeria,6,Unemployed,37,75,100
+student2927@alx.edu,Africa,South Africa,2,Unemployed,33,62,100
+student2928@alx.edu,Africa,Kenya,9,Unemployed,39,75,100
+student2929@alx.edu,Africa,Rwanda,3,Employed,31,60,100
+student2930@alx.edu,Africa,Morocco,2,Employed,19,38,95
+student2931@alx.edu,Africa,Egypt,5,Employed,26,49,100
+student2932@alx.edu,Africa,Ghana,5,Employed,28,58,100
+student2933@alx.edu,Africa,Zimbabwe,2,Unemployed,8,19,72
+student2934@alx.edu,Africa,Ethiopia,3,Unemployed,24,50,100
+student2935@alx.edu,Africa,Nigeria,2,Unemployed,30,65,100
+student2936@alx.edu,Africa,South Africa,7,Unemployed,11,23,66
+student2937@alx.edu,Africa,Kenya,8,Unemployed,32,61,100
+student2938@alx.edu,Africa,Rwanda,5,Unemployed,25,55,100
+student2939@alx.edu,Africa,Morocco,7,Employed,38,75,100
+student2940@alx.edu,Africa,Egypt,7,Unemployed,6,16,61
+student2941@alx.edu,Africa,Ghana,1,Unemployed,14,33,99
+student2942@alx.edu,Africa,Zimbabwe,10,Unemployed,26,53,100
+student2943@alx.edu,Africa,Ethiopia,8,Employed,15,26,76
+student2944@alx.edu,Africa,Nigeria,2,Unemployed,30,57,100
+student2945@alx.edu,Africa,South Africa,2,Unemployed,32,67,100
+student2946@alx.edu,Africa,Kenya,1,Unemployed,9,17,79
+student2947@alx.edu,Africa,Rwanda,1,Employed,23,46,100
+student2948@alx.edu,Africa,Morocco,7,Unemployed,23,48,100
+student2949@alx.edu,Africa,Egypt,5,Unemployed,18,38,100
+student2950@alx.edu,Africa,Ghana,8,Employed,38,76,100
+student2951@alx.edu,Africa,Zimbabwe,7,Unemployed,34,67,100
+student2952@alx.edu,Africa,Ethiopia,6,Employed,29,58,100
+student2953@alx.edu,Africa,Nigeria,7,Unemployed,30,63,100
+student2954@alx.edu,Africa,South Africa,0,Employed,21,44,100
+student2955@alx.edu,Africa,Kenya,3,Unemployed,37,74,100
+student2956@alx.edu,Africa,Rwanda,6,Unemployed,29,62,100
+student2957@alx.edu,Africa,Morocco,0,Employed,31,61,100
+student2958@alx.edu,Africa,Egypt,0,Unemployed,35,68,100
+student2959@alx.edu,Africa,Ghana,9,Unemployed,15,27,88
+student2960@alx.edu,Africa,Zimbabwe,7,Employed,33,64,100
+student2961@alx.edu,Africa,Ethiopia,3,Unemployed,12,23,83
+student2962@alx.edu,Africa,Nigeria,7,Employed,17,38,85
+student2963@alx.edu,Africa,South Africa,8,Unemployed,17,31,85
+student2964@alx.edu,Africa,Kenya,3,Employed,39,79,100
+student2965@alx.edu,Africa,Rwanda,0,Unemployed,35,68,100
+student2966@alx.edu,Africa,Morocco,9,Unemployed,30,58,100
+student2967@alx.edu,Africa,Egypt,3,Employed,30,56,100
+student2968@alx.edu,Africa,Ghana,1,Unemployed,25,49,100
+student2969@alx.edu,Africa,Zimbabwe,5,Employed,38,76,100
+student2970@alx.edu,Africa,Ethiopia,8,Employed,22,46,100
+student2971@alx.edu,Africa,Nigeria,2,Employed,18,37,97
+student2972@alx.edu,Africa,South Africa,3,Unemployed,11,18,77
+student2973@alx.edu,Africa,Kenya,2,Unemployed,33,68,100
+student2974@alx.edu,Africa,Rwanda,10,Unemployed,31,62,100
+student2975@alx.edu,Africa,Morocco,2,Employed,18,38,99
+student2976@alx.edu,Africa,Egypt,6,Employed,6,12,54
+student2977@alx.edu,Africa,Ghana,9,Employed,34,67,100
+student2978@alx.edu,Africa,Zimbabwe,1,Unemployed,5,11,61
+student2979@alx.edu,Africa,Ethiopia,10,Employed,30,61,100
+student2980@alx.edu,Africa,Nigeria,9,Unemployed,39,73,100
+student2981@alx.edu,Africa,South Africa,9,Unemployed,20,39,92
+student2982@alx.edu,Africa,Kenya,2,Unemployed,13,26,85
+student2983@alx.edu,Africa,Rwanda,6,Unemployed,30,60,100
+student2984@alx.edu,Africa,Morocco,8,Unemployed,34,71,100
+student2985@alx.edu,Africa,Egypt,10,Unemployed,24,46,100
+student2986@alx.edu,Africa,Ghana,2,Unemployed,39,76,100
+student2987@alx.edu,Africa,Zimbabwe,8,Unemployed,7,12,50
+student2988@alx.edu,Africa,Ethiopia,3,Employed,23,43,100
+student2989@alx.edu,Africa,Nigeria,2,Unemployed,30,59,100
+student2990@alx.edu,Africa,South Africa,4,Unemployed,35,73,100
+student2991@alx.edu,Africa,Kenya,8,Employed,11,19,56
+student2992@alx.edu,Africa,Rwanda,5,Employed,33,67,100
+student2993@alx.edu,Africa,Morocco,5,Employed,24,44,100
+student2994@alx.edu,Africa,Egypt,10,Employed,19,36,100
+student2995@alx.edu,Africa,Ghana,4,Unemployed,10,18,75
+student2996@alx.edu,Africa,Zimbabwe,6,Employed,35,76,100
+student2997@alx.edu,Africa,Ethiopia,4,Employed,11,20,69
+student2998@alx.edu,Africa,Nigeria,4,Employed,16,25,85
+student2999@alx.edu,Africa,South Africa,7,Employed,15,24,80
+student3000@alx.edu,Africa,Kenya,9,Unemployed,35,71,100
+student1@alx.edu,Africa,Nigeria,7,Employed,18,39,91
+student2@alx.edu,Africa,South Africa,9,Employed,38,78,100
+student3@alx.edu,Africa,Kenya,9,Employed,31,63,100
+student4@alx.edu,Africa,Rwanda,8,Unemployed,26,48,100
+student2993@alx.edu,Africa,Morocco,5,Employed,24,44,100
+student2994@alx.edu,Africa,Egypt,10,Employed,19,36,100
+student2995@alx.edu,Africa,Ghana,4,Unemployed,10,18,75
+student2996@alx.edu,Africa,Zimbabwe,6,Employed,35,76,100
+student2997@alx.edu,Africa,Ethiopia,4,Employed,11,20,69
+student2998@alx.edu,Africa,Nigeria,4,Employed,16,25,85
+student2889@alx.edu,Africa,Ethiopia,4,Unemployed,33,67,100
+student2890@alx.edu,Africa,Nigeria,2,Unemployed,34,71,100
+student2891@alx.edu,Africa,South Africa,4,Unemployed,17,33,91
+student2892@alx.edu,Africa,Kenya,6,Employed,29,56,100
+student2811@alx.edu,Africa,Kenya,3,Unemployed,14,28,86
+student2812@alx.edu,Africa,Rwanda,4,Employed,27,49,100
+student2813@alx.edu,Africa,Morocco,5,Employed,28,56,100
